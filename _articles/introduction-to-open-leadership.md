@@ -7,6 +7,7 @@ contents:
   - _articles/introduction-to-open-leadership/understanding-the-project-lead-role.md
   - _articles/introduction-to-open-leadership/getting-to-know-mozilla-and-the-leadership-network.md
   - _articles/introduction-to-open-leadership/stating-your-project-vision.md
+following: _articles/introduction-to-open-leadership/introduction-to-working-open.md
 ---
 
 **Before you start this section, be sure to read the Series README file, for information about how this training series is structured, and what you’ll need to begin.**
