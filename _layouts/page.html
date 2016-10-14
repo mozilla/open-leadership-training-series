@@ -7,6 +7,9 @@ layout: default
         {% if page.subtitle %}<small>{{ page.subtitle }}</small>{% endif %}
     </h2>
 </div>
+{% if page.time %}
+  <p>Time to complete: {{page.time}}<p>
+{% endif %}
 
 {{ content }}
 
