@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<div class="page-header">
+    <h2>{{ page.title }}
+        {% if page.subtitle %}<small>{{ page.subtitle }}</small>{% endif %}
+    </h2>
+</div>
+
+{{ content }}
+
+
+{% if page.following %}
+ {% assign next = site.articles | where: "path", page.following | first %}
+<div class="color-box">
+<h4>Read next</h4>
+<p><a  href="{{ next.url | prepend: site.baseurl }}">{{ next.title }}</a></p>
+</div>
+<br />
+{% endif %}
+
+ <a class="btn btn-lg btn-default" href="https://github.com/{{ site.github.repo }}/edit/{{ site.github.branch }}/{{ page.path }}">Improve this page</a>
