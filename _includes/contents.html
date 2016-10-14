@@ -1,9 +1,18 @@
-<ul class="list-unstyled">
+{% if include.item %}
+  {% assign item = include.item %}
+{% else %}
+  {% assign item = site.pages | where: "path", "contents.html" | first %}
+{% endif %}
+
+<ul class="small">
 {% for path in item.contents %}
   {% assign subpage = site.articles | where: "path", path | first %}
   <li{% if page.url contains subpage.url %} class="selected"{% endif %}>
     <a class="{% if page.url == subpage.url %} current{% endif %}"
       href="{{ subpage.url | prepend: site.baseurl }}">{{ subpage.title }}</a>
+      {% if subpage.time %}
+      ({{ subpage.time }})
+      {% endif %}
   </li>
 {% endfor %}
 </ul>

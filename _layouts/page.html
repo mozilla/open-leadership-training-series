@@ -10,6 +10,20 @@ layout: default
 
 {{ content }}
 
+{% if page.contents %}
+  <h3>Table of Contents for this section</h3>
+  <ol>
+{% for path in page.contents %}
+  {% assign subpage = site.articles | where: "path", path | first %}
+  <li>
+    <a href="{{ subpage.url | prepend: site.baseurl }}">{{ subpage.title }}</a>
+    {% if subpage.time %}
+    ({{ subpage.time }})
+    {% endif %}
+  </li>
+{% endfor %}
+  </ol>
+{% endif %}
 
 {% if page.following %}
  {% assign next = site.articles | where: "path", page.following | first %}

@@ -5,9 +5,14 @@
 
 {% for path in item.contents %}
   {% assign subpage = site.articles | where: "path", path | first %}
-  <li>
+  <li{% if page.url contains subpage.url %} class="selected"{% endif %}>
     <a class="{% if page.url == subpage.url %} current{% endif %}"
       href="{{ subpage.url | prepend: site.baseurl }}">{{ subpage.title }}</a>
+      {% if page.url contains subpage.url %}
+        {% if subpage.contents %}
+          {% include contents.html item=subpage %}
+        {% endif %}
+      {% endif %}
   </li>
 {% endfor %}
   <li class="divider"></li>
