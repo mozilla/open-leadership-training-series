@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Get Your Project Online"
+title: "4. Get Your Project Online"
 date: 2016-10-06 14:05:56
 contents:
   - _articles/get-your-project-online/introducing-github-for-collaborative-work-and-version-control.md

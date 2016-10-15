@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Open Leadership Outro and Next Steps"
+title: "9. Open Leadership Outro and Next Steps"
 date: 2016-10-06 14:05:56
 contents:
   - _articles/open-leadership-outro-and-next-steps/next-steps-for-open-leadership.md

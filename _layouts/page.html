@@ -7,10 +7,42 @@ layout: default
         {% if page.subtitle %}<small>{{ page.subtitle }}</small>{% endif %}
     </h2>
 </div>
-{% if page.time %}
-  <p>Time to complete: {{page.time}}<p>
-{% endif %}
-
+<div class="details">
+  <div class="row">
+  {% if page.summary %}
+    <div class="col-sm-8">
+    <blockquote>
+      <i>{{ page.summary }}</i>
+    </blockquote>
+    </div>
+  {% endif %}
+    <div class="col-sm-4">
+  {% if page.time %}
+    <p><time>{{page.time}}</time></p>
+  {% endif %}
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm-4">
+      {% if page.format %}
+      <h5>Format</h5>
+      {{ page.format | markdownify }}
+      {% endif %}
+    </div>
+    <div class="col-sm-4">
+      {% if page.prereq %}
+      <h5>Before you start</h5>
+      {{ page.prereq | markdownify }}
+      {% endif %}
+    </div>
+    <div class="col-sm-4">
+      {% if page.materials %}
+      <h5>Materials</h5>
+      {{ page.materials | markdownify }}
+      {% endif %}
+    </div>
+  </div>
+</div>
 {{ content }}
 
 {% if page.contents %}

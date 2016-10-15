@@ -19,7 +19,18 @@ header h1 {
   display: inline-block;
 }
 
+.details time {
+  color: #2581B7;
+  font-weight: 700;
+  margin-bottom: 3px;
+  display: block;
+}
 
+.details time:before {
+  content: "\f017";
+  font-family: FontAwesome;
+  margin-right: 6px;
+}
 
 pre, code, pre code {
     border: none;
