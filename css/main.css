@@ -19,6 +19,10 @@ header h1 {
   display: inline-block;
 }
 
+.details {
+  padding: 20px 0;
+}
+
 .details time {
   color: #2581B7;
   font-weight: 700;
@@ -30,6 +34,18 @@ header h1 {
   content: "\f017";
   font-family: FontAwesome;
   margin-right: 6px;
+}
+
+#markdown-toc {
+  border-top:1px solid #CDCDCD;
+  border-bottom:1px solid #CDCDCD;
+  padding-top: 15px;
+}
+
+#markdown-toc:before {
+  content: "Table of Contents";
+  margin-left: -32px;
+  font-size:18pt;
 }
 
 pre, code, pre code {
