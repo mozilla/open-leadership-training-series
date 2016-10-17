@@ -8,7 +8,7 @@ layout: default
     </h2>
 </div>
 <div class="details">
-  <div class="row">
+  <div class="row p-y-1">
   {% if page.summary %}
     <div class="col-sm-8">
     <blockquote>
@@ -17,12 +17,15 @@ layout: default
     </div>
   {% endif %}
     <div class="col-sm-4">
+      <p>
   {% if page.time %}
-    <p><time>{{page.time}}</time></p>
+    <time>{{page.time}}</time>
   {% endif %}
+    <a href="https://github.com/{{ site.github.repo }}/edit/{{ site.github.branch }}/{{ page.path }}"><edit>Suggest changes</edit></a>
+    </p>
     </div>
   </div>
-  <div class="row">
+  <div class="row p-y-1">
     <div class="col-sm-4">
       {% if page.format %}
       <h5>Format</h5>

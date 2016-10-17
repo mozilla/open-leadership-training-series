@@ -23,7 +23,7 @@ header h1 {
   padding: 20px 0;
 }
 
-.details time {
+.details time, .details edit {
   color: #2581B7;
   font-weight: 700;
   margin-bottom: 3px;
@@ -32,6 +32,12 @@ header h1 {
 
 .details time:before {
   content: "\f017";
+  font-family: FontAwesome;
+  margin-right: 6px;
+}
+
+.details edit:before {
+  content: "\f040";
   font-family: FontAwesome;
   margin-right: 6px;
 }
