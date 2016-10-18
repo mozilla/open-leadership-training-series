@@ -19,10 +19,6 @@ header h1 {
   display: inline-block;
 }
 
-.details {
-  padding: 20px 0;
-}
-
 .details time, .details edit {
   color: #2581B7;
   font-weight: 700;
