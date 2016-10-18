@@ -4,36 +4,17 @@ title: "Write a great project README.md"
 date: 2016-10-06 14:05:56
 time: "20 min"
 following: _articles/opening-your-project/start-your-project-roadmap.md
+summary: "In this module, you’ll create a short text document called a “README” file, to welcome newcomers to your project."
+prereq: "Have completed all previous sections and modules"
+format: >
+  *   Read text and explore links
+
+  *   Do a short thinking and writing exercise (you can do it on your own but it’s best done with one or two community members, if available)
+materials: "Pen and paper, or a computer with word processing software"
+
 ---
 * TOC
 {:toc}
-
-## Summary
-
-In this module, you’ll create a short text document called a “README” file, to welcome newcomers to your project.
-
-## Table of Contents
-
-2.3.1\. About README files
-
-2.3.2 Assignment: Write your README
-
-## What You’ll Need to Start
-
-*   Have completed all previous sections and modules
-
-## What You’ll Do
-
-*   Read text and explore links
-*   Do a short thinking and writing exercise (you can do it on your own but it’s best done with one or two community members, if available)
-
-## Materials You’ll Need:
-
-*   Pen and paper, or a computer with word processing software
-
-## Time to complete:
-
-*   15-20 minutes, or as needed
 
 ## 2.3.1\. About README files
 

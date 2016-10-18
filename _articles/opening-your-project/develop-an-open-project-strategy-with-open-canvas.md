@@ -4,53 +4,22 @@ title: "Develop an open project strategy with Open Canvas"
 date: 2016-10-06 14:05:56
 time: "40 mins"
 following: _articles/opening-your-project/write-a-great-project-readme.md
+summary: "Use a format called Open Canvas to help further define your project goals, strategy, and needs for resources."
+prereq: "Have completed section 1"
+format: >
+  *   Read and watch videos on this topic
+
+  *   Do a thinking/writing assignment
+materials: >
+  *   pencil and paper or computer-- a way of recording your Open Canvas
+
+  *   This [link to an editable version of Open Canvas](https://mozillascience.github.io/working-open-workshop/open_canvas/) i(f you’d like to work online).
+
+  *   If you are working in a group, you can use a whiteboard and sticky notes so ideas can be easily shared with all members
 ---
 
 * TOC
 {:toc}
-
-## Summary
-
-Use a format called Open Canvas to help further define your project goals, strategy, and needs for resources.
-
-* * *
-
-## Table of Contents
-
-2.2.1\. Introducing Open Canvas
-
-2.2.2\. About Minimum Viable Products (MVP)
-
-2.2.3\. Assignment: Make an open canvas
-
-* * *
-
-## What you’ll need to start:
-
-*   Have completed section 1
-
-* * *
-
-## What you’ll do:
-
-*   Read and watch videos on this topic
-*   Do a thinking/writing assignment
-
-* * *
-
-## Materials you’ll need:
-
-*   pencil and paper or computer-- a way of recording your Open Canvas
-*   This [link to an editable version of Open Canvas](https://mozillascience.github.io/working-open-workshop/open_canvas/) i(f you’d like to work online).
-*   If you are working in a group, you can use a whiteboard and sticky notes so ideas can be easily shared with all members
-
-* * *
-
-## Time to complete:
-
-*   ~40 minutes (10 minutes reading/watching, 30 minutes or as needed on assignment)
-
-* * *
 
 ## 2.2.1 Introducing Open Canvas
 

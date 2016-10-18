@@ -4,42 +4,23 @@ title: "Understanding the Project Lead Role"
 date: 2016-10-06 14:05:56
 time: "25 mins"
 following: _articles/introduction-to-open-leadership/getting-to-know-mozilla-and-the-leadership-network.md
+summary: "This module explores what project leaders, or “leads” do on open projects, and the kind of mindset and approach this role requires."
+prereq: >
+  * have completed previous modules in this section
+
+  * have a project idea/vision
+format: >
+  *   read and watch videos on this topic
+
+  *   do a short thinking/writing reflection exercise
+materials: "Paper and pen or computer for recording reflection"
 ---
 
 * TOC
 {:toc}
 
-## Summary
 
-This module explores what project leaders, or “leads” do on open projects, and the kind of mindset and approach this role requires.
-
-## Table of Contents
-
-1.3.1\. Introduction
-
-1.3.2\. What working open can (and can’t) do for you
-
-1.3.3 Assignment: Reflecting on benefits and challenges of working open
-
-## What you’ll need to start:
-
-*   have completed previous modules in this section
-*   have a project idea/vision
-
-## What you’ll do:
-
-*   ead and watch videos on this topic
-*   do a short thinking/writing reflection exercise
-
-## Materials you’ll need:
-
-*   Paper and pen or computer for recording reflection
-
-## Time to complete:
-
-*   25 mins total (15 minutes reading/watching; 10 minutes assignment)
-
-## 1.3.1 Introduction
+### 1.3.1 Introduction
 
 When you're leading an open project, there are a few things you’ll do, listed below in the order they’ll likely happen on your project. Some of these practices (such as working with volunteers) aren’t so unusual, but in an open project the notions of community involvement and information-sharing become core, driving principles. When you work open you:
 
@@ -54,7 +35,7 @@ When you're leading an open project, there are a few things you’ll do, listed 
 Each of these points deals with making a project **participatory (getting new people involved)** and **transparent (sharing information about the project widely, in a way that’s useful for others).** Every project is different, and some of the points above may be less relevant to your project, while others will be at its core. Some projects will implement these elements slowly, while others may work fully in the open from day one. No matter how you do it, you can think of working open as a way of working that invites outsiders-- those who might otherwise have little or no part in project work, creation, and decision-making-- to become insiders in those aspects of the project. You can do this is by building trust in your community of collaborators.
 
 
-### Video
+#### Video
 https://www.filepicker.io/api/file/2Egul1krQXaCeNTqfZGN
 
 
@@ -77,7 +58,7 @@ To secure the trust of members of your community, you should:
 
 *   **Show that the project is solid, and worthy of their time and energy.**
 
-# 1.3.2 What working open can (and can’t) do for you.
+### 1.3.2 What working open can (and can’t) do for you.
 
 As Project Lead, you also need to have a good grasp of the possibilities and limitations of working open, and realistic expectations of what it can (and can’t) do for your project.
 

@@ -4,41 +4,15 @@ title: "Start your project Roadmap"
 date: 2016-10-06 14:05:56
 time: "45 min"
 following: _articles/building-communities-of-contributors.md
+summary: "Outline the work ahead on this project in a document called a “Roadmap.”"
+prereq: "Have completed all previous sections and modules"
+format: "A writing and thinking assignment. It can be done alone, but it’s a great idea to invite a supporter, key contributor, or community member to help you plan!"
+materials: "pen and paper, or a computer and word processing software"
+
 ---
 * TOC
 {:toc}
 
-## Summary
-
-Outline the work ahead on this project in a document called a “Roadmap.”
-
-## Table of Contents
-
-2.4.1\. Introducing project Roadmaps
-
-2.4.2\. About Milestones
-
-2.4.3 About Prototyping
-
-2.4.4\. About User Testing
-
-2.4.5\. Assignment: make a Roadmap
-
-## What you’ll need to start:
-
-*   Have completed all previous sections and modules
-
-## What You’ll Do:
-
-*   A writing and thinking assignment. It can be done alone, but it’s a great idea to invite a supporter, key contributor, or community member to help you plan!
-
-## Materials You’ll Need:
-
-*   pen and paper, or a computer and word processing software
-
-## Time to complete:
-
-*   30-45 minutes, or as needed
 
 ## 2.4.1\. Introducing Project Roadmaps
 

@@ -4,37 +4,18 @@ title: "Stating Your Project Vision"
 date: 2016-10-06 14:05:56
 time: "15 mins"
 following: _articles/opening-your-project.md
+summary: "Articulate your big idea, vision or dream that you want to achieve by working open, and experiment with expressing your vision in a short format."
+prereq: "Have completed previous modules in this section"
+format: >
+  *   Read and watch videos on this topic
+
+  *   Complete a thinking/writing assignment
+materials: "pencil and paper or computer-- a way of recording your statement."
 ---
 
 * TOC
 {:toc}
 
-## Summary
-
-Articulate your big idea, vision or dream that you want to achieve by working open, and experiment with expressing your vision in a short format.
-
-## Table of Contents
-
-1.5.1\. Your vision drives your project
-
-1.5.2\. Assignment: State your project vision
-
-## What you’ll need to start:
-
-*   Have completed previous modules in this section
-
-## What you’ll do:
-
-*   Read and watch videos on this topic
-*   Complete a thinking/writing assignment
-
-## Materials you’ll need:
-
-*   pencil and paper or computer-- a way of recording your statement.
-
-## Time to complete:
-
-*   15 minutes (5 minutes reading/watching videos, 10 mins on assignment)
 
 ## 1.5.1 Your vision drives your project
 
