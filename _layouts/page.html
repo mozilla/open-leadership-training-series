@@ -2,6 +2,7 @@
 layout: default
 ---
 
+<div class="p-a-3 lesson-content">
 <div class="page-header">
     <h2>{{ page.title }}
         {% if page.subtitle %}<small>{{ page.subtitle }}</small>{% endif %}
@@ -67,11 +68,13 @@ layout: default
 
 {% if page.following %}
  {% assign next = site.articles | where: "path", page.following | first %}
-<div class="color-box">
-<h4>Read next</h4>
-<p><a  href="{{ next.url | prepend: site.baseurl }}">{{ next.title }}</a></p>
-</div>
+ <a class="btn btn-lg btn-default"href="{{ next.url | prepend: site.baseurl }}">
+next:
+{{ next.title }} &nbsp;
+<i class="fa fa-play" aria-hidden="true"></i>
+</a>
 <br />
 {% endif %}
 
- <a class="btn btn-lg btn-default" href="https://github.com/{{ site.github.repo }}/edit/{{ site.github.branch }}/{{ page.path }}">Improve this page</a>
+<hr />
+    <edit></edit>Help us improve content and <a href="https://github.com/{{ site.github.repo }}/edit/{{ site.github.branch }}/{{ page.path }}">suggest changes</a> to this page
