@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "3. Building Communities of Contributors"
+title: "3. Building Communities"
 date: 2016-10-06 14:05:56
 contents:
   - _articles/building-communities-of-contributors/visualize-your-support-network.md

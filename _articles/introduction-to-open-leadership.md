@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "1. Introduction to Open Leadership"
+title: "1. Intro to Open Leadership"
 date: 2016-10-06 14:05:56
 contents:
   - _articles/introduction-to-open-leadership/introduction-to-working-open.md

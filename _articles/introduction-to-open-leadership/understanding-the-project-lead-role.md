@@ -6,13 +6,13 @@ time: "25 mins"
 following: _articles/introduction-to-open-leadership/getting-to-know-mozilla-and-the-leadership-network.md
 summary: "This module explores what project leaders, or “leads” do on open projects, and the kind of mindset and approach this role requires."
 prereq: >
-  * have completed previous modules in this section
+  * Have completed previous modules in this section
 
-  * have a project idea/vision
+  * Have a project idea/vision
 format: >
-  *   read and watch videos on this topic
+  * Read and watch videos on this topic
 
-  *   do a short thinking/writing reflection exercise
+  * Do a short thinking/writing reflection exercise
 materials: "Paper and pen or computer for recording reflection"
 ---
 

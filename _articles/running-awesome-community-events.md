@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "7. Running Awesome Community Events"
+title: "7. Running Awesome Events"
 date: 2016-10-06 14:05:56
 contents:
   - _articles/running-awesome-community-events/designing-an-open-event.md

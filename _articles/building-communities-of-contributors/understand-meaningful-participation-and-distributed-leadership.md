@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Understand Meaningful Participation and Distributed Leadership"
+title: "Meaningful Participation"
 date: 2016-10-06 14:05:56
 time: "10 min"
 following: _articles/building-communities-of-contributors/write-a-code-of-conduct.md

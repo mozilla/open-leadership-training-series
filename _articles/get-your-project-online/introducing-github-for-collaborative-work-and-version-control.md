@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Introducing GitHub for Collaborative Work and Version Control"
+title: "Introducing GitHub"
 date: 2016-10-06 14:05:56
 time: "20 min"
 following: _articles/get-your-project-online/the-github-interface-and-markdown.md
