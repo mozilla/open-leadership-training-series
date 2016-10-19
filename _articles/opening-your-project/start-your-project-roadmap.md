@@ -6,7 +6,7 @@ time: "45 min"
 following: _articles/building-communities-of-contributors.md
 summary: "Outline the work ahead on this project in a document called a “Roadmap.”"
 prereq: "Have completed all previous sections and modules"
-format: "A writing and thinking assignment. It can be done alone, but it’s a great idea to invite a supporter, key contributor, or community member to help you plan!"
+format: "A writing and thinking assignment. It can be done alone, but you can invite a supporter or community member to help you plan!"
 materials: "pen and paper, or a computer and word processing software"
 
 ---

@@ -68,7 +68,7 @@ As project lead, you need to ask yourself, “What’s the value of opening my p
 
 **Working open is a way to incorporate user-centric thinking in the design and creation of your project.** Many projects-- from web apps or tools to advocacy campaigns to learning materials-- languish because they never find an audience. By inviting a broad community to contribute to your project, you can integrate your target audience into the development process to help ensure that you’re creating a tool, experience, or resource that meets their needs. Future users can be involved in decision-making about project design, direction, and features, as well as contributing project work. They can provide invaluable insights during user testing and evaluation of anything you make. In the words of Aspiration technology's Allen Gunn:
 
-"I believe in the ‘many eyes” principle’ — but also in the ‘many hearts and souls’ principle. Having many personalities, values and experience-sets involved in creating something intrinsically makes the finished product more robust and broadly relevant — versus, say, three privileged white guys in Silicon Valley kicking something out."
+"I believe in the ‘many eyes’ principle” — but also in the ‘many hearts and souls’ principle. Having many personalities, values and experience-sets involved in creating something intrinsically makes the finished product more robust and broadly relevant — versus, say, three privileged white guys in Silicon Valley kicking something out."
 
 **Working open can allow your project to achieve its maximum impact.** When you’re engaging contributors and target users from day one, your final product will launch to a built-in audience and be more likely to be supported, championed and sustained by contributors with a long history with the project. When you share your process and making ongoing work openly available on the web, others can build on your work, adapt your process or a part of your project for a novel use. Your project can have positive, transformative effects far beyond what you’re able to imagine.
 
@@ -82,6 +82,4 @@ Working open can help your project flourish and grow, but there are also many mi
 
 # 1.3.3 Assignment: Reflecting on benefits and challenges of working open
 
-Steps to complete:
-
-1.  Reflect on what the benefits, challenges, and limitations of working open might mean for your project. For example, how do you envision your project specifically benefiting from more community contribution and participation? How do you feel about the need for well-defined process and structure on this project? Take about 4 or 5 minutes to write out your thoughts on this. If working in a group, you can write your reflections on sticky notes and then share and discuss together.
+Reflect on what the benefits, challenges, and limitations of working open might mean for your project. For example, how do you envision your project specifically benefiting from more community contribution and participation? How do you feel about the need for well-defined process and structure on this project? Take about 4 or 5 minutes to write out your thoughts on this. If working in a group, you can write your reflections on sticky notes and then share and discuss together.
