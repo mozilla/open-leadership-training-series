@@ -9,11 +9,9 @@ prereq: "Have completed the previous section"
 format: >
   *   Read and watch videos on this topic
 
-  *   Do a thinking/writing assignment
+  *   Do a thinking/writing assignment on your own or with a group
 materials: >
-  *   pencil and paper or computer-- a way of recording your Open Canvas
-
-  *   This [link to an editable version of Open Canvas](https://mozillascience.github.io/working-open-workshop/open_canvas/) i(f you’d like to work online).
+  *   Pencil and paper or this [editable version of Open Canvas](https://mozillascience.github.io/working-open-workshop/open_canvas/) (if you’d like to work online)
 
   *   If you are working in a group, you can use a whiteboard and sticky notes so ideas can be easily shared with all members
 ---
