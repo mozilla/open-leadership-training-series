@@ -1,4 +1,11 @@
-<ul class="nav nav-list">
+<div class="sidebar-header">
+  <a class="{{ site.baseurl }}/">
+    <img src="{{ site.baseurl }}/img/mozilla-wordmark-white.svg" alt="Mozilla Open Leadership Training Series" class="moz-logo" />
+  </a>
+  <!-- <button aria-label="toggle" class="glyphicon glyphicon-menu-hamburger hidden-lg hidden-md"></button> -->
+</div>
+
+<ul class="sidebar-menu list-unstyled">
     <li><a href="{{ site.baseurl }}/">README</a></li>
 
   {% assign item = site.pages | where: "path", "contents.html" | first %}
@@ -6,8 +13,7 @@
 {% for path in item.contents %}
   {% assign subpage = site.articles | where: "path", path | first %}
   <li{% if page.url contains subpage.url %} class="selected"{% endif %}>
-    <a class="{% if page.url == subpage.url %} current{% endif %}"
-      href="{{ subpage.url | prepend: site.baseurl }}">{{ subpage.title }}</a>
+    <a href="{{ subpage.url | prepend: site.baseurl }}">{{ subpage.title }}</a>
       {% if page.url contains subpage.url %}
         {% if subpage.contents %}
           {% include contents.html item=subpage %}

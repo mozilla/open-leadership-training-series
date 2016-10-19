@@ -70,10 +70,214 @@ code {
   margin:0 3em 0 0;
 }
 
+.sidebar {
+    background-color: #4383bf;
+    position: relative;
+    height: auto;
+    color: #fff;
+    font-size: 1.4rem;
+    padding: 0;
+}
+
+.sidebar-header .moz-logo {
+    width: 100%;
+    max-width: 5rem;
+}
+.sidebar-header {
+    position: relative;
+    font-size: 2rem;
+    color: #595a5e;
+    padding: 2rem 1.5rem;
+    overflow: hidden;
+}
+
+
+html.no-js .sidebar .sidebar-header .glyphicon-menu-hamburger {
+  display: none;
+}
+html.no-js .sidebar .collapsible-content {
+  /* The links in the sidebar are crucial to navigating the site.
+     * If JS is disabled, we want the links visible at all costs. */
+  opacity: 1 !important;
+  max-height: none !important;
+}
+.sidebar {
+  position: relative;
+  height: auto;
+  color: #fff;
+  font-size: 1.4rem;
+  padding: 0;
+}
+.sidebar a {
+  font-size: inherit;
+  color: inherit;
+  line-height: 1;
+}
+.sidebar .collapsible-content {
+  transition: all 0.5s ease;
+  opacity: 1;
+  max-height: 1400px;
+  padding-bottom: 1rem;
+}
+.sidebar .collapsible-content.collapsed {
+  opacity: 0;
+  max-height: 0;
+  padding-bottom: 0;
+}
+@media screen and (min-width: 600px) {
+  .sidebar {
+    height: 100%;
+    transition: background-color 5ms;
+  }
+  .sidebar .collapsible-content.collapsed {
+    opacity: 1;
+    max-height: auto;
+  }
+}
+.sidebar-header {
+  position: relative;
+  font-size: 2rem;
+  color: #595a5e;
+  padding: 2rem 1.5rem;
+  overflow: hidden;
+}
+@media screen and (min-width: 600px) {
+  .sidebar-header {
+    background-color: rgba(255, 255, 255, 0.3);
+  }
+}
+.sidebar-header a:hover,
+.sidebar-header a:focus {
+  text-decoration: none;
+}
+.sidebar-header .moz-logo {
+  width: 100%;
+  max-width: 13rem;
+}
+.sidebar-header .glyphicon-menu-hamburger {
+  position: absolute;
+  right: 1rem;
+  top: 2.5rem;
+  color: #fff;
+  border: none;
+  background: transparent;
+  padding: 0;
+}
+.sidebar-header .glyphicon-menu-hamburger:focus {
+  color: #e6e6e6;
+}
+.sidebar-menu {
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+.sidebar-menu a {
+  position: relative;
+  display: block;
+  padding: 2;
+  outline: none;
+}
+.sidebar-menu a:hover,
+.sidebar-menu a:focus {
+  text-decoration: none;
+  background-color: #2e5c87;
+  transition: background-color 3ms;
+}
+.sidebar-menu li.selected {
+    background-color: #2e5c87;
+}
+.sidebar-menu strong {
+  display: inline;
+  font-weight: 700;
+  text-transform: uppercase;
+  vertical-align: middle;
+  margin-left: 1rem;
+}
+.sidebar-menu .external-link:after {
+  color: rgba(255, 255, 255, 0.5);
+}
+.sidebar-menu .glyphicon {
+  position: absolute;
+  right: 1rem;
+  font-size: 1.5rem;
+  top: calc(41.5%);
+  color: #cd00cc;
+  transition: color 3ms;
+  visibility: hidden;
+}
+.sidebar-menu li {
+  margin:0;
+  padding: 0;
+}
+.sidebar-menu>li>a{
+  padding: 15px;
+}
+@media screen and (min-width: 800px) {
+  .sidebar-menu .glyphicon {
+    right: 1.5rem;
+  }
+}
+@media screen and (min-width: 600px) {
+  .sidebar-menu .glyphicon {
+    visibility: visible;
+  }
+}
+.sidebar-menu .img-container {
+  display: inline-block;
+  overflow: hidden;
+  width: 3.5rem;
+  text-align: center;
+  vertical-align: middle;
+}
+.sidebar-menu img {
+  float: none;
+  width: 2rem;
+  opacity: 0.6;
+}
+.sidebar-menu .activities img,
+.sidebar-menu .opportunities img {
+  width: 1.6rem;
+}
+.sidebar-menu .tools-page img {
+  width: 2.3rem;
+}
+.sidebar-menu .community img {
+  width: 2.8rem;
+}
+.sidebar-subitems {
+  overflow: hidden;
+  list-style: none;
+  padding: 0 0 0 6.6rem;
+}
+@media screen and (min-width: 600px) {
+  .sidebar-subitems {
+    padding-left: 2.5rem;
+  }
+}
+.sidebar-subitems li {
+  margin-bottom: 0.5rem;
+  padding-right:10px;
+}
+.sidebar-subitems li a::before {
+  content: "\f105";
+  font-family: "FontAwesome";
+  display: inline-block;
+  margin-right: 1rem;
+}
+.sidebar-subitems a {
+  display: inline-block;
+  padding: 0;
+  color: rgba(255,255,255,.5);
+  font-size:1rem;
+}
+.sidebar-subitems a.current {
+  color:white;
+}
+
+
 #content {
   /*padding-top:3em;*/
   /*background-color: rgb(242, 242, 242);*/
-  padding-bottom:3em;
+  max-width:1000px;
 }
 
 #content img {

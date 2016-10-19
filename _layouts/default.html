@@ -16,16 +16,16 @@
     </head>
     <body>
 
-        {% include header.html %}
-        <div class="container">
+        <!-- {% include header.html %} -->
+        <div class="page container-fluid">
 
             <div class="row">
                 {% assign post_count = site.posts|size %}
-                  <div id="navigation" class="col-md-4 col-xs-12">
+                  <div id="navigation" class="col-md-3 col-xs-12 sidebar">
                       {% include navigation.html %}
                   </div>
 
-                  <div id="content" class="col-md-8 col-xs-12 p-y-3">
+                  <div id="content" class="col-md-9 col-xs-12 p-y-3 p-x-2">
                       {{ content }}
                   </div>
             </div>
