@@ -4,27 +4,16 @@ title: "Getting Around in GitHub, or Where’s my Stuff?"
 date: 2016-10-06 14:05:56
 time: "10 mins"
 following: _articles/github-for-collaboration/collaborative-workflow-for-contributions.md
+summary: "This module will help you understand how and where you and your collaborators will save changes and any work on a collection of files (a repository) when using gitHub."
+prereq: "Have completed all previous sections and modules"
+format: "Read and look at diagrams"
+materials: "none"
+
 ---
 * TOC
 {:toc}
 
-## Summary
-
-This module will help you understand how and where you and your collaborators will save changes and any work on a collection of files (a repository) when using gitHub.
-
-## Table of Contents
-
-5.2.1 Repos, Forks, and Branches, oh my!
-
-What you’ll need to start: Have completed all previous sections and modules
-
-What You’ll Do: Read and look at diagrams
-
-Materials You’ll Need: none
-
-Time to complete: 5-10 minutes
-
-## 5.2.1 Repos, Forks, and Branches, oh my!
+### 5.2.1 Repos, Forks, and Branches, oh my!
 
 What's special about Git and GitHub is that every instance or copy of a repository (or collection of files) has its full life history, the full timeline of changes bundled with it. When you’re working with GitHub, you may have multiple copies of the same repository in use at once, and it’s helpful to understand how that works, and why. Let’s take a moment to understand how this works, starting with the simplest scenario.
 

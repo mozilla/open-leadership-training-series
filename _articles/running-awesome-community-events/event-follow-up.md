@@ -2,57 +2,23 @@
 layout: page
 title: "Event Follow-up"
 date: 2016-10-06 14:05:56
-time: "45 mins"
-following: _articles/running-awesome-community-events/documenting-and-reporting-md
+time: "60 mins"
+following: _articles/running-awesome-community-events/documenting-and-reporting.md
+summary: "Survey your attendees to improve offline events and sustain online contributions to your project."
+prereq: "Plans for convening and facilitating a face-to-face event in support of your project"
+format: >
+  *   Create and continuously update an organizing checklist issue in GitHub.
+
+  *   Design and deliver a short survey about your event and next steps for your project.
+
+  *   Gather your data and use it to improve your project.
+
+  *   Organize attendees and include assignments for sustained online contribution after your event.
+materials: An internet-connected computer, an online survey tool, access to your GitHub project repo
 ---
 * TOC
 {:toc}
 
-## Summary
-
-Survey your attendees to improve offline events and sustain online contributions to your project.
-
-* * *
-
-## Outline
-
-*   7.4.1\. Organizing for Action After an Event
-*   7.4.2 Survey Examples
-*   7.4.3 Assignments
-
-* * *
-
-## What You Need To Start
-
-*   Plans for convening and facilitating a face-to-face event in support of your project.
-
-* * *
-
-## What You'll Do
-
-*   Create and continuously update an organizing checklist issue in GitHub.
-*   Design and deliver a short survey about your event and next steps for your project.
-*   Gather your data and use it to improve your project.
-*   Organize attendees and include assignments for sustained online contribution after your event.
-
-* * *
-
-## What You'll Need
-
-*   An internet-connected computer
-*   An online survey tool
-*   Access to your GitHub project repo
-
-* * *
-
-## Time to Complete
-
-*   60 minutes
-*   Event time
-
-* * *
-
-## Steps
 
 ### 7.4.1\. Organizing for Action after an Event
 
@@ -117,11 +83,13 @@ Encourage organizers to close these issues once their tasks have been completed.
 
 Of course, you don’t need to spin up a huge checklist with a million sub-issues ticketed for small events or discrete tasks. In this case, coming up with a checklist like this might be just the thing to keep event follow-up manageable and encourage volunteers to take on discrete tasks they can quickly complete for the community.
 
-*   [ ] Draft survey.
-*   [ ] Get feedback on survey - ask which questions are unnecessary and if any are missing.
-*   [ ] Revise survey.
-*   [ ] Send survey to mailing list from the event.
-*   [ ] Tally results.
-*   [ ] Double check results to remove any private information.
-*   [ ] Report aggregate results on a GH issue in this repo.
-*   Close the loop: cite your results and use them when you plan your next event.
+<pre>
+  *   [ ] Draft survey.
+  *   [ ] Get feedback on survey - ask which questions are unnecessary and if any are missing.
+  *   [ ] Revise survey.
+  *   [ ] Send survey to mailing list from the event.
+  *   [ ] Tally results.
+  *   [ ] Double check results to remove any private information.
+  *   [ ] Report aggregate results on a GH issue in this repo.
+  *   Close the loop: cite your results and use them when you plan your next event.
+</pre>

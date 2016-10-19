@@ -4,54 +4,28 @@ title: "Documenting & Reporting"
 date: 2016-10-06 14:05:56
 time: "60 mins"
 following: _articles/open-project-maintenance.md
+summary: "Plan to capture and share the community-building, learning, and work that goes on at face-to-face events supporting your project."
+prereq: >
+  *   Plans for a face-to-face event you can use to think through documenting and reporting its outcomes.
+
+  *   Documentation tools.
+
+  *   An open place (like a blog) to share your reports.
+format: >
+  *   **Before the event:** Create a plan for documenting what goes on at your face-to-face event. Then assemble the people and stuff you need to record what happens at the event.
+
+  *   **During the event:** Take notes and collect data! Keep an eye out for stories, projects, or other data points to share. Document those things. You shouldn’t try to hold everything in your head until after the event. Also you don’t want to have to rely on your memory.
+
+  *   **After the event:** Share what happened at your event with onsite and remote participants through a blog post, community call, newsletter, or other open platform.
 ---
 * TOC
 {:toc}
 
-## Summary
-
-Plan to capture and share the community-building, learning, and work that goes on at face-to-face events supporting your project.
-
-* * *
-
-## Outline
-
-*   7.5.1\. Planning your documentation and reporting
-*   7.5.2\. Examples of event reporting
-*   7.5.3\. Assignments
-
-* * *
-
-## What You Need To Start
-
-*   Plans for a face-to-face event you can use to think through documenting and reporting its outcomes.
-*   Documentation tools.
-*   An open place (like a blog) to share your reports.
-
-## What You'll Do
-
-*   **Before the event:** Create a plan for documenting what goes on at your face-to-face event. Then assemble the people and stuff you need to record what happens at the event.
-
-*   **During the event:** Take notes and collect data! Keep an eye out for stories, projects, or other data points to share. Document those things. You shouldn’t try to hold everything in your head until after the event. Also you don’t want to have to rely on your memory.
-
-*   **After the event:** Share what happened at your event with onsite and remote participants through a blog post, community call, newsletter, or other open platform.
-
-* * *
-
-## Time to Complete
-
-*   60 minutes
-*   Event time
-
-* * *
-
-## Steps
-
-### 7.5.1\. Planning your documentation and reporting
+### 7.5.1. Planning your documentation and reporting
 
 To help yourself and your community benefit and learn from everything that goes on at a face-to-face (F2F) event, it's important to capture key parts of the event and report on the work done there.
 
-## Video
+#### Video
 https://www.filepicker.io/api/file/hwjxTPRAQCuYJOtuX7GT
 
 Part of working open is making sure that everyone who wants to contribute to your project or comment on it can do so. By showing others what happens at your events, you help people who can't attend stay involved the work done there.

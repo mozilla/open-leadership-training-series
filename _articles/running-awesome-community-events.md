@@ -6,7 +6,7 @@ contents:
   - _articles/running-awesome-community-events/designing-an-open-event.md
   - _articles/running-awesome-community-events/event-planning-and-facilitation.md
   - _articles/running-awesome-community-events/event-follow-up.md
-  - _articles/running-awesome-community-events/documenting-and-reporting-md
+  - _articles/running-awesome-community-events/documenting-and-reporting.md
 following: _articles/running-awesome-community-events/designing-an-open-event.md
 ---
 

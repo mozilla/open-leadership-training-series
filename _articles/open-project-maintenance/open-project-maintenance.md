@@ -2,52 +2,16 @@
 layout: page
 title: "Open Project Maintenance"
 date: 2016-10-06 14:05:56
-time: "mins"
+time: "60 mins"
 following: _articles/open-leadership-outro-and-next-steps.md
+summary: "Create a maintenance plan to prolong the life of your project and keep it accessible for your community and others."
+prereq: "Your community project and its documentation and materials in your GitHub repo"
+format: "You'll complete a project in GitHub."
+materials: "Access to your GitHub project repo"
 ---
 * TOC
 {:toc}
 
-## Summary
-
-Create a maintenance plan to prolong the life of your project and keep it accessible for your community and others.
-
-* * *
-
-## Outline
-
-*   8.2.1\. Mentorship as Maintenance
-*   8.2.2\. Maintaining the Stuff
-*   8.2.3\. Questions to Consider
-*   8.2.4\. Assignments
-
-* * *
-
-## What You Need To Start
-
-*   Your community project and its documentation and materials in your GitHub repo
-
-* * *
-
-## What You'll Do
-
-*   A completed project in GitHub.
-
-* * *
-
-## What You'll Need
-
-*   Access to your GitHub project repo
-
-* * *
-
-## Time to Complete
-
-*   60 minutes
-
-* * *
-
-## Steps
 
 ### 8.2.1\. Mentorship as Maintenance
 

@@ -2,59 +2,26 @@
 layout: page
 title: "Event Planning & Facilitation"
 date: 2016-10-06 14:05:56
-time: "60 mins"
+time: "90 mins"
 following: _articles/running-awesome-community-events/event-follow-up.md
+summary: "Learn how to facilitate the logistical and interpersonal elements of a face-to-face event, delegating responsibility according to the strengths of your community and its contributors."
+prereq: "Plans for convening a face-to-face event in support of your project"
+format: >
+  *   Assemble a team of co-facilitators for your event (as needed).
+
+  *   Create and continuously update a facilitation planning checklist issue in GitHub.
+
+  *   Create and continuously update a "day-of" facilitating checklist issue in GitHub.
+
+  *   Build out the materials you need for your event.
+
+  *   Facilitate your event.
+materials: "Paper, markers, access to your GitHub project repo"
 ---
 * TOC
 {:toc}
 
-## Summary
-
-Learn how to facilitate the logistical and interpersonal elements of a face-to-face event, delegating responsibility according to the strengths of your community and its contributors.
-
 * * *
-
-## Outline
-
-*   7.3.1\. Event planning
-*   7.3.2\. Delegating to community members
-*   7.3.3\. Facilitating the work
-*   7.3.4 Assignments
-
-* * *
-
-## What You Need To Start
-
-*   Plans for convening a face-to-face event in support of your project.
-
-* * *
-
-## What You'll Do
-
-*   Assemble a team of co-facilitators for your event (as needed).
-*   Create and continuously update a facilitation planning checklist issue in GitHub.
-*   Create and continuously update a "day-of" facilitating checklist issue in GitHub.
-*   Build out the materials you need for your event.
-*   Facilitate your event.
-
-* * *
-
-## What You'll Need
-
-*   Paper
-*   Markers
-*   Access to your GitHub project repo
-
-* * *
-
-## Time to Complete
-
-*   90 minutes
-*   Event time
-
-* * *
-
-## Steps
 
 ### 7.3.1\. Event planning
 

@@ -2,53 +2,20 @@
 layout: page
 title: "Next Steps for Open Leadership"
 date: 2016-10-06 14:05:56
-time: "mins"
+time: "60 mins"
+summary: "Reflect on your open leadership journey and key takeaways for continuing your work."
+prereq: "Your project, its documentation, and event reports, including goal-setting documents like your open canvas."
+format: >
+  *   Look back on your open leadership work so far.
+
+  *   Consider [key principles of open leadership](https://docs.google.com/document/d/1f16JOlhY5W-88QfEZPFpZgkijYCtMp-P5VskUzmqHhE/edit) posed by other open leaders.
+
+  *   Draft and post a reflection on your work to become a better [open leader.](https://docs.google.com/document/d/1JloT5LpUC1cwpr3klw7z8bHMxH83W33RAOhw0uG5vN4/edit)
+materials: Your project's GitHub repo and a blog or other platform/technology for composing and sharing your reflection.
 ---
 * TOC
 {:toc}
 
-## Summary
-
-Reflect on your open leadership journey and key takeaways for continuing your work.
-
-* * *
-
-## Outline
-
-*   9.2.1\. Open Leadership Takeaways
-*   9.2.2\. What Does Success Look Like at the End of a Project?
-*   9.2.3\. Assignments
-
-* * *
-
-## What You Need To Start
-
-*   Your project, its documentation, and event reports, including goal-setting documents like your open canvas.
-
-* * *
-
-## What You'll Do
-
-*   Look back on your open leadership work so far.
-*   Consider [key principles of open leadership](https://docs.google.com/document/d/1f16JOlhY5W-88QfEZPFpZgkijYCtMp-P5VskUzmqHhE/edit) posed by other open leaders.
-*   Draft and post a reflection on your work to become a better [open leader.](https://docs.google.com/document/d/1JloT5LpUC1cwpr3klw7z8bHMxH83W33RAOhw0uG5vN4/edit)
-
-* * *
-
-## What You'll Need
-
-*   Your project's GitHub repo.
-*   A blog or other platform/technology for composing and sharing your reflection.
-
-* * *
-
-## Time to Complete
-
-*   60 minutes
-
-* * *
-
-## Steps
 
 ### 9.2.1\. Open Leadership Takeaways
 
@@ -112,4 +79,3 @@ In drafting your reflection, consider questions like these (but don’t let them
 
 As you continue to develop your open leadership skills and take on new projects in the open, we hope you’ll let us know how it goes, as well as how to improve this curriculum. We hope you’ll visit other [Mozilla Leadership Network](https://learning.mozilla.org) communities online and [join other leaders around the world](https://learning.mozilla.org/en-US/opportunities) supporting local communities in the fight to keep the web an open and free resource, accessible to all.
 
--->-->

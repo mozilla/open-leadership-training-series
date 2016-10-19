@@ -4,54 +4,24 @@ title: "Communicating Openly About Your Work"
 date: 2016-10-06 14:05:56
 time: "60 mins"
 following: _articles/running-awesome-community-events.md
+summary: "In this module you’ll learn about the different types of communication channels, or “comms” you can use to help your community discover, explore, and contribute to your project."
+prereq: >
+  *   A project with content - even introductory content like a [README file](https://docs.google.com/document/d/1u1_CspVzOpxBYzHnWqe5J8tgCS6tUpMh_tztFarG31Q/edit) and [contribution guidelines](https://docs.google.com/document/d/1mBB4POj9NHYtzkKOw9j5L_EFwChfP88pz6LzYCfFwxM/edit) - to share.
+
+  *   Basic knowledge of HTML, GitHub Pages, or a blogging platform like Wordpress.
+
+  *   Online contact information (like email addresses or social media user names) for project participants.
+
+  *   Understand your audience and the channels they use for communication! If those channels are not helpful to this work, how will you support them in learning a new one?
+format: >
+  *   Create a clearly-titled and structured, discoverable online comms resource that includes ways for your community to participate in real-time conversations and catch-up with archived ones.
+
+  *   Establish a regularly scheduled community call, webcast, or other form of comms to preserve project momentum. Even regularly scheduled face-to-face meet-ups can drive progress as people share work there.
+materials: "Access to your GitHub project repo"
 ---
 * TOC
 {:toc}
 
-## Summary
-
-In this module you’ll learn about the different types of communication channels, or “comms” you can use to help your community discover, explore, and contribute to your project.
-
-* * *
-
-## Table of Contents
-
-*   6.1.1\. Intro to Communications (a.k.a. Comms)
-*   6.1.2 Useful Channels for Communicating Your Work
-*   6.1.3\. Assignments
-
-* * *
-
-## What You Need Before You Start
-
-*   A project with content - even introductory content like a [README file](https://docs.google.com/document/d/1u1_CspVzOpxBYzHnWqe5J8tgCS6tUpMh_tztFarG31Q/edit) and [contribution guidelines](https://docs.google.com/document/d/1mBB4POj9NHYtzkKOw9j5L_EFwChfP88pz6LzYCfFwxM/edit) - to share.
-*   Basic knowledge of HTML, GitHub Pages, or a blogging platform like Wordpress.
-*   Online contact information (like email addresses or social media user names) for project participants.
-*   Understand your audience and the channels they use for communication! If those channels are not helpful to this work, how will you support them in learning a new one?
-
-* * *
-
-## What You'll Do
-
-*   Create a clearly-titled and structured, discoverable online comms resource that includes ways for your community to participate in real-time conversations and catch-up with archived ones.
-*   Establish a regularly scheduled community call, webcast, or other form of comms to preserve project momentum. Even regularly scheduled face-to-face meet-ups can drive progress as people share work there.
-
-* * *
-
-## What You'll Need
-
-*   Access to your GitHub project repo
-
-* * *
-
-## Time to Complete
-
-*   45-60 minutes
-*   Event time
-
-* * *
-
-## Steps
 
 ### 6.1.1\. Intro to Communications (a.k.a. Comms)
 
@@ -59,7 +29,7 @@ In this module you’ll learn about the different types of communication channel
 
 Comms also give project members a chance to talk with one another and support each other’s contributions to the project. In the video below, see how Coral Project Community Lead Sydette Harry describes how the Tiny Letter tool curates and archives online conversations about ‘creating common ground’ for collaborators in open journalism projects. Sydette and her colleagues are working to create a web-based platform and shared space for journalism communities to discuss their shared values, interests, and work.
 
-## Video
+#### Video
 https://www.filepicker.io/api/file/ho0atyueQOyzh0byiOox
 
 ### 6.1.2\. Useful Communication Channels for Open Projects
@@ -84,7 +54,7 @@ If your community doesn’t have much web expertise, you can ask around to see w
 
 After establishing your web presence, create a communications channel or publication that lets you regularly update your entire community on your project’s progress. While you can do this through social media updates via a project account, you might also develop more in-depth platform for sharing news like a community call (over the phone or video conferencing), newsletter, or development blog. Here's a clip from a [Mozilla community call on International Women's Day](https://www.youtube.com/watch?v=QfvrKvx4mUk).
 
-## Video
+#### Video
 https://www.filepicker.io/api/file/sazygmpkS0hsiU1CL4UC
 
 Community calls are regularly scheduled phone calls or webcasts that any community member can listen to, watch, and otherwise participate in live. Generally each call follows an agenda shared ahead of time that includes times for call organizers and project contributors to share updates, as well as time for less involved participants to ask questions about what’s been going on in the project. The agenda is typically published as a shared document so call organizers and participants can take notes during the call. You can see [an example of how Mozilla’s learning community structures its community calls here](https://teach.mozilla.org/community/community-call).

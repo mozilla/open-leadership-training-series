@@ -2,48 +2,24 @@
 layout: page
 title: "The GitHub Interface and Markdown"
 date: 2016-10-06 14:05:56
-time: " min"
+time: "30 min"
 following: _articles/get-your-project-online/project-set-up-for-collaboration-with-github.md
+summary: "In this module, we’ll get acquainted with GitHub interface-- the place where all the magic happens. You’ll also sign up for a GitHub account, and start getting your project online!"
+prereq: "Have completed all previous sections and modules"
+format: "Read, watch videos, use GitHub."
+materials: "a computer, an internet connection, and a free GitHub account"
 ---
 * TOC
 {:toc}
 
-## Summary
-
-In this module, we’ll get acquainted with GitHub interface-- the place where all the magic happens. You’ll also sign up for a GitHub account, and start getting your project online!
-
-## Table of Contents
-
-4.3.1 The GitHub Interface
-
-4.3.2 Using Markdown
-
-4.3.3 Exercise: Getting on GitHub
-
-What you’ll need to start:
-
-*   Have completed all previous sections and modules
-
-What You’ll Do:
-
-*   Read, watch videos, use GitHub.
-
-Materials You’ll Need:
-
-*   a computer, an internet connection, and a free GitHub account
-
-Time to complete:
-
-*   30 minutes, or as needed
-
-## 4.3.1 The GitHub Interface
+### 4.3.1 The GitHub Interface
 
 Probably the easiest way to get to know the GitHub interface is to click around it a bit. We’ll do that in the video below to give you a preview, but you should explore on your own when you get your account set up in the assignment that follows.
 
-## Video
+#### Video
 https://www.filepicker.io/api/file/JBBnlYcIQlGAth3Uaw9F
 
-## 4.3.2\. Using Markdown
+### 4.3.2\. Using Markdown
 
 In the previous video, you saw lots of documents and issues (those bits of information about work that needs to be done). Some of these files and issues included links, images, and emoticons. These documents were formatted using a handy system called “markdown” designed to make any document more organized and readable for display on the web. When you use markdown you are adding a bit of extra notation to your text file. This Markdown notation instructs your web browser how to display the text-- where to bold or italicize text, create lists, embed an image or a link, etc. Markdown is very much like HTML, the language of the web, in that it lets you easily create and display text in different ways online.
 
@@ -61,9 +37,9 @@ Here are some examples of how you can use Markdown.
 
 You can find [more documentation on using Markdown on Daring Fireball](http://daringfireball.net/projects/markdown/syntax), [and GitHub has its own markdown](http://daringfireball.net/projects/markdown/syntax) [documented here](https://guides.github.com/features/mastering-markdown/). There are also tools like [MacDown](http://macdown.uranusjr.com/) that show live previews to make writing Markdown easier.
 
-## 4.3.3\. Exercise: Get on GitHub!
+### 4.3.3\. Exercise: Get on GitHub!
 
-## Screenshots placeholder
+#### Screenshots placeholder
 
 Steps to complete:
 

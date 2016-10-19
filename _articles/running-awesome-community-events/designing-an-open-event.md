@@ -2,66 +2,32 @@
 layout: page
 title: "Designing an Open Event"
 date: 2016-10-06 14:05:56
-time: "70 mins"
+time: "60 mins"
 following: _articles/running-awesome-community-events/event-planning-and-facilitation.md
+summary: "Learn how to plan and design a face-to-face convening for your project, inviting feedback and contributions from your community."
+prereq: "An idea for a face-to-face event that adds value to your project and to attendees' experiences with it."
+format: >
+  *   Storyboard or map your event.
+
+  *   Make a checklist of convening tasks on GitHub.
+
+  *   Spread the word about your event and invite your community through communications about the gathering.
+materials: "Paper, markers, and access to a GitHub project repo"
 ---
 * TOC
 {:toc}
 
-## Summary
-
-Learn how to plan and design a face-to-face convening for your project, inviting feedback and contributions from your community.
-
-* * *
-
-## Table of Contents
-
-*   7.2.1 An Intro to Designing Your Event
-*   7.2.2 Questions to Consider
-*   7.2.3 Assignments
-
-* * *
-
-## What You Need To Start
-
-*   An idea for a face-to-face event that adds value to your project and to attendees' experiences with it.
-
-* * *
-
-## What You'll Do
-
-*   Storyboard or map your event.
-*   Make a checklist of convening tasks on GitHub.
-*   Spread the word about your event and invite your community through communications about the gathering.
-
-* * *
-
-## What You'll Need
-
-*   Paper
-*   Markers
-*   Access to a GitHub project repo
-
-* * *
-
-## Time to Complete
-
-*   45-60 minutes
-
-* * *
-
-## Steps
 
 ### 7.2.1\. Intro to Designing Your Event
 
 Face to face (F2F) meetings in real life (IRL) help cement the bonds between contributors to your project. They create immediate and personal opportunities for connecting with shared values, shared work, and other humans. Convening also gives you and your participants practice working together all at once in the same space. It’s a chance to to ask and answer questions about the project and process in real-time.
 
-## Video
+#### Video
 https://www.filepicker.io/api/file/iWEbhrwTgGWsRsTQyeTv
 
 In this module, to support your project, you'll think and work through everything that it takes to convene a successful F2F event for your project. Your goals for this part of the curriculum should be to plan and convene a successful event with your community. Start small so you can get a handle on all of the work that goes into convening a successful event.
 
-### Co-Organization
+#### Co-Organization
 
 If you have a contributor who is great at this kind of work or who has volunteered for the chance to do this kind of work, consider co-planning the event or delegating part of the planning to them as a way of recognizing and leveling-up their participation in the project.
 
@@ -69,17 +35,17 @@ Work to connect volunteer contributors with planning and facilitative tasks that
 
 As you become more experienced at convening events and begin to plan larger ones, keep your staffing needs in mind. You will need help to make larger events run smoothly. At ten, fifteen, or twenty people, it’s likely you’ll want a partner. You’ll want several people helping you when you begin planning events for 25 or 30 people. Again, start small. Plan an event for 10-15 people and don’t be afraid to ask for someone from the community to lend a hand. See how it goes and use your own experience to judge how much support you’ll need for the next event.
 
-### Defining Purpose
+#### Defining Purpose
 
 The first thing to plan for in convening others is to figure out why you're meeting. The purpose of the gathering should help you determine its format and scope.
 
 For example, if you need to meet with core contributors about the direction of the project, a small event might work best. However, if you want to invite your community to help develop stuff you need for your project, a larger event with a shared agenda might work best.
 
-### Selecting a Format
+#### Selecting a Format
 
 There are different kinds of events, and some are better for certain outcomes than others:
 
-## 7.2.2\. Questions to Consider
+### 7.2.2\. Questions to Consider
 
 Once you have your purpose and format sketched out, you can use questions like these as a convening checklist.
 
@@ -105,7 +71,7 @@ Moreover, you want to draw on your project’s contribution guidelines, establis
 
 Check out this [brief, sample emergency action plan](http://www.ebparks.org/activities/permits/bookingspecialevents/sampleeventplan) for events from the East Bay Regional Parks District.
 
-## 7.2.3\. Assignments
+### 7.2.3\. Assignments
 
 #### 1\. Storyboard or map your event. (30 minutes)
 

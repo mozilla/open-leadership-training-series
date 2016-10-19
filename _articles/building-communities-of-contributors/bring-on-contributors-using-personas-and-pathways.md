@@ -2,45 +2,21 @@
 layout: page
 title: "Bring on Contributors Using Personas & Pathways"
 date: 2016-10-06 14:05:56
-time: " min"
+time: "45 min"
 following: _articles/building-communities-of-contributors/understand-meaningful-participation-and-distributed-leadership.md
+summary: "Learn how to bring contributors onto your project by using tools called \"personas\" and \"pathways.\" These tools will help you plan and test how you'll interact with new contributors, and imagine what is really involved for the contributor to succeed."
+prereq: "Have completed all previous sections and modules"
+format: "A writing and thinking assignment. It can be done alone, but it’s a great idea to invite a supporter, key contributor, or community member to help!"
+materials: "pen or pencil and paper, or a computer with word processing software"
 ---
 * TOC
 {:toc}
 
-## Summary
-
-Learn how to bring contributors onto your project by using tools called "personas" and "pathways." These tools will help you plan and test how you'll interact with new contributors, and imagine what is really involved for the contributor to succeed.
-
-## Table of Contents
-
-3.3.1\. About Personas
-
-3.3.2 About Pathways
-
-3.3.3\. Assignment: Create a Persona and Pathway for your project
-
-## What you’ll need to start:
-
-*   Have completed all previous sections and modules
-
-## What You’ll Do:
-
-*   A writing and thinking assignment. It can be done alone, but it’s a great idea to invite a supporter, key contributor, or community member to help!
-
-## Materials You’ll Need:
-
-*   pen or pencil and paper, or a computer with word processing software
-
-## Time to complete:
-
-*   30-45 minutes, or as needed
-
-## 3.3.1\. About Personas
+### 3.3.1\. About Personas
 
 A “persona” is a tool commonly used in the design world, to help create products and experiences that work for real world users (aka “user-centered design”). This short video describes a bit more about personas and how they're typically used.
 
-## Video
+#### Video
 https://www.filepicker.io/api/file/Xx83owiQdyyBMfJg6YCg
 
 To recap, the persona is a description of a user. Personas should:
@@ -55,7 +31,7 @@ _Rashid is a PhD student in astronomy at a university in Southern England. He’
 
 Once we have created a persona, we can imagine how they might interact with our project-- the pathway they to get involved and to sustain involvement.
 
-## 3.3.2 About Pathways
+### 3.3.2 About Pathways
 
 Once we have created a persona, we can imagine how they might interact with our project-- the pathway they to get involved and to sustain involvement. Let's imagine that this process of engagement has a few phases.
 
@@ -82,9 +58,9 @@ When you think through a pathway, you should begin to realize, what needs to be 
 *   Offer an online intro to GitHub for those who join mid-semester and missed the first sessions.
 *   Schedule meetings for daytimes and early evenings to avoid conflicts with family schedules.
 
-## 3.3.3\. Assignment: Create a Persona and Pathway for your project
+### 3.3.3\. Assignment: Create a Persona and Pathway for your project
 
-## Steps
+#### Steps
 
 1.Brainstorm. Read through the two following questions and come up with answers. You can do this individually or as a group. If working in a group, brainstorm individually and share afterwards. Sticky notes are great for this task, for recording ideas during the brainstorm, and sharing and organizing the group’s ideas. Spend about 3 minutes on each question.
 
@@ -94,9 +70,9 @@ When you think through a pathway, you should begin to realize, what needs to be 
 
 2.Write Create a short written description of your persona. See above "Rashid" for an example. Spend about 4 minutes on this task. If you like, draw a picture of this person!
 
-<hp>3\. Plan a Pathway Using the structure above (Discovery → Leadership), describe a pathway for your persona. What are the steps through this project? What could be stumbling blocks for user?</hp>
+3. Plan a Pathway Using the structure above (Discovery → Leadership), describe a pathway for your persona. What are the steps through this project? What could be stumbling blocks for user?
 
-4\. List your Solutions For each potential stumbling block or barrier your user might encounter, list a solution that you'll work into your design of your group or project.
+4. List your Solutions For each potential stumbling block or barrier your user might encounter, list a solution that you'll work into your design of your group or project.
 
 You’ll likely need more than one persona for your project, as different groups of users will have different needs and motivations. Repeat this exercise as needed.
 
