@@ -19,12 +19,20 @@ header h1 {
   display: inline-block;
 }
 
+ a, a:link {
+  color:#298069;
+}
+
+a:hover {
+  color:#10503F;
+}
+
 .details time, .details edit {
   margin-bottom: 3px;
   display: block;
 }
 
-time, edit {
+time {
   color: #2581B7;
 }
 
@@ -162,11 +170,14 @@ html.no-js .sidebar .collapsible-content {
   padding: 2;
   outline: none;
 }
+.sidebar-menu>li>a:hover,
+.sidebar-menu>li>a:focus {
+  background-color: #406e99;
+  transition: background-color 3ms;
+}
 .sidebar-menu a:hover,
 .sidebar-menu a:focus {
   text-decoration: none;
-  background-color: #2e5c87;
-  transition: background-color 3ms;
 }
 .sidebar-menu li.selected {
     background-color: #2e5c87;
@@ -291,7 +302,7 @@ blockquote {
   padding: 0.5rem 1rem;
   margin-bottom: 1rem;
   font-size: 1.25rem;
-  border-left: 0.25rem solid #eceeef;
+  border-left: 0.25rem solid rgba(67, 131, 191, 0.3);
 }
 
 body ul, body ol {
@@ -331,8 +342,8 @@ td, th {
 }
 
 a.btn {
-    background: #4383bf;
-    box-shadow: 0 2px 0 #2e5c87;
+    background: #16afe5;
+    box-shadow: 0 2px 0 #0f7a9f;
     color: #fff;
     transition: background 0.2s ease-in-out;
 }
@@ -344,7 +355,7 @@ a.btn {
 }
 
 .btn:hover {
-    background: #2e5c87;
+    background: #0f7a9f;
     color: #fff;
 }
 
