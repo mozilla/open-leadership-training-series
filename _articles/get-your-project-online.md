@@ -11,9 +11,3 @@ following: _articles/get-your-project-online/introducing-github-for-collaborativ
 ---
 
 In this module you’ll set your project up for collaboration on the web, using GitHub, an online tool for working openly with communities, tracking changes to shared documents, and managing open projects.
-
-
-4.2 Introducing GitHub for Collaborative Work and Version Control
-4.3 The GitHub Interface and Markdown
-4.4 Project Set-Up for Collaboration with GitHub
-4.5 Sharing Your Work in The Open
