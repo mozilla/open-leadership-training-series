@@ -360,20 +360,23 @@ td, th {
 
 @-webkit-keyframes passing {
   0% {
-    -webkit-transform: translateX(-50%);
-    transform: translateX(-50%);
-    opacity: 0;
-  }
-
-  50% {
     -webkit-transform: translateX(0%);
+    -ms-transform: translateX(0%);
     transform: translateX(0%);
     opacity: 1;
   }
 
+  50% {
+    -webkit-transform: translateX(100%);
+    -ms-transform: translateX(100%);
+    transform: translateX(100%);
+    opacity: 0.8;
+  }
+
   100% {
-    -webkit-transform: translateX(50%);
-    transform: translateX(50%);
+    -webkit-transform: translateX(250%);
+    -ms-transform: translateX(250%);
+    transform: translateX(250%);
     opacity: 0;
   }
 }
@@ -401,11 +404,11 @@ td, th {
   }
 }
 
-.btn-next:hover > .faa-passing {
+.btn-next:hover > i {
   -webkit-animation: passing 70ms linear;
   animation: passing 70ms linear;
 }
 
-.btn-next:hover > .faa-passing {
+.btn-next:hover > i {
   opacity:0;
 }
