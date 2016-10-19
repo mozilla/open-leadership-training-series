@@ -67,11 +67,6 @@ code {
     color: inherit;
 }
 
-#navigation li.divider{
-  border-top:1px solid #CCC;
-  margin:0 3em 0 0;
-}
-
 .sidebar {
     background-color: #4383bf;
     position: relative;
@@ -129,7 +124,7 @@ html.no-js .sidebar .collapsible-content {
   position: relative;
   font-size: 2rem;
   /*color: #595a5e;*/
-  padding: 1rem 15px;
+  padding: 1rem 20px;
   overflow: hidden;
 }
 @media screen and (min-width: 600px) {
@@ -200,7 +195,7 @@ html.no-js .sidebar .collapsible-content {
   padding: 0;
 }
 .sidebar-menu>li>a{
-  padding: 15px;
+  padding: 15px 20px;
 }
 @media screen and (min-width: 800px) {
   .sidebar-menu .glyphicon {
@@ -539,6 +534,6 @@ footer {
   }
 }
 
-footer.col-md-12 {
+footer.col-sm-12 {
   padding:0;
 }
