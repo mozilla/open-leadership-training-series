@@ -68,10 +68,10 @@ layout: default
 
 {% if page.following %}
  {% assign next = site.articles | where: "path", page.following | first %}
- <a class="btn btn-lg btn-default"href="{{ next.url | prepend: site.baseurl }}">
+ <a class="btn btn-lg btn-default btn-next" href="{{ next.url | prepend: site.baseurl }}">
 next:
 {{ next.title }} &nbsp;
-<i class="fa fa-play" aria-hidden="true"></i>
+<i class="fa fa-play faa-passing" aria-hidden="true"></i>
 </a>
 <br />
 {% endif %}
