@@ -7,7 +7,7 @@ following: _articles/introduction-to-open-leadership/understanding-the-project-l
 summary: "This module introduces you to the basic concepts of working open."
 materials: None
 format: Read and watch videos on this topic
-prereq: "Have read the [Series README file](/open-leadership-training-series/)"
+prereq: "Have read the [Series README file](/open-leadership-training-series/articles/readme)"
 ---
 * TOC
 {:toc}
@@ -21,8 +21,10 @@ Welcome! We’re excited that you’re here. In this training series, you’ll l
 
 The Open Leadership Training Series is designed for those who want to work together with others to create, build, and make amazing stuff-- anything from software projects to learning materials to organizations or advocacy campaigns. As we mentioned in the [Series README]({{ site.baseurl }}/)-- it doesn’t matter if you your project aims to teach kids to code in Cleveland or build mobile apps with taxi drivers in Bangladesh, this is a one-size-fits-all resource. Here is one example of how people are working open, in real life, on real projects.
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S9sZglPGS2E" frameborder="0" allowfullscreen></iframe>
+#### <i class="fa fa-play" aria-hidden="true"></i> Video: A Working Open Example | STEMM Role Models
+<div class="videoWrapper">
+<iframe width="100%" height="auto" src="https://www.youtube.com/embed/S9sZglPGS2E" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ### The Ingredients of an Open Project
 
