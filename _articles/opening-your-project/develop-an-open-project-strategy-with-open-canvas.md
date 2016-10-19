@@ -5,7 +5,7 @@ date: 2016-10-06 14:05:56
 time: "40 mins"
 following: _articles/opening-your-project/write-a-great-project-readme.md
 summary: "Use a format called Open Canvas to help further define your project goals, strategy, and needs for resources."
-prereq: "Have completed section 1"
+prereq: "Have completed the previous section"
 format: >
   *   Read and watch videos on this topic
 

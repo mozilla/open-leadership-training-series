@@ -81,20 +81,9 @@ code {
 
 .sidebar-header .moz-logo {
     width: 100%;
-    max-width: 5rem;
-}
-.sidebar-header {
-    position: relative;
-    font-size: 2rem;
-    color: #595a5e;
-    padding: 2rem 1.5rem;
-    overflow: hidden;
+    max-width:130px;
 }
 
-
-html.no-js .sidebar .sidebar-header .glyphicon-menu-hamburger {
-  display: none;
-}
 html.no-js .sidebar .collapsible-content {
   /* The links in the sidebar are crucial to navigating the site.
      * If JS is disabled, we want the links visible at all costs. */
@@ -137,8 +126,8 @@ html.no-js .sidebar .collapsible-content {
 .sidebar-header {
   position: relative;
   font-size: 2rem;
-  color: #595a5e;
-  padding: 2rem 1.5rem;
+  /*color: #595a5e;*/
+  padding: 1rem 15px;
   overflow: hidden;
 }
 @media screen and (min-width: 600px) {
@@ -149,10 +138,10 @@ html.no-js .sidebar .collapsible-content {
 .sidebar-header a:hover,
 .sidebar-header a:focus {
   text-decoration: none;
-}
+}`
 .sidebar-header .moz-logo {
   width: 100%;
-  max-width: 13rem;
+  max-width: 100px;
 }
 .sidebar-header .glyphicon-menu-hamburger {
   position: absolute;
@@ -246,11 +235,10 @@ html.no-js .sidebar .collapsible-content {
 .sidebar-subitems {
   overflow: hidden;
   list-style: none;
-  padding: 0 0 0 6.6rem;
 }
 @media screen and (min-width: 600px) {
   .sidebar-subitems {
-    padding-left: 2.5rem;
+    padding-left: 2rem;
   }
 }
 .sidebar-subitems li {
@@ -261,7 +249,7 @@ html.no-js .sidebar .collapsible-content {
   content: "\f105";
   font-family: "FontAwesome";
   display: inline-block;
-  margin-right: 1rem;
+  margin-right: 0.6rem;
 }
 .sidebar-subitems a {
   display: inline-block;
