@@ -25,6 +25,7 @@ layout: default
     </p>
     </div>
   </div>
+  {% if page.format || page.prereq || page.materials %}
   <div class="row p-y-1">
     <div class="col-sm-4">
       {% if page.format %}
@@ -45,11 +46,12 @@ layout: default
       {% endif %}
     </div>
   </div>
+  {% endif %}
 </div>
 {{ content }}
 
 {% if page.contents %}
-  <h3>Table of Contents for this section</h3>
+  <h3>In This Section</h3>
   <ol>
 {% for path in page.contents %}
   {% assign subpage = site.articles | where: "path", path | first %}
