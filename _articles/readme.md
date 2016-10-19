@@ -17,15 +17,15 @@ This training was developed by the non-profit Mozilla Foundation, with help from
 
 The training consists of nine sections, each containing a set of modules on a topic related to working open. In each module, you’ll learn by reading, watching short videos created by Mozilla staff and community members, and completing hands-on assignments. The assignments build on each other, so this training works best if you do the modules in order.  The nine sections are:
 
-1. [Introduction to Open Leadership](articles/introduction-to-open-leadership)
-2. [Opening Your Project](articles/opening-your-project)
-3. [Building Communities of Contributors](articles/building-communities-of-contributors)
-4. [Get Your Project Online -- Getting Started with GitHub](articles/get-your-project-online)
-5. [GitHub for Collaboration](articles/github-for-collaboration)
-6. [Open Communications](articles/open-communications)
-7. [Running Awesome Community Events](articles/running-awesome-community-events)
-8. [Open Project Maintenance](articles/open-project-maintenance)
-9. [Open Leadership Outro and Next Steps](articles/open-leadership-outro-and-next-steps)
+1. [Introduction to Open Leadership]({{ site.baseurl }}/articles/introduction-to-open-leadership)
+2. [Opening Your Project]({{ site.baseurl }}/articles/opening-your-project)
+3. [Building Communities of Contributors]({{ site.baseurl }}/articles/building-communities-of-contributors)
+4. [Get Your Project Online -- Getting Started with GitHub]({{ site.baseurl }}/articles/get-your-project-online)
+5. [GitHub for Collaboration]({{ site.baseurl }}/articles/github-for-collaboration)
+6. [Open Communications]({{ site.baseurl }}/articles/open-communications)
+7. [Running Awesome Community Events]({{ site.baseurl }}/articles/running-awesome-community-events)
+8. [Open Project Maintenance]({{ site.baseurl }}/articles/open-project-maintenance)
+9. [Open Leadership Outro and Next Steps]({{ site.baseurl }}/articles/open-leadership-outro-and-next-steps)
 
 #### Before you start the training series, you must have:
 
