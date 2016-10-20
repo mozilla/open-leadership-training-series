@@ -1,6 +1,7 @@
 ---
 layout: page
-title: "2. Opening Your Project"
+title: "Opening Your Project"
+module: "2"
 date: 2016-10-06 14:05:56
 contents:
   - _articles/opening-your-project/develop-an-open-project-strategy-with-open-canvas.md

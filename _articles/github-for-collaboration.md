@@ -1,6 +1,7 @@
 ---
 layout: page
-title: "5. GitHub for Collaboration"
+title: "GitHub for Collaboration"
+module: "5"
 date: 2016-10-06 14:05:56
 contents:
   - _articles/github-for-collaboration/getting-around-github.md

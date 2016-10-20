@@ -1,6 +1,7 @@
 ---
 layout: page
-title: "8. Open Project Maintenance"
+title: "Open Project Maintenance"
+module: "8"
 date: 2016-10-06 14:05:56
 contents:
   - _articles/open-project-maintenance/open-project-maintenance.md

@@ -1,6 +1,7 @@
 ---
 layout: page
-title: "3. Building Communities"
+title: "Building Communities"
+module: "3"
 date: 2016-10-06 14:05:56
 contents:
   - _articles/building-communities-of-contributors/visualize-your-support-network.md
