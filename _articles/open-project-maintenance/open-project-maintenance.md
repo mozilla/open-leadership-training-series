@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Open Project Maintenance"
+module: "8.1"
 date: 2016-10-06 14:05:56
 time: "60 mins"
 following: _articles/open-leadership-outro-and-next-steps.md

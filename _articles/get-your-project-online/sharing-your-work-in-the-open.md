@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Sharing Your Work in The Open"
+module: "4.4"
 date: 2016-10-06 14:05:56
 time: "60 min"
 following: _articles/github-for-collaboration.md

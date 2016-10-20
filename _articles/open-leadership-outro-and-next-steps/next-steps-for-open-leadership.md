@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Next Steps for Open Leadership"
+module: "9.1"
 date: 2016-10-06 14:05:56
 time: "60 mins"
 summary: "Reflect on your open leadership journey and key takeaways for continuing your work."

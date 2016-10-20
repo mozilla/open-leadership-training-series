@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Visualize Your Support Network"
+module: "3.1"
 date: 2016-10-06 14:05:56
 time: "20 min"
 following: _articles/building-communities-of-contributors/bring-on-contributors-using-personas-and-pathways.md

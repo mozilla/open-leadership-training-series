@@ -4,8 +4,9 @@ layout: default
 
 <div class="lesson-content">
 <div class="page-header">
-    <h2>{{ page.title }}
-        {% if page.subtitle %}<small>{{ page.subtitle }}</small>{% endif %}
+    <h2>
+      {% if page.module %}{{ page.module }}.{% endif %}
+      {{ page.title }}
     </h2>
 </div>
 <div class="details">
@@ -53,17 +54,16 @@ layout: default
 
 {% if page.contents %}
   <h3>In This Section</h3>
-  <ol>
 {% for path in page.contents %}
   {% assign subpage = site.articles | where: "path", path | first %}
-  <li>
+   <p>
+    {% if subpage.module %}{{ subpage.module }}.{% endif %}
     <a href="{{ subpage.url | prepend: site.baseurl }}">{{ subpage.title }}</a>
     {% if subpage.time %}
     ({{ subpage.time }})
     {% endif %}
-  </li>
+  </p>
 {% endfor %}
-  </ol>
 {% endif %}
 
 {% if page.following %}

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Introducing GitHub"
+module: "4.1"
 date: 2016-10-06 14:05:56
 time: "20 min"
 following: _articles/get-your-project-online/the-github-interface-and-markdown.md

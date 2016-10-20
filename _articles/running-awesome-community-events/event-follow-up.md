@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Event Follow-up"
+module: "7.3"
 date: 2016-10-06 14:05:56
 time: "60 mins"
 following: _articles/running-awesome-community-events/documenting-and-reporting.md

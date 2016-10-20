@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Getting Around in GitHub"
+module: "5.1"
 date: 2016-10-06 14:05:56
 time: "10 mins"
 following: _articles/github-for-collaboration/collaborative-workflow-for-contributions.md

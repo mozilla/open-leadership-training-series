@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Write Contributor Guidelines"
+module: "3.5"
 date: 2016-10-06 14:05:56
 time: "60 min"
 following: _articles/get-your-project-online.md

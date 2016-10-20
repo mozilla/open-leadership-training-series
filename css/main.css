@@ -1,6 +1,7 @@
 .hero-unit h1 {
   font-size: 3.7rem;
 }
+ol.toc { list-style-type: none; }
 
 h3 {
   color: #4383bf;

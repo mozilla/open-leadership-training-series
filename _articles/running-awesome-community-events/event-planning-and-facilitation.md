@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Event Planning & Facilitation"
+module: "7.2"
 date: 2016-10-06 14:05:56
 time: "90 mins"
 following: _articles/running-awesome-community-events/event-follow-up.md

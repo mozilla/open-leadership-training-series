@@ -11,7 +11,7 @@
 {% for path in item.contents %}
   {% assign subpage = site.articles | where: "path", path | first %}
   <li{% if page.url contains subpage.url %} class="selected"{% endif %}>
-    <a href="{{ subpage.url | prepend: site.baseurl }}">{{ subpage.title }}</a>
+    <a href="{{ subpage.url | prepend: site.baseurl }}">{% if subpage.module %}{{ subpage.module }}.{% endif %} {{ subpage.title }}</a>
       {% if page.url contains subpage.url %}
         {% if subpage.contents %}
           {% include contents.html item=subpage %}

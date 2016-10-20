@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Designing an Open Event"
+module: "7.1"
 date: 2016-10-06 14:05:56
 time: "60 mins"
 following: _articles/running-awesome-community-events/event-planning-and-facilitation.md

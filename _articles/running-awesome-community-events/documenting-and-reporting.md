@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Documenting & Reporting"
+module: "7.4"
 date: 2016-10-06 14:05:56
 time: "60 mins"
 following: _articles/open-project-maintenance.md
