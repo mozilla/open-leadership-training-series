@@ -1,26 +1,14 @@
-
-header {
-  background: #16afe5;
-  color: white;
-  padding: 0 20px;
+.hero-unit h1 {
+  font-size: 3.7rem;
 }
 
-header .container {
-  padding: 15px 10px;
-}
-
-header h1 {
-  margin: 0;
-  padding: 0;
-  color: rgba(255,255,255,.9);
-  font-size: 28px;
-  position: relative;
-  top: 2px;
-  display: inline-block;
+h3 {
+  color: #4383bf;
+  font-weight: 200;
 }
 
  a, a:link {
-  color:#298069;
+  color:#299b7d;
 }
 
 a:hover {
@@ -118,7 +106,10 @@ html.no-js .sidebar .collapsible-content {
   max-height: 0;
   padding-bottom: 0;
 }
-@media screen and (min-width: 600px) {
+.lesson-content {
+  padding:1rem;
+}
+@media screen and (min-width: 992px) {
   .sidebar {
     height: 100%;
     transition: background-color 5ms;
@@ -135,7 +126,7 @@ html.no-js .sidebar .collapsible-content {
   padding: 1rem 20px;
   overflow: hidden;
 }
-@media screen and (min-width: 600px) {
+@media screen and (min-width: 992px) {
   .sidebar-header {
     background-color: rgba(255, 255, 255, 0.3);
   }
@@ -208,12 +199,12 @@ html.no-js .sidebar .collapsible-content {
 .sidebar-menu>li>a{
   padding: 15px 20px;
 }
-@media screen and (min-width: 800px) {
+@media screen and (min-width: 1200px) {
   .sidebar-menu .glyphicon {
     right: 1.5rem;
   }
 }
-@media screen and (min-width: 600px) {
+@media screen and (min-width: 992px) {
   .sidebar-menu .glyphicon {
     visibility: visible;
   }
@@ -244,7 +235,7 @@ html.no-js .sidebar .collapsible-content {
   overflow: hidden;
   list-style: none;
 }
-@media screen and (min-width: 600px) {
+@media screen and (min-width: 992px) {
   .sidebar-subitems {
     padding-left: 2rem;
   }
@@ -346,6 +337,7 @@ a.btn {
     box-shadow: 0 2px 0 #0f7a9f;
     color: #fff;
     transition: background 0.2s ease-in-out;
+    white-space:normal;
 }
 
 .btn {
@@ -411,8 +403,8 @@ a.btn {
 }
 
 .btn-next:hover > i {
-  -webkit-animation: passing 70ms linear;
-  animation: passing 70ms linear;
+  -webkit-animation: passing 100ms linear;
+  animation: passing 100ms linear;
 }
 
 .btn-next:hover > i {
@@ -489,6 +481,9 @@ footer {
     padding-right: 1.25rem;
     margin-bottom: 0;
     margin-right: 1.25rem;
+  }
+  .lesson-content {
+    padding:3.5rem;
   }
 }
 @media screen and (max-width: 768px) {

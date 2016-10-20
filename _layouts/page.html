@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class="p-a-3 lesson-content">
+<div class="lesson-content">
 <div class="page-header">
     <h2>{{ page.title }}
         {% if page.subtitle %}<small>{{ page.subtitle }}</small>{% endif %}
@@ -22,7 +22,7 @@ layout: default
   {% if page.time %}
     <time>{{page.time}}</time>
   {% endif %}
-    <a href="https://github.com/{{ site.github.repo }}/edit/{{ site.github.branch }}/{{ page.path }}"><edit>Suggest changes</edit></a>
+    <a target="_blank" href="https://github.com/{{ site.github.repo }}/edit/{{ site.github.branch }}/{{ page.path }}"><edit>Suggest changes</edit></a>
     </p>
     </div>
   </div>
@@ -77,4 +77,4 @@ next:
 {% endif %}
 
 <hr />
-    <edit></edit>Help us improve content and <a href="https://github.com/{{ site.github.repo }}/edit/{{ site.github.branch }}/{{ page.path }}">suggest changes</a> to this page
+    <edit></edit>Help us improve content and <a target="_blank" href="https://github.com/{{ site.github.repo }}/edit/{{ site.github.branch }}/{{ page.path }}">suggest changes</a> to this page
