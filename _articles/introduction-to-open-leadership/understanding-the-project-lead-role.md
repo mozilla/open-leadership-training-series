@@ -20,7 +20,7 @@ materials: "Paper and pen or computer for recording reflection"
 {:toc}
 
 
-### 1.3.1 Introduction
+### Introduction
 
 When you're leading an open project, there are a few things you’ll do, listed below in the order they’ll likely happen on your project. Some of these practices (such as working with volunteers) aren’t so unusual, but in an open project the notions of community involvement and information-sharing become core, driving principles. When you work open you:
 
@@ -34,10 +34,9 @@ When you're leading an open project, there are a few things you’ll do, listed 
 
 Each of these points deals with making a project **participatory (getting new people involved)** and **transparent (sharing information about the project widely, in a way that’s useful for others).** Every project is different, and some of the points above may be less relevant to your project, while others will be at its core. Some projects will implement these elements slowly, while others may work fully in the open from day one. No matter how you do it, you can think of working open as a way of working that invites outsiders-- those who might otherwise have little or no part in project work, creation, and decision-making-- to become insiders in those aspects of the project. You can do this is by building trust in your community of collaborators.
 
-
-#### Video
-[video](https://www.filepicker.io/api/file/2Egul1krQXaCeNTqfZGN)
-
+{% include videowrapper.html
+  url="https://www.filepicker.io/api/file/2Egul1krQXaCeNTqfZGN"
+  title="Creating Trust on an Open Project, Abby Cabunoc Mayes" %}
 
 
 To recap, here are ways that you can build trust on your project.
@@ -58,7 +57,7 @@ To secure the trust of members of your community, you should:
 
 *   **Show that the project is solid, and worthy of their time and energy.**
 
-### 1.3.2 What working open can (and can’t) do for you.
+### What working open can (and can’t) do for you.
 
 As Project Lead, you also need to have a good grasp of the possibilities and limitations of working open, and realistic expectations of what it can (and can’t) do for your project.
 
@@ -80,6 +79,6 @@ Working open can help your project flourish and grow, but there are also many mi
 
 **Working open is not a way to avoid process or structure.** Because decision-making is shared by the community and everyone pitches in as they like, it may seem like there’s no need to create roles on a project or define a system or series of steps to for contributors to follow-- why not just keep it casual? Actually, good open projects should provide clear guidelines and a coherent process so new contributors know what to do and what to expect as they make their first contributions. It’s helpful to have roles-- even if these are lightweight and somewhat flexible-- so it’s clear who contributors can go to for help or who might approve or review a contribution they make. Any power structures or decision making processes need to be transparent, so contributors feel encouraged to participate meaningfully in shaping the direction of the project. We’ll discuss good, transparent project set-up in Section 2.
 
-### 1.3.3 Assignment: Reflecting on benefits and challenges of working open
+### {{ site.assignment }} Reflecting on benefits and challenges of working open
 
 Reflect on what the benefits, challenges, and limitations of working open might mean for your project. For example, how do you envision your project specifically benefiting from more community contribution and participation? How do you feel about the need for well-defined process and structure on this project? Take about 4 or 5 minutes to write out your thoughts on this. If working in a group, you can write your reflections on sticky notes and then share and discuss together.

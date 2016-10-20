@@ -21,10 +21,9 @@ Welcome! We’re excited that you’re here. In this training series, you’ll l
 
 The Open Leadership Training Series is designed for those who want to work together with others to create, build, and make amazing stuff-- anything from software projects to learning materials to organizations or advocacy campaigns. As we mentioned in the [Series README]({{ site.baseurl }}/)-- it doesn’t matter if you your project aims to teach kids to code in Cleveland or build mobile apps with taxi drivers in Bangladesh, this is a one-size-fits-all resource. Here is one example of how people are working open, in real life, on real projects.
 
-#### <i class="fa fa-play" aria-hidden="true"></i> Video: A Working Open Example | STEMM Role Models
-<div class="videoWrapper">
-<iframe width="100%" height="auto" src="https://www.youtube.com/embed/S9sZglPGS2E" frameborder="0" allowfullscreen></iframe>
-</div>
+{% include videowrapper.html
+  url="https://www.filepicker.io/api/file/383PaLJiSF68FFgvH5Qb"
+  title="A Working Open Example - STEMM Role Models, Kirstie Whitaker" %}
 
 ### The Ingredients of an Open Project
 

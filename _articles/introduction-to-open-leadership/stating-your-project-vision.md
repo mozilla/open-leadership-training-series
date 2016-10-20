@@ -17,7 +17,7 @@ materials: "Pencil and paper or a computer-- a way of recording your statement."
 {:toc}
 
 
-## 1.5.1 Your vision drives your project
+### Your Vision Drives Your Project
 
 Before you jump into section 2, on Opening Your Project, take a few minutes to state your vision for your project and community going forward. Your vision is what powers your project and excites and attracts contributors. It’s important to be able to say what you plan to do, clearly and concisely, in a short form, to anyone, on a moment’s notice! The process of choosing these words may also help you think through and refine your project idea and goals. This is a great exercise to do with a small group of community members or contributors if available, to ensure that everyone has a shared understanding of the project.
 
@@ -25,25 +25,30 @@ Before you jump into section 2, on Opening Your Project, take a few minutes to s
 
 Take a few minutes to state your vision for your project and community going forward. Your vision is what powers your project and excites and attracts contributors. It’s important to be able to say what you plan to do, clearly and concisely, in a short form, to anyone, on a moment’s notice! The process of choosing these words may also help you think through and refine your project idea and goals. This is a great exercise to do with a small group of community members or contributors if available, to ensure that everyone has a shared understanding of the project.
 
-## video placeholder
+{% include videowrapper.html
+  url=""
+  title="Placeholder" %}
 
-#### 1. Answer the following questions
-These questions will help you craft a vision or mission statement.
+### {{ site.assignment }} Write Your Vision or Mission Statement
+
+1. Answer the following questions
+
+  These questions will help you craft a vision or mission statement.
 
   * <span style="color:red">Who you’re working with, or hope to work with</span>
   * <span style="color:green">What you’re doing</span>
   * <span style="color:purple">Who you’re doing it for, your audience (may be same as b)</span>
   * <span style="color:blue">Why you’re doing this, the impact or change you hope to make</span>
 
-#### 2. Put it together in a short statement
+2. Put it together in a short statement
 
-Incorporating your responses, write your vision or mission statement in a short, simple format. Feel free to tweak the format. Color coding is added here for clarity, to indicate each key piece of information and where it appears in the statement:
+  Incorporating your responses, write your vision or mission statement in a short, simple format. Feel free to tweak the format. Color coding is added here for clarity, to indicate each key piece of information and where it appears in the statement:
 
-> I’m working with <span style="color:red">[community, allies, contributors]</span> to <span style="color:green">[make, build, teach, or do something]</span> so that <span style="color:purple">[audience, end users, consumers, community members]</span> can <span style="color:blue">[do something different, achieve a goal]</span>
+  > I’m working with <span style="color:red">[community, allies, contributors]</span> to <span style="color:green">[make, build, teach, or do something]</span> so that <span style="color:purple">[audience, end users, consumers, community members]</span> can <span style="color:blue">[do something different, achieve a goal]</span>
 
-Sample Statement:
+  Sample Statement:
 
-> I’m working with <span style="color:red">public school teachers in Boston</span> to <span style="color:green">teach computational thinking and creative coding skills</span> to <span style="color:purple">public school students</span> so that <span style="color:blue">they can use and create with technology to actively shape their own futures</span>.
+  > I’m working with <span style="color:red">public school teachers in Boston</span> to <span style="color:green">teach computational thinking and creative coding skills</span> to <span style="color:purple">public school students</span> so that <span style="color:blue">they can use and create with technology to actively shape their own futures</span>.
 
 Tips for writing your vision statement:
 
