@@ -6,8 +6,6 @@ The Open Leadership Training Series (OLTS) teaches you best practices in Working
 
 This documents is a set of guidelines for contributing to the OLTS on GitHub. These are guidelines, not rules. This guide is meant to make it easy for you to get involved.
 
-If your guide is long, consider adding a table of contents.
-
 * [Participation guidelines](#participation-guidelines)
 * [What we're working on](#what-were-working-on)
 * [How to submit changes](#how-to-submit-changes)
