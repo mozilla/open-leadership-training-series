@@ -38,8 +38,6 @@ If you master this workflow and practice it in your community, contribution can 
 
 Your communications on GitHub don’t need to be literary masterpieces, but it’s really helpful if they are clear and well-written. For example, remember a commit is the life story, the history, of your document is a timeline of commits. A good, comprehensible, useful "commit message" is one that fills in that story. It lets collaborators and the project owner/lead know what you've done, what changes you’ve made, what you’ve added. This includes your own commits as project lead. While you might know the ins and outs of any change you made at the moment, in 5 days or 5 weeks or 5 years, those details will probably have slipped your mind. A detailed commit will capture that information forever.
 
-#### Example placeholder
-
 When you’re writing commit messages, you’ll want to make them short, clear, and in a fairly uniform format so they're easy to read. Here are a few rules for writing messages like these, taken from this excellent blog post, [How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit/), by Chris Beams. Read the post to learn about the rationale behind each rule.
 
 1.  Separate subject from body with a blank line

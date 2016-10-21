@@ -41,8 +41,6 @@ You can find [more documentation on using Markdown on Daring Fireball](http://da
 
 ### {{ site.assignment }} Get on GitHub!
 
-#### Screenshots placeholder
-
 1.  Sign up.  Start by signing up with Github Online.  You’ll be creating a new account, and joining the larger GitHub community of people working openly.
 2.  Create a Repository, or place to store all your working files . Every project starts by creating a new repository.
     1.  Create a project title. Good practice is to either use dashes ("-") or underscores ("_") between words in your title (e.g. my-first-repo or my_first_repo), in the same way you might structure a file name on your desktop. Computers read continuous names more easily than ones punctuated by spaces, so it's nice to reinforce that convention in your file names. You can change the name of this repo later on (under the settings tab) if need be, but if you’re working with a community of contributors it’s best to keep your naming conventions consistent to avoid confusion.

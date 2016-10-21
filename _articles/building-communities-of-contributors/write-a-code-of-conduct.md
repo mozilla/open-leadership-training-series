@@ -24,12 +24,6 @@ Codes of Conduct serve two main purposes:
 *   To establish the sorts of behaviors encouraged by the community, and to make clear which behaviors are unacceptable and discouraged
 *   To establish the process by which any problems or violations of the guidelines will be handled by the project lead or leads.
 
-{% include videowrapper.html
-  url=""
-  title="Placeholder" %}
-
-#### Example placeholder
-
 ### {{ site.assignment }}Write your Code of Conduct
 
 What you’ll do: This is a writing and brainstorming exercise. It can be done individually by the project lead but it’s best completed with members of your community, to encourage shared responsibility for the community’s health and wellbeing.

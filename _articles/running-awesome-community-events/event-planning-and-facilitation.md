@@ -68,7 +68,7 @@ This video should communicate what it means to facilitate, lead, and model learn
 *   Pursuing lines of personal inquiry related to the project.
 *   Learning from everyone, not just the perceived “authorities” in the room.]
 
-You can find more tips and tricks for individual facilitators from the [Mozilla Science Lab](https://mozillascience.org/)] [here](http://mozillascience.github.io/open-science-leadership-workshop/facilitator_tips_&_tricks.html), such as:
+You can find more [tips and tricks for individual facilitators](http://mozillascience.github.io/open-science-leadership-workshop/facilitator_tips_&_tricks.html) from the [Mozilla Science Lab](https://mozillascience.org/). Some highlights:
 
 *   Set ground rules — state how the session will be run, timing for the session, what is expected of participants.
 *   Speak clearly, especially if some participants are not interacting in their native language.
