@@ -18,4 +18,4 @@ This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participatin
 
 ## License
 
-Non-software content in this project is licensed under a [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) license.
+Non-software content in this project is licensed under a [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) license.
