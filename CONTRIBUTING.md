@@ -32,7 +32,7 @@ First time contributing to open source? Check out this *free* series, [How to Co
 
 ## How to report bugs
 
-> Notice a mistake? Please file any bugs, requests, or questions in [our issue tracker](https://github.com/acabunoc/open-leadership-training-series/issues)
+Notice a mistake? Please file any bugs, requests, or questions in [our issue tracker](https://github.com/acabunoc/open-leadership-training-series/issues)
 
 ## Communication channels
 
