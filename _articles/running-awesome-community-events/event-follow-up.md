@@ -7,21 +7,14 @@ time: "60 mins"
 following: _articles/running-awesome-community-events/documenting-and-reporting.md
 summary: "Survey your attendees to improve offline events and sustain online contributions to your project."
 prereq: "Plans for convening and facilitating a face-to-face event in support of your project"
-format: >
-  *   Create and continuously update an organizing checklist issue in GitHub.
-
-  *   Design and deliver a short survey about your event and next steps for your project.
-
-  *   Gather your data and use it to improve your project.
-
-  *   Organize attendees and include assignments for sustained online contribution after your event.
+format: "Design a survey around your event to help plan next steps for your project"
 materials: An internet-connected computer, an online survey tool, access to your GitHub project repo
 ---
 * TOC
 {:toc}
 
 
-### 7.4.1\. Organizing for Action after an Event
+### Organizing for Action After an Event
 
 When you organize attendees as part of an event or after it ends, you help contributors and community members find ways to remain engaged with the project and continue its work.
 
@@ -31,20 +24,20 @@ Observing contributors at in-person, or face-to-face (F2F), events is a great wa
 
 Heading out of your event, here are questions you can use as a checklist for organizing contributors and next steps.
 
-#### Logistical
+**Logistical**
 
 *   How will you track work coming out of the event?
 *   How will you gather feedback on the event itself?
 *   How can you help attendees stay in touch to continue their face-to-face collaboration online?
 *   How can you make the work of the event accessible to people who did not attend?
 
-#### Interpersonal
+**Interpersonal**
 
 *   How will you recognize contributions made at the event?
 *   How will make sure that you collect feedback in an accessible and inclusive way?
 *   How will you accommodate participants' privacy decisions in collecting survey data?
 
-### 7.4.2\. Survey Examples
+### Survey Examples
 
 Your post-event survey should have three main goals:
 
@@ -62,17 +55,17 @@ Finally, set a deadline for responses so you can move ahead in planning or organ
 
 Here’s part of [a survey shared to participants](https://docs.google.com/a/mozillafoundation.org/forms/d/11Ptvzq5k91iYZjQdDGqGAS8U67WLORKTU8IF4BVpUyo/viewform?edit_requested=true) at the end of a web literacy training for the National Afterschool Alliance. You can visit the survey online and make a copy to remix it.
 
-<iframe src="https://docs.google.com/forms/d/11Ptvzq5k91iYZjQdDGqGAS8U67WLORKTU8IF4BVpUyo/viewform?embedded=true" marginheight="0" marginwidth="0" width="648" height="400" frameborder="0">Loading...</iframe> ]
+<iframe src="https://docs.google.com/forms/d/11Ptvzq5k91iYZjQdDGqGAS8U67WLORKTU8IF4BVpUyo/viewform?embedded=true" marginheight="0" marginwidth="0" width="100%" height="400" frameborder="0">Loading...</iframe> ]
 
 Notice that it mixes and matches question types. As you develop your questions and survey, think about which questions are answerable with multiple-choice or a scale. Make the survey as short and easy as possible to complete to encourage people to finish it. Ask just a few, essential, open ended questions with text boxes so recipients aren’t overwhelmed by the survey.
 
 Here’s [another example](http://joeyklee.github.io/friendly-github-intro/#survey), from a GitHub training, that mixes and matches scales with text boxes for comments on each answer. This is another survey you can copy in Google Drive and remix for your event.
 
-<iframe src="https://docs.google.com/forms/d/1J7aL9LsFuG3V0Y-1MUmnE648wKnxH3tLIb_kqoOPlJo/viewform?embedded=true" marginheight="0" marginwidth="0" width="618" height="400" frameborder="0">Loading...</iframe>
+<iframe src="https://docs.google.com/forms/d/1J7aL9LsFuG3V0Y-1MUmnE648wKnxH3tLIb_kqoOPlJo/viewform?embedded=true" marginheight="0" marginwidth="0" width="100%" height="400" frameborder="0">Loading...</iframe>
 
-### 7.4.3\. Follow-up Assignments.
 
-#### 1\. Create your survey and plan for delivery and review. (45 minutes)
+### {{ site.assignment }} Create Your Survey and Plan for Delivery and Review
+(45 minutes)
 
 After you have the chance to debrief on your event and see participants’ survey responses, make a checklist of next steps as a GitHub issue others can comment on in the open. List the tasks that people have suggested or self-selected and cc or @ contributors alongside the particular pieces of work that interest them. Assign yourself as the organizer for the ticket, encourage everyone involved to comment on work being done or work that's complete, keep the checklist up-to-date, and close the issue when all its goals are met.
 
@@ -86,11 +79,13 @@ Of course, you don’t need to spin up a huge checklist with a million sub-issue
 
 <pre>
   *   [ ] Draft survey.
-  *   [ ] Get feedback on survey - ask which questions are unnecessary and if any are missing.
+  *   [ ] Get feedback on survey - ask which questions are
+          unnecessary and if any are missing.
   *   [ ] Revise survey.
   *   [ ] Send survey to mailing list from the event.
   *   [ ] Tally results.
   *   [ ] Double check results to remove any private information.
   *   [ ] Report aggregate results on a GH issue in this repo.
-  *   Close the loop: cite your results and use them when you plan your next event.
+  *   Close the loop: cite your results and use them when you
+      plan your next event.
 </pre>

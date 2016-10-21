@@ -14,11 +14,11 @@ materials: "Access to your GitHub project repo"
 {:toc}
 
 
-### 8.2.1\. Mentorship as Maintenance
+### Mentorship as Maintenance
 
 Imagine reaching the end of your project. You've shipped an open source product to a community of users who helped build it.
 
-It's a natural time to ask, "What's next?" However, your project still needs your attention if it's to remain functional and useful in the long term. Maintenance of your open project is essential to its longevity and and is needed in order to be adopted by communities similar to yours..
+It's a natural time to ask, "What's next?" However, your project still needs your attention if it's to remain functional and useful in the long term. Maintenance of your open project is essential to its longevity and and is needed in order to be adopted by communities similar to yours.
 
 Mentorship in an important, but often overlooked a next step. Maintaining your project is as much about keeping its technology fresh - or at least functional - as it is about continuing your relationship with your contributors. As an open leader, you should continue to find ways to support them even after the official end of your shared project. Perhaps your next step is to mentor someone who wants to become an open leader, as well, and to serve as a contributor on their project.
 
@@ -30,7 +30,7 @@ What would you add to those guidelines? What kind of mentorship practices should
 
 You can also help your contributors move along the “committment curve” to deepen their engagement with, and contribute to your project. Check out [this curve from the A-Team Bootcamp](http://ateam-bootcamp.readthedocs.io/en/latest/guide/curve.html) to help you consider how community members can “level-up.”
 
-### 8.2.2\. Maintaining the Stuff
+### Maintaining the Stuff
 
 GitHub is a fine place to host your project as it enters maintenance mode; depositing your work and documentation in this kind of repository keeps its available for others to fork, clone, adapt, and improve over time. You don't need to update your project every day, but you should be able to update it when people offer suggestions or make pull requests through Git. You should also expect some questions or even requests for assistance from users who discover your project online and want to localize it for their communities.
 
@@ -48,29 +48,30 @@ If your project makes use of a particular open code-base for data visualization,
 
 Finally, think about how you might deprecate, or stop supporting, your project if it outlasts its usefulness to its users. Is there a way to share its content and documentation even after it stops working? Can you turn the project over to new maintainers in the project community? How will its ultimate form the work you and your community members did create it?
 
-### 8.2.3\. Questions to Consider
+### Questions to Consider
 
 To help draft your maintenance plan and sustain your project, answer questions like these.
 
-#### Logistical
+**Logistical**
 
 *   Which parts of your documentation do you need to maintain or update?
 *   Which parts of your content or codebase do you need to maintain or update?
 *   How often should you perform maintenance on your repo?
 
-#### Interpersonal
+**Interpersonal**
 
 *   How will you identify and recruit community members who want to help maintain the project?
 *   How will you decide when to end maintenance?
 *   How will you keep your project’s documentation and content or codebase discoverable and functional enough to help communities that need and find it?
 
-### 8.2.4\. Assignments
 
-#### 1\. Audit your documentation and fill in the blanks. (30 minutes)
+### {{ site.assignment }} Audit Your Documentation and Fill in the Blanks
+(30 minutes)
 
 Read through the GitHub documentation for your project. Look for gaps in your documentation and fill-in-the-blanks with new documents that provide explanations for how you and the community implemented pieces of work that are missing initial documentation. Also clarify anything that sounds clunky or jargony so it's clear to the most diverse audience of users possible. Finally, update anything in the documentation that's changed in the course of your project.
 
-#### 2\. Create a maintenance plan and add it to GitHub. (15 minutes)
+### {{ site.assignment }} Create a Maintenance Plan and Add it to GitHub
+(15 minutes)
 
 Draft your maintenance plan and share it with your community on GitHub. Your plan should describe:
 
@@ -84,6 +85,7 @@ Draft your maintenance plan and share it with your community on GitHub. Your pla
 
 Upload it to your repo and invite comments, suggestions, and pull requests that might improve it or cover any blind-spots you had while writing it. Survey contributors to see if any of them would like to volunteer to help maintaining the project in the long-term.
 
-#### 3\. File issues and set milestones for your check-ins. (15 minutes)
+### {{ site.assignment }} File Issues and Set Milestones for Your Check-Ins
+(15 minutes)
 
 Finally, add new issues and milestones in GitHub that reflect the steps and scheduling in your maintenance plan. Build on the trust you and your community established in creating the project by stewarding and updating it to ensure its longevity and reliability. Your project is an example of leading and working in the open that can inform and inspire other communities and projects in the future.

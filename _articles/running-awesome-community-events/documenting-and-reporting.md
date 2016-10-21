@@ -6,28 +6,20 @@ date: 2016-10-06 14:05:56
 time: "60 mins"
 following: _articles/open-project-maintenance.md
 summary: "Plan to capture and share the community-building, learning, and work that goes on at face-to-face events supporting your project."
-prereq: >
-  *   Plans for a face-to-face event you can use to think through documenting and reporting its outcomes.
-
-  *   Documentation tools.
-
-  *   An open place (like a blog) to share your reports.
-format: >
-  *   **Before the event:** Create a plan for documenting what goes on at your face-to-face event. Then assemble the people and stuff you need to record what happens at the event.
-
-  *   **During the event:** Take notes and collect data! Keep an eye out for stories, projects, or other data points to share. Document those things. You shouldn’t try to hold everything in your head until after the event. Also you don’t want to have to rely on your memory.
-
-  *   **After the event:** Share what happened at your event with onsite and remote participants through a blog post, community call, newsletter, or other open platform.
+prereq: "Plans for a face-to-face event you can use to think through documenting and reporting its outcomes"
+format: "Preparation and planning for documentation around your event"
+materials: "Documentation tools and an open place (like a blog) to share your reports"
 ---
 * TOC
 {:toc}
 
-### 7.5.1. Planning your documentation and reporting
+### Planning Your Documentation and Reporting
 
 To help yourself and your community benefit and learn from everything that goes on at a face-to-face (F2F) event, it's important to capture key parts of the event and report on the work done there.
 
-#### Video
-https://www.filepicker.io/api/file/hwjxTPRAQCuYJOtuX7GT
+{% include videowrapper.html
+  url="https://www.filepicker.io/api/file/hwjxTPRAQCuYJOtuX7GT"
+  title="Documenting and Reporting, Caro Alvarez" %}
 
 Part of working open is making sure that everyone who wants to contribute to your project or comment on it can do so. By showing others what happens at your events, you help people who can't attend stay involved the work done there.
 
@@ -50,7 +42,15 @@ For example, a youth attendee might have a blue lanyard indicating you need to g
 
 Finally, as you capture individual and group contributions to share, be sure to ask your contributors how they would like their work attributed in your report.
 
-### 2\. Examples of event reporting
+Tips for event documentation and reporting:
+
+*   **Before the event:** Create a plan for documenting what goes on at your face-to-face event. Then assemble the people and stuff you need to record what happens at the event.
+
+*   **During the event:** Take notes and collect data! Keep an eye out for stories, projects, or other data points to share. Document those things. You shouldn’t try to hold everything in your head until after the event. Also you don’t want to have to rely on your memory.
+
+*   **After the event:** Share what happened at your event with onsite and remote participants through a blog post, community call, newsletter, or other open platform.
+
+### Examples of Event Reporting
 
 Great event reports
 
@@ -82,9 +82,9 @@ Think through your documentation and reporting plan and make sure you collaborat
 
 Your reports are also a great way to share the story of your project with a wider audience online. Resources like this [solutions journalism toolkit from the Pulitzer Center](http://www.solutionsjournalism.org/wp-content/uploads/2014/11/Pulitzer-toolkit-FINAL-2-pg-spread.pdf) can help you ask and answer questions that surface the importance and impact of your community’s work for others.
 
-### 3\. Assignments
 
-#### 1\. Draft a documentation checklist on GitHub. (20 minutes)
+### {{ site.assignment }} Draft a Documentation Checklist on GitHub
+(20 minutes)
 
 Add an issue to your project or event-planning folder and outline your plan for recording your event. Be sure to indicate who will do what and include items or steps that remind you to account for attendees’ privacy choices and attribution preferences. Invite your entire community to offer suggestions about what’s most important to capture during the convening.
 
@@ -99,11 +99,13 @@ For example, drawing from [Leslie Hawthorn’s](https://hawthornlandings.org/abo
 
 As a checklist in GitHub, your list might look more like this:![](https://lh6.googleusercontent.com/_gnri0298nOZBe_Y3I0VyaNy7pm848Bb3T0Fk7JRXtIr-dUJzbQNeRQ2zhNvpGGcfTGt4B29ZMeX09cS1ssiyeQqJQAOaAMQ4ZnNTQxf-ZGuWiorn-4NzYFarFsWI7eVJXif3_xy)
 
-#### 2\. Document your event (Event time)
+### {{ site.assignment }} Document Your Event
+(Event time)
 
 Whether you document the event or delegate documentation to a volunteer, make sure to complete each step in your plan and capture the essential parts of the gathering.
 
-3\. Write up your report and share. (20-30 minutes)
+### {{ site.assignment }} Write up Your Report and Share
+(20-30 minutes)
 
 After your event, gather together all of your documentation and shape it into one report or several. You might:
 

@@ -27,7 +27,7 @@ Face to face (F2F) meetings in real life (IRL) help cement the bonds between con
 
 In this module, to support your project, you'll think and work through everything that it takes to convene a successful F2F event for your project. Your goals for this part of the curriculum should be to plan and convene a successful event with your community. Start small so you can get a handle on all of the work that goes into convening a successful event.
 
-#### Co-Organization
+**Co-Organization**
 
 If you have a contributor who is great at this kind of work or who has volunteered for the chance to do this kind of work, consider co-planning the event or delegating part of the planning to them as a way of recognizing and leveling-up their participation in the project.
 
@@ -35,28 +35,28 @@ Work to connect volunteer contributors with planning and facilitative tasks that
 
 As you become more experienced at convening events and begin to plan larger ones, keep your staffing needs in mind. You will need help to make larger events run smoothly. At ten, fifteen, or twenty people, it’s likely you’ll want a partner. You’ll want several people helping you when you begin planning events for 25 or 30 people. Again, start small. Plan an event for 10-15 people and don’t be afraid to ask for someone from the community to lend a hand. See how it goes and use your own experience to judge how much support you’ll need for the next event.
 
-#### Defining Purpose
+**Defining Purpose**
 
 The first thing to plan for in convening others is to figure out why you're meeting. The purpose of the gathering should help you determine its format and scope.
 
 For example, if you need to meet with core contributors about the direction of the project, a small event might work best. However, if you want to invite your community to help develop stuff you need for your project, a larger event with a shared agenda might work best.
 
-#### Selecting a Format
+**Selecting a Format**
 
-There are different kinds of events, and some are better for certain outcomes than others:
+There are different kinds of events, and some are better for certain outcomes than others.
 
-### 7.2.2\. Questions to Consider
+### Questions to Consider
 
 Once you have your purpose and format sketched out, you can use questions like these as a convening checklist.
 
-#### Logistical
+**Logistical**
 
 *   What’s your goal for the event? How does your format help you meet that goal?
 *   When and where will you hold it?
 *   Who should attend and how will they learn about the event and get there?
 *   How many people do you want to attend the event, and do you, your community members, and your venue have the capacity to plan and hold an event of that size?
 
-#### Interpersonal
+**Interpersonal**
 
 *   What’s the value proposition for attendees? How will attending help them advance the project or their own skills?
 *   How can you emphasize your event’s accessibility and inclusivity in its advertising?
@@ -71,9 +71,8 @@ Moreover, you want to draw on your project’s contribution guidelines, establis
 
 Check out this [brief, sample emergency action plan](http://www.ebparks.org/activities/permits/bookingspecialevents/sampleeventplan) for events from the East Bay Regional Parks District.
 
-### 7.2.3\. Assignments
-
-#### 1\. Storyboard or map your event. (30 minutes)
+### {{ site.assignment }} Storyboard or Map Your Event
+(30 minutes)
 
 Pick a format for your event and then draft a skeleton agenda. Brainstorm and jot down ideas for suitable venues, dates, and other considerations like catering.
 
@@ -94,7 +93,8 @@ Essentially, think back to [your open canvas](https://docs.google.com/document/d
 
 Share your vision in the open as a GitHub issue or blog post. Ask for community feedback to help improve the event and planning process. Be specific in the kind of feedback you request. You want your plans to work, so it’s better to ask something like, “What other kinds of grouping might work for the tables?”, or “What other kinds of materials or technology do we need?”, instead of, “What do you think?”. You are looking for ways to improve your plan; blanket approval (“This is so good.”) or disapproval (“I don’t think this will work”) are not as useful as specific answers to specific questions. While you may use binary choices (like “Agree/Disagree”) or a 5-point Likert scale in a post-event survey, try to ask concrete questions ahead of time that give you responses you can act on while designing your event.
 
-#### 2\. Make a checklist of convening tasks. (10 minutes)
+### {{ site.assignment }} Make a Checklist of Convening Tasks
+(10 minutes)
 
 When you know what you're after with your event (thanks to your user experience storyboard), make a checklist of tasks you need to complete to secure the venue, time, date, technology, and other logistics of the event you need. Turn this checklist into a GitHub issue and keep track of what you accomplish by checking off tasks as they're completed.
 
@@ -124,7 +124,8 @@ Check out [this tutorial](https://github.com/blog/957-introducing-issue-mentions
 
 You can ask community members to help tackle specific tasks. After you assign community members to the tasks the volunteer for, assign yourself as an organizer for unclaimed work.. Help those volunteer organizers manage the issues by asking for updates through comments and asking people at work on the issue to share their progress and to keep the checklist up to date. Encourage organizers to close these issues once their tasks have been completed.
 
-#### 4\. Make a safety and emergency plan. (15 minutes)
+### {{ site.assignment }} Make a Safety and Emergency Plan
+(15 minutes)
 
 Take the time to draft a contingency plan in case of emergency, identify a safety officer for your event, and be sure to post and even share the plan as part of sharing day-of details with attendees.
 

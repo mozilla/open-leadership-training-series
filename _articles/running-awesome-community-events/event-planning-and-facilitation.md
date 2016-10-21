@@ -7,24 +7,13 @@ time: "90 mins"
 following: _articles/running-awesome-community-events/event-follow-up.md
 summary: "Learn how to facilitate the logistical and interpersonal elements of a face-to-face event, delegating responsibility according to the strengths of your community and its contributors."
 prereq: "Plans for convening a face-to-face event in support of your project"
-format: >
-  *   Assemble a team of co-facilitators for your event (as needed).
-
-  *   Create and continuously update a facilitation planning checklist issue in GitHub.
-
-  *   Create and continuously update a "day-of" facilitating checklist issue in GitHub.
-
-  *   Build out the materials you need for your event.
-
-  *   Facilitate your event.
+format: "With your team of co-facilitators, build materials and plan for your upcoming event"
 materials: "Paper, markers, access to your GitHub project repo"
 ---
 * TOC
 {:toc}
 
-* * *
-
-### 7.3.1\. Event planning
+### Event Planning
 
 After you’ve created a convening checklist outlining what you need to do to hold your event, it’s time to get to the nitty gritty of how you’ll meet those needs. You need to pay attention to both preparing for the event and running it on the day it happens. Think of convening as the big picture preparation you need to do beforehand to host an event, and think of this “day of” work as event-planning - breaking down and accounting for the specifics of what will happen when onsite during the event.
 
@@ -48,7 +37,7 @@ To think of this another way, make sure you have in place:
 *   A code of conduct.
 *   A safety officer and plan.
 
-### 7.3.2\. Delegating to community volunteers
+### Delegating to Community Volunteers
 
 If the event feels big to you, it's better to delegate than to do everything yourself. If you delegate, it's crucial to meet with your co-facilitators (online and off) well ahead of time (and perhaps more than once) to coach them on how to facilitate the event. If you document your event planning in GitHub, you can use a “Help Wanted” label to recruit contributors and the “Assignee” feature to make it clear who does what.
 
@@ -63,7 +52,11 @@ Think about how you can acknowledge and thank your co-facilitators, as well as y
 *   Badges endorsing contributors in specific event-related roles.
 *   Recognitions that are highly meaningful to members of your project community.
 
-### 7.3.3\. Facilitating the work
+### Facilitating the Work
+
+{% include videowrapper.html
+  url=""
+  title="Placeholder" %}
 
 [Video: Becoming the lead learner for your event
 
@@ -100,9 +93,9 @@ Here are questions you can use to plan for successful collaborations at your eve
 *   How can you design learning experiences that help people meet one another, network, share work and resolve potential conflicts?
 *   How can you encourage participation on a social media backchannel for networking and sharing work?
 
-### 7.4.4\. Assignments
 
-#### 1\. Assemble your team. (30 minutes)
+### {{ site.assignment }} Assemble Your Team
+(30 minutes)
 
 If you're running an hour-long kitchen-table session on building your first webpage, you're not likely to need much help planning or facilitating the event. However, as you develop your project and build your community, you may want to run a hack jam or work sprint. Depending on the size and duration of an event like that, you may need help attending to the logistical details, project materials, and interpersonal touches that will make the event a success.
 
@@ -112,13 +105,15 @@ To get help running a larger event, ask your community if anyone is willing to v
 
 Think also of special ways to acknowledge your co-facilitators for their work in support of the community, event, and project. Think of them the same way you think of major online contributors to your project.
 
-#### 2\. Create a planning checklist for facilitation on GitHub. (15 minutes)
+### {{ site.assignment }} Create a Planning Checklist for Facilitation on GitHub
+(15 minutes)
 
 After assembling a team (or determining that you can facilitate a smaller event by yourself), create a facilitation checklist as a GitHub issue. Use the questions up above to create a set of tasks you need to accomplish ahead of the event and cc or @ your delegated co-facilitators on tasks they should own.
 
 Remember to keep track of any checklists you made as GitHib issues (or sub-issues) for the event. Encourage everyone contributing to an issue to keep it up to date by commenting and checking off completed tasks. Close issues as they are finished. Use your facilitation checklist as an open, real-time account of what's ready to go and what needs work ahead of your event.
 
-#### 3\. Create a day-of checklist on GitHub. (15 minutes)
+### {{ site.assignment }} Create a Day-of Checklist on GitHub
+(15 minutes)
 
 You should also consider creating a day-of checklist for specific logistical tasks like setting up and tearing down materials. This should be a GitHub issues, but also something you can print and distribute to your co-facilitators with their tasks circled or otherwise highlighted.
 
@@ -126,7 +121,8 @@ While some facilitating tasks seem more mechanical (open the doors on time) than
 
 Don’t let this checklist take you out of the moment when you’re needed at your event. Instead, use it to make your final preparations for the day and to remind yourself and your volunteers of what needs to be done during and after at key points - like when it’s time to set up lunch. It’s not a big deal to miss checking something off at the exact moment it happens, so focus more on making the event work than on marking off items on the list. This checklist should help you focus; it shouldn’t distract you.
 
-#### 4\. Build your event resources you and share on GitHub. (30+ minutes)
+### {{ site.assignment }} Build Your Event Resources and Share on GitHub
+(30+ minutes)
 
 Once you have your checklists in place, get after them! Create the materials and conditions your community needs to experience an awesome event in support of your shared, open project. Even if you haven't delegated any facilitation tasks yet, this is another good place to ask for community participation and contribution in designing and developing materials - like posters or instructions - you can use for your event.
 

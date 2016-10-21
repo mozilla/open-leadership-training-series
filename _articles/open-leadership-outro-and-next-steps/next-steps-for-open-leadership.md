@@ -5,20 +5,15 @@ module: "9.1"
 date: 2016-10-06 14:05:56
 time: "60 mins"
 summary: "Reflect on your open leadership journey and key takeaways for continuing your work."
-prereq: "Your project, its documentation, and event reports, including goal-setting documents like your open canvas."
-format: >
-  *   Look back on your open leadership work so far.
-
-  *   Consider [key principles of open leadership](https://docs.google.com/document/d/1f16JOlhY5W-88QfEZPFpZgkijYCtMp-P5VskUzmqHhE/edit) posed by other open leaders.
-
-  *   Draft and post a reflection on your work to become a better [open leader.](https://docs.google.com/document/d/1JloT5LpUC1cwpr3klw7z8bHMxH83W33RAOhw0uG5vN4/edit)
-materials: Your project's GitHub repo and a blog or other platform/technology for composing and sharing your reflection.
+prereq: "Your project, its documentation, and event reports, including goal-setting documents like your open canvas"
+format: "Writing and reflection exercise on your experience as an open leader"
+materials: Your project's GitHub repo and a blog or other platform/technology for composing and sharing your reflection
 ---
 * TOC
 {:toc}
 
 
-### 9.2.1\. Open Leadership Takeaways
+### Open Leadership Takeaways
 
 Congratulations! You've done a lot of work in a short amount of time to level up your open leadership skills. As you take what you've learned and built into the future, keep these open essentials in mind.
 
@@ -40,10 +35,11 @@ Finally, remember that your responsibility to your community is twofold. You're 
 
 You are an open leader if you do all of those things and make it safe, possible, and compelling for others to do the same.
 
-* * *
+### What Does Success Look Like at the End of a Project?
 
-### 9.2.2\. What Does Success Look Like at the End of a Project?
-
+{% include videowrapper.html
+  url=""
+  title="How Do You Know If Working Open Works?" %}
 [Video: How do you know if working open works? (2 minutes)
 
 How does a successful project look, sound, and feel? This video should communicate
@@ -60,9 +56,8 @@ Does your project allow for rapid prototyping and testing? Are you capturing and
 
 Whether you take what you learned to launch another project or look for work that requires open leadership, it’s your role to help others realize the principles and benefits to see what they can accomplish together by working open.
 
-### 9.2.3\. Assignments
-
-#### 1\. Draft a reflection on your open leadership journey. (45 minutes)
+### {{ site.assignment }} Draft a Reflection on Your Open Leadership Journey
+(45 minutes)
 
 Invite you contributors and other open leaders to read and comment on your thoughts. Add your voice to open conversations on the web and help others find the entry points into their own open leadership journeys.
 
