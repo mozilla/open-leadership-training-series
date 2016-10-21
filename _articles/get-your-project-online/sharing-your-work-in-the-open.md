@@ -105,5 +105,5 @@ You can cut and paste the license into your pre-existing LICENSE.md file or crea
   * Once you’ve picked a license, go to your GitHub repo and look for your LICENSE.md file. Make one if you don’t already have one. Copy and paste your OSS license into the file.
 2. Pick a content license for the rest of your work. (10 minutes)
   * Likewise, read around the license descriptions on [Creative Commons](https://creativecommons.org/licenses/) website to get an idea of which content license serves your community best. Once you’ve picked a license, grab its name (like CC-BY 4.0) and [its link](http://creativecommons.org/licenses/by/4.0/). Add the license at the top of your LICENSE.md file like this:
-  * Non-software content in this project is licensed under a [CC-BY 4.0](http://creativecommons.org/licenses/by/4.0/) license.
+    > Non-software content in this project is licensed under a [CC-BY 4.0](http://creativecommons.org/licenses/by/4.0/) license.
   * If you’re unsure about which licenses to pick for your project, take it to the community. Ask your contributors what they think is appropriate and ask your community, at-large, how they would like to be able to use the project when it is completed and released.
