@@ -7,33 +7,30 @@ time: "60 mins"
 following: _articles/running-awesome-community-events.md
 summary: "In this module you’ll learn about the different types of communication channels, or “comms” you can use to help your community discover, explore, and contribute to your project."
 prereq: >
-  *   A project with content - even introductory content like a [README file](https://docs.google.com/document/d/1u1_CspVzOpxBYzHnWqe5J8tgCS6tUpMh_tztFarG31Q/edit) and [contribution guidelines](https://docs.google.com/document/d/1mBB4POj9NHYtzkKOw9j5L_EFwChfP88pz6LzYCfFwxM/edit) - to share.
+  *   A project with content like a [README file](/open-leadership-training-series/articles/opening-your-project/write-a-great-project-readme/) and [contribution guidelines](/open-leadership-training-series/articles/building-communities-of-contributors/write-contributor-guidelines/)
 
-  *   Basic knowledge of HTML, GitHub Pages, or a blogging platform like Wordpress.
-
-  *   Online contact information (like email addresses or social media user names) for project participants.
-
-  *   Understand your audience and the channels they use for communication! If those channels are not helpful to this work, how will you support them in learning a new one?
+  *   Online contact information (like email addresses or social media user names) for project participants
 format: >
-  *   Create a clearly-titled and structured, discoverable online comms resource that includes ways for your community to participate in real-time conversations and catch-up with archived ones.
+  * Read and watch videos
 
-  *   Establish a regularly scheduled community call, webcast, or other form of comms to preserve project momentum. Even regularly scheduled face-to-face meet-ups can drive progress as people share work there.
+  * Writing and planning exercises to establish and document regular communication with your community
 materials: "Access to your GitHub project repo"
 ---
 * TOC
 {:toc}
 
 
-### 6.1.1\. Intro to Communications (a.k.a. Comms)
+### Intro to Communications (a.k.a. Comms)
 
 “Comms” are the communications channels you use to help others discover, share, and contribute to your project. You want to send your comms out in the open; they should be easily findable and show people how to get involved with your community’s work.
 
 Comms also give project members a chance to talk with one another and support each other’s contributions to the project. In the video below, see how Coral Project Community Lead Sydette Harry describes how the Tiny Letter tool curates and archives online conversations about ‘creating common ground’ for collaborators in open journalism projects. Sydette and her colleagues are working to create a web-based platform and shared space for journalism communities to discuss their shared values, interests, and work.
 
-#### Video
-https://www.filepicker.io/api/file/ho0atyueQOyzh0byiOox
+{% include videowrapper.html
+  url="https://www.filepicker.io/api/file/ho0atyueQOyzh0byiOox"
+  title="Why Do Comms Matter to an Open Project? Sydette Harry" %}
 
-### 6.1.2\. Useful Communication Channels for Open Projects
+### Useful Communication Channels for Open Projects
 
 For contributors, your [GitHub](https://github.com) repo is likely to be the central hub of communication about the project itself. When contributors interact with one another on GitHub (by mentioning one another in their messages using @username) and issue pull requests (PR), they receive notifications on GitHub and/or through email indicating that they’re needed in a conversation or to review new work.
 
@@ -55,8 +52,9 @@ If your community doesn’t have much web expertise, you can ask around to see w
 
 After establishing your web presence, create a communications channel or publication that lets you regularly update your entire community on your project’s progress. While you can do this through social media updates via a project account, you might also develop more in-depth platform for sharing news like a community call (over the phone or video conferencing), newsletter, or development blog. Here's a clip from a [Mozilla community call on International Women's Day](https://www.youtube.com/watch?v=QfvrKvx4mUk).
 
-#### Video
-https://www.filepicker.io/api/file/sazygmpkS0hsiU1CL4UC
+{% include videowrapper.html
+  url="https://www.filepicker.io/api/file/sazygmpkS0hsiU1CL4UC"
+  title="Mozilla Community Call on International Women's Day" %}
 
 Community calls are regularly scheduled phone calls or webcasts that any community member can listen to, watch, and otherwise participate in live. Generally each call follows an agenda shared ahead of time that includes times for call organizers and project contributors to share updates, as well as time for less involved participants to ask questions about what’s been going on in the project. The agenda is typically published as a shared document so call organizers and participants can take notes during the call. You can see [an example of how Mozilla’s learning community structures its community calls here](https://teach.mozilla.org/community/community-call).
 
@@ -68,19 +66,20 @@ As you set up your newsletter, be sure to protect any email addresses you collec
 
 One other option for sharing updates is a development blog like [this one from the Coral Project](https://coralproject.net/)). A blog is a web page made up of posts that share news about a project. Platforms like [Wordpress](https://wordpress.com) let you create a blog without knowing much HTML. You can compose and edit your posts using a text-editor instead. A development blog might be just the thing to serve as both an easily discoverable landing page for your site and a regularly updated comms channel for your community.
 
-### 6.1.3\. Assignments
-
-#### 1\. Start a shared calendar. (10-15 minutes)
+### {{ site.assignment }} Start a Shared Calendar
+(10-15 minutes)
 
 Using a service like Google Calendar, chart upcoming opportunities for project members to meet online or off. Also consider posting essential milestones for your project.
 
-#### 2\. Build a web presence for your project. (30+ minutes)
+### {{ site.assignment }} Build a Web Presence for Your Project
+(30+ minutes)
 
 Survey your contributors and other community members to see what kind of web presence they think would work best as an easily discoverable landing page for the project. You might do this through a GitHub issue (e.g. “Let’s develop our web presence”) or use a simple online survey tool like Google Forms or [Survey Monkey](https://www.surveymonkey.com/).
 
 Work to reach consensus about what kind of web presence makes the most sense for your project. Then ask community members if any volunteers have the expertise necessary to build that site or create that account. Work with them to get your landing page or main social media account set up. Finally, add the address of your landing page to your project documentation and share it widely with your community and others who might benefit from its work.
 
-#### 3\. Create a comms channel for your project. (20-30 minutes)
+### {{ site.assignment }} Create a Comms Channel for Your Project
+(20-30 minutes)
 
 In consultation with community members, determine a format for sharing updates about your project on a regular basis. You might set up an online community call, publish a newsletter, or commit to writing posts for a development blog alongside core contributors.
 

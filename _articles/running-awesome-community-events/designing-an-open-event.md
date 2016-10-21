@@ -6,25 +6,24 @@ date: 2016-10-06 14:05:56
 time: "60 mins"
 following: _articles/running-awesome-community-events/event-planning-and-facilitation.md
 summary: "Learn how to plan and design a face-to-face convening for your project, inviting feedback and contributions from your community."
-prereq: "An idea for a face-to-face event that adds value to your project and to attendees' experiences with it."
+prereq: "An idea for a face-to-face event that adds value to your project and to attendees' experiences with it"
 format: >
-  *   Storyboard or map your event.
+  *   Storyboarding exercise for an event
 
-  *   Make a checklist of convening tasks on GitHub.
-
-  *   Spread the word about your event and invite your community through communications about the gathering.
+  *   Make a checklist of convening tasks on GitHub
 materials: "Paper, markers, and access to a GitHub project repo"
 ---
 * TOC
 {:toc}
 
 
-### 7.2.1\. Intro to Designing Your Event
+### Intro to Designing Your Event
 
 Face to face (F2F) meetings in real life (IRL) help cement the bonds between contributors to your project. They create immediate and personal opportunities for connecting with shared values, shared work, and other humans. Convening also gives you and your participants practice working together all at once in the same space. It’s a chance to to ask and answer questions about the project and process in real-time.
 
-#### Video
-https://www.filepicker.io/api/file/iWEbhrwTgGWsRsTQyeTv
+{% include videowrapper.html
+  url="https://www.filepicker.io/api/file/iWEbhrwTgGWsRsTQyeTv"
+  title="Intro to Convening, Erika Drushka" %}
 
 In this module, to support your project, you'll think and work through everything that it takes to convene a successful F2F event for your project. Your goals for this part of the curriculum should be to plan and convene a successful event with your community. Start small so you can get a handle on all of the work that goes into convening a successful event.
 
