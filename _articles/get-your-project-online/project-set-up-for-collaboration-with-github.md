@@ -7,13 +7,13 @@ time: "30 min"
 following: _articles/get-your-project-online/sharing-your-work-in-the-open.md
 summary: "In this module, you’ll learn how to organize your project files so they are easy for newcomers to navigate. You’ll also create your very first GitHub issue!"
 prereq: "Have completed all previous sections and modules"
-format: "Read, watch videos, use GitHub."
+format: "Read, watch videos, use GitHub"
 materials: "a computer, an internet connection, and a free GitHub account"
 ---
 * TOC
 {:toc}
 
-### 4.4.1 Project Structure and Organization
+### Project Structure and Organization
 
 To work most effectively with contributors, your project structure should be clean and welcoming, with folder titles that make sense. For example, your project might have different folders for data, technical documentation, and images. README.md and CONTRIBUTING.md (which you’ll make in the next module) should be in your root directory, along with your ROADMAP. Think of these documents as an anchor for your project. As you add files, you may want to organize these into folders and create a consistent naming convention. Here’s an example of good project set-up.
 
@@ -21,12 +21,13 @@ GitHub is not only a place to store your files, and a way of managing collaborat
 
 #### Example Placeholder
 
-#### Video
-https://www.filepicker.io/api/file/LjOBbVuSRhuJLFJlulZn
+{% include videowrapper.html
+  url="https://www.filepicker.io/api/file/LjOBbVuSRhuJLFJlulZn"
+  title="Github For Project Management, Hannah Kane" %}
 
 Now that you’ve seen how GitHub can be used to organize and plan work, you’re ready to plan some work in your own GitHub repository.
 
-### 4.4.2\. Assignment: Add your first issue.
+### {{ site.assignment }} Add Your First Issue
 
 1.  Create some milestones for your project. Refer to the roadmap you created in Section 2 (and added to the repo in the previous module). If you have milestones already specified in the roadmap, add them to your GitHub repo. If you don't have milestones, come up with two or three-- these are significant turning points or events that will move the project forward. You will use these to organize your issues.
     *  Give each milestone a title and brief description.
@@ -42,7 +43,7 @@ Now that you’ve seen how GitHub can be used to organize and plan work, you’r
 
 For more on GitHub and what the platform can do, see our list of Resources and Tutorials below.
 
-### 4.3.3\. More GitHub Resources and Tutorials
+### More GitHub Resources and Tutorials
 
 #### Scroeenshot placeholder
 

@@ -13,12 +13,13 @@ materials: "Pen or pencil and paper, or a computer with word processing software
 * TOC
 {:toc}
 
-### 3.3.1. About Personas
+### Personas
 
 A “persona” is a tool commonly used in the design world, to help create products and experiences that work for real world users (aka “user-centered design”). This short video describes a bit more about personas and how they're typically used.
 
-#### Video
-https://www.filepicker.io/api/file/Xx83owiQdyyBMfJg6YCg
+{% include videowrapper.html
+  url="https://www.filepicker.io/api/file/Xx83owiQdyyBMfJg6YCg"
+  title="About Personas, Zannah Marsh" %}
 
 To recap, the persona is a description of a user. Personas should:
 
@@ -32,7 +33,7 @@ Here is a sample persona used by the Mozilla Science Lab to help design its Stud
 
 Once we have created a persona, we can imagine how they might interact with our project-- the pathway they to get involved and to sustain involvement.
 
-### 3.3.2 About Pathways
+### Pathways
 
 Once we have created a persona, we can imagine how they might interact with our project-- the pathway they to get involved and to sustain involvement. Let's imagine that this process of engagement has a few phases.
 
@@ -59,7 +60,7 @@ When you think through a pathway, you should begin to realize, what needs to be 
 *   Offer an online intro to GitHub for those who join mid-semester and missed the first sessions.
 *   Schedule meetings for daytimes and early evenings to avoid conflicts with family schedules.
 
-### 3.3.3\. Assignment: Create a Persona and Pathway for your project
+### {{ site.assignment }} Create a Persona and Pathway for Your Project
 
 1. Brainstorm. Read through the two following questions and come up with answers. You can do this individually or as a group. If working in a group, brainstorm individually and share afterwards. Sticky notes are great for this task, for recording ideas during the brainstorm, and sharing and organizing the group’s ideas. Spend about 3 minutes on each question.
   *   Who is the person you most need in your community or on your project? Think of skills and attributes-- but, since this is an imaginary person, also give them identifying details, a brief life story, etc.

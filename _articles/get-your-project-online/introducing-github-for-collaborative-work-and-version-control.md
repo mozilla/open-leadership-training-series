@@ -7,13 +7,13 @@ time: "20 min"
 following: _articles/get-your-project-online/the-github-interface-and-markdown.md
 summary: "For others to discover, contribute to, learn from, and re-use your project, it needs to be on the world wide web. We recommend using a web-based software platform called GitHub, which helps you with one of the main challenges in collaborating with lots of volunteers on a single project. This challenge is “version control,” the task of managing the many contributions your group makes to shared working documents. This module explains the more about version control, and how GitHub can help."
 prereq: "Have completed all previous sections and modules"
-format: "Read, look at diagrams, and watch videos."
-materials: "none"
+format: "Read, look at diagrams, and watch videos"
+materials: "None"
 ---
 * TOC
 {:toc}
 
-### 4.2.1 Collaborative Work and Version Control
+### Collaborative Work and Version Control
 
 Your contributors may be spread around the world or working in the same room; they may be working simultaneously or asynchronously. No matter how you’re working, all contributions need to be wrangled into a single project. Thankfully, we have version control, which is a way of keeping track of changes made to a collection of working documents. Version control also stores the history of changes, allowing you to revert or go back to earlier versions of those documents, and understand how contributions have changed the project over time. You may have used word processing software that has a “changes,” “history” or “revisions” feature, which also allows you to see and revisit any changes to the document: this is a form of version control!
 
@@ -45,12 +45,13 @@ When we share and work on projects with collaborators, managing the changes, or 
 
 And when we’re working with multiple collaborators, everybody needs to know and understand what commits are being incorporated into the repository and why, so good communication becomes very very important. The great news is that there’s a piece of version control software to help us both manage and communicate with our collaborators about commits to our project-- that software is called Git, and it’s the basis for the online platform GitHub, where we recommend you work on your project.
 
-### 2. GitHub to the Rescue!
+### GitHub to the Rescue!
 
 GitHub is a web-based tool originally developed by software engineers to work collaboratively on coding projects, but you don’t need to be a computer programmer to use it. GitHub has terrific project management features, a social platform, and communication tools that are useful for any project where a group of people are working together on the same set of documents. Because GitHub is online, it’s designed to share your work, and allows other people to “fork” your project-- meaning they can create an independent copy of your work to test, modify, remix and reuse it. Let's see how projects in real life (IRL) are using GitHub.
 
-#### Video:
-https://www.filepicker.io/api/file/GWtFi0eNTrO9wlLg59Xt
+{% include videowrapper.html
+  url="https://www.filepicker.io/api/file/GWtFi0eNTrO9wlLg59Xt"
+  title="GitHub Projects IRL, Andre Garzia" %}
 
 Before we go any further, let's talk for a minute about something that Andreas mentioned in his video, a piece of software called Git. Git is the command line software that powers GitHub and actually handles the version control work. When you use GitHub, Git is working behind the scenes. You can also use Git without ever using GitHub, and many software engineers do. This is what Git looks like to a user:
 

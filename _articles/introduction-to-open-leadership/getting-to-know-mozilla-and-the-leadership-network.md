@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Getting to know Mozilla"
+title: "Getting to Know Mozilla"
 module: "1.3"
 date: 2016-10-06 14:05:56
 time: "20 mins"

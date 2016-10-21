@@ -32,15 +32,14 @@ time {
 }
 
 .video-player:before{
-  content: "\f04b";
+  content: "\f16a";
   font-family: FontAwesome;
-  margin-right: 6px;
 }
 
 .assignment:before{
   content: "\f044";
   font-family: FontAwesome;
-  margin-right: 6px;
+  margin-right: 4px;
 }
 
 edit:before {

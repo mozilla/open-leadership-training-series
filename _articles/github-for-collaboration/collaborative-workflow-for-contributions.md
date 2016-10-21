@@ -13,11 +13,13 @@ materials: "Your computer, GitHub account, your own project—  plus someone els
 * TOC
 {:toc}
 
-### 5.3.1 Collaboration as Conversation
+### Collaboration as Conversation
 
 Good collaboration is a back and forth process, like a conversation, or a call and response. It’s not complicated, but you need to know the steps and the roles for contributor and lead. The series of videos below walks you through a workflow for collaboration on open projects, and demonstrates good communication with contributors. Watch closely, because you’ll be doing these steps (and playing both roles) yourself in the assignments at the end of this module! We’ve included screenshots in the assignment section to help you along.
 
-#### Video Placeholder
+{% include videowrapper.html
+  url=""
+  title="Placeholder" %}
 
 If you master this workflow and practice it in your community, contribution can happen more smoothly and be more satisfying for all involved. You, the project lead, need to move this whole process forward! These handy tips should help.
 
@@ -32,7 +34,7 @@ If you master this workflow and practice it in your community, contribution can 
 *   Always use friendly tone and correct grammar to increase legibility
 *   Talk to users on their terms, follow their cues
 
-### 5.3.2 Writing Great Messages and Comments on GitHub
+### Writing Great Messages and Comments on GitHub
 
 Your communications on GitHub don’t need to be literary masterpieces, but it’s really helpful if they are clear and well-written. For example, remember a commit is the life story, the history, of your document is a timeline of commits. A good, comprehensible, useful "commit message" is one that fills in that story. It lets collaborators and the project owner/lead know what you've done, what changes you’ve made, what you’ve added. This includes your own commits as project lead. While you might know the ins and outs of any change you made at the moment, in 5 days or 5 weeks or 5 years, those details will probably have slipped your mind. A detailed commit will capture that information forever.
 
@@ -50,7 +52,7 @@ When you’re writing commit messages, you’ll want to make them short, clear, 
 
 #### Placeholder screenshots
 
-### 5.3.3 Assignment: As a Contributor, make a pull request
+### {{ site.assignment }} As a Contributor, Make a Pull Request
 
 1.  Find a project you’d like to contribute to and check out the README
 2.  Read the contributing.md file and code of conduct
@@ -64,7 +66,7 @@ When you’re writing commit messages, you’ll want to make them short, clear, 
     4.  Write a great commit message
     5.  Make a pull request!
 
-### 5.3.4 Assignment: As Project Lead, merge a pull request
+### {{ site.assignment }} As Project Lead, Merge a Pull Request
 
 Follow the steps described for as project lead
 

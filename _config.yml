@@ -33,5 +33,5 @@ redcarpet:
     ]
 
 # variables
-video: "<span class=\"video-player\">Video | </span>"
-assignment: "<span class=\"assignment\">Assignment | </span>"
+video: "<span class=\"video-player\"></span>"
+assignment: "<span class=\"assignment\">Assignment: </span>"

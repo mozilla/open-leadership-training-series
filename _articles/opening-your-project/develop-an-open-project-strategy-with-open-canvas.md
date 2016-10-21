@@ -20,7 +20,7 @@ materials: >
 * TOC
 {:toc}
 
-## 2.2.1 Introducing Open Canvas
+### Introducing Open Canvas
 
 Open Canvas is a way of clarifying your project idea and encouraging you to think strategically about project goals, plans, and resources you’ll need. It’s adapted from [Lean Canvas](https://leanstack.com/lean-canvas/), a one-page format used for describing a start-up business project. **What’s special about Open Canvas is that it assumes you’ll be working collaboratively with others-- that your project is community-based and will be fueled by significant contributions from volunteers, one of the key principles of working open.**
 
@@ -30,26 +30,21 @@ To make an Open Canvas, you’ll fill a one-page template with information about
 
 Here’s more about the Open Canvas tool from its creator, Abby Cabunoc Mayes, Developer Engagement Manager at the Mozilla Foundation.
 
-## Video
-https://www.filepicker.io/api/file/LZtI0qVRTDqy0stDOkxX
+{% include videowrapper.html
+  url="https://www.filepicker.io/api/file/LZtI0qVRTDqy0stDOkxX"
+  title="Open Canvas, Abby Cabunoc Mayes" %}
 
 Here’s a sample of an Open Canvas created by Abby for Mozilla Science Lab’s Paper Badger Open Project.
 
 ![](https://lh6.googleusercontent.com/Ia3HtZ6f0MRAcD2mDzhBVnow2DNNmUNbYMgulW3qPWJN1xdjOuMdLnhePaqAEHDy39ZFojXM2OtdI8uo3QcYaxvwTz3QM9al5YEBQtkwCKKVc6azrQ4b5DPWisPiXCVHEBt6lKnG)
 
-* * *
-
-## 2.2.2\. About Minimum Viable Products
+### About Minimum Viable Products
 
 Open Canvas should help you identify needs and resources that are critical to create a Minimum Viable Product (MVP), or a first, simple version of your project that meets the key goals for the project. The concept of MVP comes from the start-up world, where resources are often scarce and timelines are tight, so creating a simple functional product or project quickly is a priority. While you may have ideas or plans for an extended, enhanced version of your project-- for example you may want to eventually expand from coding workshops for students in public schools to running summer coding camps, or you might have a brilliant idea for that fancy extra feature for your app-- it’s always best to build your Minimum Viable Product first. This way, you can test out the project and ensure the idea works before you spend lots of time and resources expanding it. If you find your project is too complex to fit into the Open Canvas model, it may be that you’re trying to do too much, and need to narrow your scope.
 
-* * *
-
-## 2.2.3 Assignment: Make an Open Canvas
+### {{ site.assignment }} Make an Open Canvas
 
 In this assignment you’ll use Open Canvas to organize the information you already know about your project, clarify and summarize project goals and define resource needs.
-
-Steps to Complete:
 
 1.  Using the template, fill out Open Canvas for your project/idea. Read the description of what goes in each field (aloud, if you’re working in a group).
 2.  For your project, write what you think goes in each field-- your problem, solution, etc. Take a minute or two on each. If working in a group, have everyone write their own answer to each field on a sticky note.

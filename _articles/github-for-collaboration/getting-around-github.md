@@ -8,13 +8,13 @@ following: _articles/github-for-collaboration/collaborative-workflow-for-contrib
 summary: "This module will help you understand how and where you and your collaborators will save changes and any work on a collection of files (a repository) when using gitHub."
 prereq: "Have completed all previous sections and modules"
 format: "Read and look at diagrams"
-materials: "none"
+materials: "None"
 
 ---
 * TOC
 {:toc}
 
-### 5.2.1 Repos, Forks, and Branches, oh my!
+### Repos, Forks, and Branches, Oh My!
 
 What's special about Git and GitHub is that every instance or copy of a repository (or collection of files) has its full life history, the full timeline of changes bundled with it. When you’re working with GitHub, you may have multiple copies of the same repository in use at once, and it’s helpful to understand how that works, and why. Let’s take a moment to understand how this works, starting with the simplest scenario.
 

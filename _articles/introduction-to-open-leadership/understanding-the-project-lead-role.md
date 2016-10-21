@@ -58,7 +58,7 @@ To secure the trust of members of your community, you should:
 
 *   **Show that the project is solid, and worthy of their time and energy.**
 
-### What working open can (and can’t) do for you.
+### What Working Open Can (and Can’t) Do for You.
 
 As Project Lead, you also need to have a good grasp of the possibilities and limitations of working open, and realistic expectations of what it can (and can’t) do for your project.
 
@@ -80,6 +80,6 @@ Working open can help your project flourish and grow, but there are also many mi
 
 **Working open is not a way to avoid process or structure.** Because decision-making is shared by the community and everyone pitches in as they like, it may seem like there’s no need to create roles on a project or define a system or series of steps to for contributors to follow-- why not just keep it casual? Actually, good open projects should provide clear guidelines and a coherent process so new contributors know what to do and what to expect as they make their first contributions. It’s helpful to have roles-- even if these are lightweight and somewhat flexible-- so it’s clear who contributors can go to for help or who might approve or review a contribution they make. Any power structures or decision making processes need to be transparent, so contributors feel encouraged to participate meaningfully in shaping the direction of the project. We’ll discuss good, transparent project set-up in Section 2.
 
-### {{ site.assignment }} Reflecting on benefits and challenges of working open
+### {{ site.assignment }} Reflecting on Benefits and Challenges of Working Open
 
 Reflect on what the benefits, challenges, and limitations of working open might mean for your project. For example, how do you envision your project specifically benefiting from more community contribution and participation? How do you feel about the need for well-defined process and structure on this project? Take about 4 or 5 minutes to write out your thoughts on this. If working in a group, you can write your reflections on sticky notes and then share and discuss together.
