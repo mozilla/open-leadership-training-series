@@ -39,9 +39,7 @@ The timeline of tasks is the probably most important part of the Roadmap so as a
 
 As you plan your project, you might want consider when you’ll create and test prototypes. **A prototype is an early, unpolished version of your project or a feature of your project, created specifically for testing purposes.** Prototyping is the act of testing a feature or solution by building or making a rough or mocked-up version of that feature. It’s important to note the difference between a prototype and an MVP (Minimum Viable Product). The MVP is a stripped down but functional version of your project that’s ready for use. The prototype is often incomplete, and not for real-world use, long term use or distribution.
 
-{% include videowrapper.html
-  url=""
-  title="Placeholder" %}
+<!--- placeholder for video. Prototyping --->
 
 Protyping small, testable iterations of different features of your project is a great way to manage time and resources. It allows you to break down a larger project into a series of achievable tasks. **Testing helps ensure that a feature is successful before you move on to the next task, so you don’t spend time refining something that’s not viable.** Since prototypes are not designed for long term use, they come in all forms: you could make a prototype of a user interface, a workflow, or a game mechanic by drawing on sheets of paper. You might prototype in code and make a very simple, un-designed, partial version of an app to test some very basic functionality. You might sketch out a draft lesson plan and mock up some materials for a workshop. Often in a project you will make several prototypes, each modified according to feedback or lessons learned from the previous version. You may try several different prototypes represent different directions for the project. It’s OK if something you do doesn’t work out! These “failures” are actually learning experiences that will improve your final product.
 
