@@ -9,7 +9,7 @@ summary: "This module explores what project leaders, or “leads” do on open p
 prereq: >
   * Have completed previous modules in this section
 
-  * Have a project idea/vision
+  * Have a project idea
 format: >
   * Read and watch videos on this topic
 

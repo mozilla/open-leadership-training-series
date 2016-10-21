@@ -18,7 +18,7 @@ This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participatin
 
 ## What we're working on
 
-Take a look at the issues in our [current milestone](https://github.com/acabunoc/open-leadership-training-series/issues) or browse some [good first bugs](https://github.com/acabunoc/open-leadership-training-series/labels/good%20first%20bug) to get started!
+Take a look at the issues in our [current milestone](https://github.com/mozilla/open-leadership-training-series/issues) or browse some [good first bugs](https://github.com/mozilla/open-leadership-training-series/labels/good%20first%20bug) to get started!
 
 ## How to submit changes
 
@@ -32,7 +32,7 @@ First time contributing to open source? Check out this *free* series, [How to Co
 
 ## How to report bugs
 
-Notice a mistake? Please file any bugs, requests, or questions in [our issue tracker](https://github.com/acabunoc/open-leadership-training-series/issues)
+Notice a mistake? Please file any bugs, requests, or questions in [our issue tracker](https://github.com/mozilla/open-leadership-training-series/issues)
 
 ## Communication channels
 
