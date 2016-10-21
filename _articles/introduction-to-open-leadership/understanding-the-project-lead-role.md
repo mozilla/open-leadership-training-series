@@ -58,7 +58,7 @@ To secure the trust of members of your community, you should:
 
 *   **Show that the project is solid, and worthy of their time and energy.**
 
-### What Working Open Can (and Can’t) Do for You.
+### What Working Open Can (and Can’t) Do for You
 
 As Project Lead, you also need to have a good grasp of the possibilities and limitations of working open, and realistic expectations of what it can (and can’t) do for your project.
 
