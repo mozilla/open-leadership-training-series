@@ -1,5 +1,5 @@
 .hero-unit h1 {
-  font-size: 3.7rem;
+  font-size: 3.5rem;
 }
 ol.toc { list-style-type: none; }
 
@@ -496,6 +496,9 @@ footer {
   }
   .lesson-content {
     padding:3.5rem;
+  }
+  .hero-unit h1 {
+    font-size: 4.5rem;
   }
 }
 @media screen and (max-width: 768px) {

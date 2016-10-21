@@ -17,7 +17,7 @@ materials: "Pen and paper, or a computer with word processing software"
 * TOC
 {:toc}
 
-### About README files
+### Introducing README files
 
 The README file (whose name by convention is written in all-caps, and represents a request to one and all--- “read me!”) is one of the first things that potential contributors will encounter when learning about your project. The aim of the README is to welcome, orient, and encourage newcomers to participate. This file will live on the web, as part of a collection of working documents on your project, called a “repository” (If your project isn’t online, don’t worry about that just yet, you’ll set that up in Module 5).
 

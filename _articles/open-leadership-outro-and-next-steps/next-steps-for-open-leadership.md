@@ -8,6 +8,7 @@ summary: "Reflect on your open leadership journey and key takeaways for continui
 prereq: "Your project, its documentation, and event reports, including goal-setting documents like your open canvas"
 format: "Writing and reflection exercise on your experience as an open leader"
 materials: Your project's GitHub repo and a blog or other platform/technology for composing and sharing your reflection
+following: _articles/glossary.md
 ---
 * TOC
 {:toc}

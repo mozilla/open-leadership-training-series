@@ -62,7 +62,7 @@ When you’re writing commit messages, you’ll want to make them short, clear, 
 6.  Follow the contributor guidelines
     1.  Fork the repo
     2.  Make a branch
-    3.  Make a Commit
+    3.  Make a commit
     4.  Write a great commit message
     5.  Make a pull request!
 
