@@ -4,11 +4,11 @@ title: "Intro to Open Leadership"
 module: 1
 date: 2016-10-06 14:05:56
 contents:
+  - _articles/introduction-to-open-leadership/getting-to-know-mozilla-and-the-leadership-network.md
   - _articles/introduction-to-open-leadership/introduction-to-working-open.md
   - _articles/introduction-to-open-leadership/understanding-the-project-lead-role.md
-  - _articles/introduction-to-open-leadership/getting-to-know-mozilla-and-the-leadership-network.md
   - _articles/introduction-to-open-leadership/stating-your-project-vision.md
-following: _articles/introduction-to-open-leadership/introduction-to-working-open.md
+following: _articles/introduction-to-open-leadership/getting-to-know-mozilla-and-the-leadership-network.md
 ---
 
 **Before you start this section, be sure to read the Series README file, for information about how this training series is structured, and what you’ll need to begin.**

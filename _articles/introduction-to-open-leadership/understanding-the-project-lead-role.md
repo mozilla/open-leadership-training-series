@@ -1,10 +1,10 @@
 ---
 layout: page
 title: "The Project Lead Role"
-module: "1.2"
+module: "1.3"
 date: 2016-10-06 14:05:56
 time: "25 mins"
-following: _articles/introduction-to-open-leadership/getting-to-know-mozilla-and-the-leadership-network.md
+following: _articles/introduction-to-open-leadership/stating-your-project-vision.md
 summary: "This module explores what project leaders, or “leads” do on open projects, and the kind of mindset and approach this role requires."
 prereq: >
   * Have completed previous modules in this section

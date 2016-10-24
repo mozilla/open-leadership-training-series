@@ -1,10 +1,10 @@
 ---
 layout: page
 title: "Getting to Know Mozilla"
-module: "1.3"
+module: "1.1"
 date: 2016-10-06 14:05:56
 time: "20 mins"
-following: _articles/introduction-to-open-leadership/stating-your-project-vision.md
+following: _articles/introduction-to-open-leadership/introduction-to-working-open.md
 summary: "This module explains a bit about Mozilla’s history with working open, and introduces Mozilla’s Network."
 prereq: "Have read the Series README file"
 format: "Read and watch videos on this topic"
