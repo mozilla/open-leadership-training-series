@@ -54,19 +54,7 @@ Think about how you can acknowledge and thank your co-facilitators, as well as y
 
 ### Facilitating the Work
 
-{% include videowrapper.html
-  url=""
-  title="Placeholder" %}
-
-[Video: Becoming the lead learner for your event
-
-This video should communicate what it means to facilitate, lead, and model learning at an event by
-
-*   Asking questions.
-*   Taking risks.
-*   Failing forward.
-*   Pursuing lines of personal inquiry related to the project.
-*   Learning from everyone, not just the perceived “authorities” in the room.]
+<!--- Placeholder for video : Becoming the lead learner for your event --->
 
 You can find more [tips and tricks for individual facilitators](http://mozillascience.github.io/open-science-leadership-workshop/facilitator_tips_&_tricks.html) from the [Mozilla Science Lab](https://mozillascience.org/). Some highlights:
 

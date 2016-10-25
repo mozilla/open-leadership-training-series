@@ -38,16 +38,7 @@ You are an open leader if you do all of those things and make it safe, possible,
 
 ### What Does Success Look Like at the End of a Project?
 
-{% include videowrapper.html
-  url=""
-  title="How Do You Know If Working Open Works?" %}
-[Video: How do you know if working open works? (2 minutes)
-
-How does a successful project look, sound, and feel? This video should communicate
-
-*   How to identify and measure successful product outcomes from open projects.
-*   How to identify and measure successful community outcomes from open projects.
-*   Ideas for scaling and spreading successful project.]
+<!--- Placeholder for video: How do you know if working open works? --->
 
 Mozilla’s [Hive Research Lab](https://hiveresearchlab.org/) characterizes the [core principles and benefits of working open](https://hiveresearchlab.files.wordpress.com/2014/12/what-does-it-mean-to-work-open-in-hive-nyc-hive-research-lab-october-2014.pdf) like this:
 
