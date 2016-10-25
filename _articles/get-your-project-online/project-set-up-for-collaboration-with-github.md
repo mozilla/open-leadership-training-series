@@ -29,7 +29,7 @@ Now that you’ve seen how GitHub can be used to organize and plan work, you’r
 
 ### {{ site.assignment }} Add Your First Issue
 
-![Creating your first milestone](../img/create-milestone.gif)
+![Creating your first milestone]({{ site.baseurl }}/img/create-milestone.gif)
 
 1.  Create some milestones for your project. Refer to the roadmap you created in Section 2 (and added to the repo in the previous module). If you have milestones already specified in the roadmap, add them to your GitHub repo. If you don't have milestones, come up with two or three-- these are significant turning points or events that will move the project forward. You will use these to organize your issues.
     *  Give each milestone a title and brief description.
