@@ -277,11 +277,13 @@ html.no-js .sidebar .collapsible-content {
   color: rgba(255,255,255,.5);
 }
 
-.hero-unit.home-page {
-  text-align: center;
-  background-color:#CCC;
+.hero-unit {
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #4D4E53;
+    text-align: center;
 }
-
 
 #content {
   padding:0;
