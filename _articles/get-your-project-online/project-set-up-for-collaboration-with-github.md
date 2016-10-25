@@ -8,7 +8,7 @@ following: _articles/get-your-project-online/sharing-your-work-in-the-open.md
 summary: "In this module, you’ll learn how to organize your project files so they are easy for newcomers to navigate. You’ll also create your very first GitHub issue!"
 prereq: "Have completed all previous sections and modules"
 format: "Read, watch videos, use GitHub"
-materials: "a computer, an internet connection, and a free GitHub account"
+materials: "A computer, an internet connection, and a free GitHub account"
 ---
 * TOC
 {:toc}
@@ -19,7 +19,7 @@ To work most effectively with contributors, your project structure should be cle
 
 GitHub is not only a place to store your files, and a way of managing collaborations, but also a great tool to organize the work you plan to do, and keep you on task. Here’s how:
 
-#### Example Placeholder
+<!--- Add examples here! --->
 
 {% include videowrapper.html
   url="https://www.filepicker.io/api/file/LjOBbVuSRhuJLFJlulZn"
