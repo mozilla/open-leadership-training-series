@@ -22,24 +22,7 @@ A big part of working open is sharing-- sharing the work of project creation wit
 
 The statement of what you and your community permit in terms of sharing-- the guidelines for use and reuse is called a license. Now, while we’re not lawyers, we do strongly believe in openness, and recommend making your work as open, available and remixable as possible. Also remember that if you do not explicitly license your content differently, it generally falls under copyright and technically cannot be remixed without your permission. You may use an open license to share code, or content, or both. There are lots of licenses designed especially for sharing broadly, and organizations like Creative Commons and the Free Software Foundation have created tools and resources to facilitate sharing of content, data and code. If you’re working collaboratively on GitHub or in another common place to store your work, you’ll put the license info in your LICENSE file.
 
-{% include videowrapper.html
-  url=""
-  title="Sharing Your Work" %}
-
-[VIDEO- Sharing Your Work
-
-This video should:
-
-*   Point out that open source software may/is be a familiar concept
-*   Explain that the concept of a license to share can for apply to many kinds of works
-*   Give examples: learning materials to data visualizations to image libraries to raw data
-*   Reiterate why you’d share: to amplify impact and improve your project via contributions you might not be able to make or plan for on your own.
-*   We encourage you to share widely! Choose a license to make it clear what kinds of sharing are allowed
-*   A GREAT SHARING STORY HERE?
-    *   Why the project decided to share
-    *   Who used the content or code and how
-    *   What that felt like
-    *   How the impact was defined]
+<!--- Placeholder: Sharing your work video --->
 
 ### Sharing Your Content
 
@@ -71,18 +54,7 @@ When you license your “non-software content,” you’re referring to things l
 
 If you are an academic researcher collecting data, writing articles, books, and papers, or creating visualizations and other research products, you may want to explore making your work Open Access, which means making it available on the web with no restrictions to access and minimal or no restrictions on use.
 
-{% include videowrapper.html
-  url=""
-  title="Open Access" %}
-
-[VIDEO: OPEN ACCESS.
-
-*   Applies to all kinds of research-- sciences, humanities, etc etc
-*   Can cover peer-reviewed and non peer-reviewed academic journal articles, conference papers, theses book chapters, and monographs
-*   Requires intentional decision-making about where to share and publish work; not all publications are open access
-*   Involves finding a place on the web to share-- institutional repositories, open access journals, etc
-*   Often encouraged or required by funders
-*   STORY that describes benefits of OA]
+<!--- Placeholder: Open Access Video --->
 
 ### Sharing Your Code
 
