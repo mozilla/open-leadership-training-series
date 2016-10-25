@@ -17,9 +17,7 @@ materials: "Your computer, GitHub account, your own project—  plus someone els
 
 Good collaboration is a back and forth process, like a conversation, or a call and response. It’s not complicated, but you need to know the steps and the roles for contributor and lead. The series of videos below walks you through a workflow for collaboration on open projects, and demonstrates good communication with contributors. Watch closely, because you’ll be doing these steps (and playing both roles) yourself in the assignments at the end of this module! We’ve included screenshots in the assignment section to help you along.
 
-{% include videowrapper.html
-  url=""
-  title="Placeholder" %}
+<!--- Placeholder for video: collaborative workflow --->
 
 If you master this workflow and practice it in your community, contribution can happen more smoothly and be more satisfying for all involved. You, the project lead, need to move this whole process forward! These handy tips should help.
 
@@ -47,8 +45,6 @@ When you’re writing commit messages, you’ll want to make them short, clear, 
 5.  Use the imperative mood in the subject line
 6.  Wrap the body at 72 characters
 7.  Use the body to explain what and why vs. how
-
-#### Placeholder screenshots
 
 ### {{ site.assignment }} As a Contributor, Make a Pull Request
 
