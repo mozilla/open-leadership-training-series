@@ -55,7 +55,7 @@ Finally, set a deadline for responses so you can move ahead in planning or organ
 
 Here’s part of [a survey shared to participants](https://docs.google.com/a/mozillafoundation.org/forms/d/11Ptvzq5k91iYZjQdDGqGAS8U67WLORKTU8IF4BVpUyo/viewform?edit_requested=true) at the end of a web literacy training for the National Afterschool Alliance. You can visit the survey online and make a copy to remix it.
 
-<iframe src="https://docs.google.com/forms/d/11Ptvzq5k91iYZjQdDGqGAS8U67WLORKTU8IF4BVpUyo/viewform?embedded=true" marginheight="0" marginwidth="0" width="100%" height="400" frameborder="0">Loading...</iframe> ]
+<iframe src="https://docs.google.com/forms/d/11Ptvzq5k91iYZjQdDGqGAS8U67WLORKTU8IF4BVpUyo/viewform?embedded=true" marginheight="0" marginwidth="0" width="100%" height="400" frameborder="0">Loading...</iframe>
 
 Notice that it mixes and matches question types. As you develop your questions and survey, think about which questions are answerable with multiple-choice or a scale. Make the survey as short and easy as possible to complete to encourage people to finish it. Ask just a few, essential, open ended questions with text boxes so recipients aren’t overwhelmed by the survey.
 
