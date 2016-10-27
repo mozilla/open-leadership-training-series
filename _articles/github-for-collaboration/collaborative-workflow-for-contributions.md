@@ -46,6 +46,18 @@ When you’re writing commit messages, you’ll want to make them short, clear, 
 6.  Wrap the body at 72 characters
 7.  Use the body to explain what and why vs. how
 
+For example: 
+
+This is an example on how to write a proper commit message while contributing
+                //Notice here the capitalisation of the header and the absence of a period in the commit header
+
+The paragraphs should contain enough information about the changes commited and what is all it is about. 
+
+There should be a line space between each paragraph. Describe about the functions you have used in the changes you have committed. Write what was wrong with the code and how did you fix it. 
+ 
+**End of Example
+
+
 ### {{ site.assignment }} As a Contributor, Make a Pull Request
 
 1.  Find a project you’d like to contribute to and check out the README
