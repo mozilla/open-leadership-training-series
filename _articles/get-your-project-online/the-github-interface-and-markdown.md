@@ -37,7 +37,11 @@ Here are some examples of how you can use Markdown.
 *   You format links like this: ‘[text](link)’. (e.g. ‘Visit [our teaching activities page]([https://teach.mozilla.org](https://teach.mozilla.org)).’)
 *   You format images like this: ‘![alt text](image source)’. (e.g. ‘![kittens]([https://pixabay.com/static/uploads/photo/2014/12/03/21/20/kittens-555822_960_720.jpg](https://pixabay.com/static/uploads/photo/2014/12/03/21/20/kittens-555822_960_720.jpg))’).
 
-You can find [more documentation on using Markdown on Daring Fireball](http://daringfireball.net/projects/markdown/syntax), [and GitHub has its own markdown](http://daringfireball.net/projects/markdown/syntax) [documented here](https://guides.github.com/features/mastering-markdown/). There are also tools like [MacDown](http://macdown.uranusjr.com/) that show live previews to make writing Markdown easier.
+![Github markdown interface with preview]({{ site.baseurl }}/img/github-markdown.png)
+
+You can preview the message you write before sending using the preview tab in the markdown editor.
+
+Find [more documentation on using Markdown on Daring Fireball](http://daringfireball.net/projects/markdown/syntax), [and GitHub has its own markdown](http://daringfireball.net/projects/markdown/syntax) [documented here](https://guides.github.com/features/mastering-markdown/). There are also tools like [MacDown](http://macdown.uranusjr.com/) that show live previews to make writing Markdown easier.
 
 ### {{ site.assignment }} Get on GitHub!
 
