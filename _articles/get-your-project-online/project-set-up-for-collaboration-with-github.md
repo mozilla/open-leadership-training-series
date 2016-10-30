@@ -15,11 +15,27 @@ materials: "A computer, an internet connection, and a free GitHub account"
 
 ### Project Structure and Organization
 
-To work most effectively with contributors, your project structure should be clean and welcoming, with folder titles that make sense. For example, your project might have different folders for data, technical documentation, and images. README.md and CONTRIBUTING.md (which you’ll make in the next module) should be in your root directory, along with your ROADMAP. Think of these documents as an anchor for your project. As you add files, you may want to organize these into folders and create a consistent naming convention. Here’s an example of good project set-up.
+To work most effectively with contributors, your project structure should be clean and welcoming, with folder titles that make sense. For example, your project might have different folders for data, technical documentation, and images. README.md and CONTRIBUTING.md (which you’ll make in the next module) should be in your root directory, along with your ROADMAP. Think of these documents as an anchor for your project. As you add files, you may want to organize these into folders and create a consistent naming convention. Here’s an example of a good project set-up.
+
+    .
+    ├── docs
+    ├── images
+    ├── src
+    ├── .gitignore
+    ├── CONTRIBUTING.md
+    └── README.md
+    └── ROADMAP
+
+Few example projects,
+
+- [GitHub hubot](https://github.com/github/hubot) - CoffeeScript
+- [nteract](https://github.com/nteract/nteract) - JavaScript
+- [Picasso](https://github.com/square/picasso) - Java
+- [Laravel](https://github.com/laravel/framework) - PHP
+- [Ansible](https://github.com/ansible/ansible) - Python
 
 GitHub is not only a place to store your files, and a way of managing collaborations, but also a great tool to organize the work you plan to do, and keep you on task. Here’s how:
 
-<!--- Add examples here! --->
 
 {% include videowrapper.html
   url="https://www.filepicker.io/api/file/LjOBbVuSRhuJLFJlulZn"
