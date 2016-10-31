@@ -69,6 +69,10 @@ the lesson text more concrete.
     4.  Write a great commit message
     5.  Make a pull request!
 
+![New Pull Request]({{ site.baseurl }}/img/create-pull-req-1.png)
+![Compare Changes]({{ site.baseurl }}/img/create-pull-req-2.png)
+![Create Pull Request]({{ site.baseurl }}/img/create-pull-req-3.png)
+
 ### {{ site.assignment }} As Project Lead, Merge a Pull Request
 
 Follow the steps described for as project lead
