@@ -47,4 +47,7 @@ For more on GitHub and what the platform can do, see our list of Resources and T
 
 ### More GitHub Resources and Tutorials
 
+- [Try GitHub](https://try.github.io) - Interactive Tutorial to learn GitHub
+- [Git Tutorial](https://www.atlassian.com/git/tutorials/) - Illustrated Git Tutorial
+
 Now that your project is on GitHub, it’s ready to be shared widely. In the final module of this section, you’ll learn about licenses for sharing an open project.
