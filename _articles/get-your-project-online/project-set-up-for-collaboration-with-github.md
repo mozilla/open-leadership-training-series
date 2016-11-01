@@ -43,6 +43,8 @@ Now that you’ve seen how GitHub can be used to organize and plan work, you’r
     * Add a milestone to your issue, to add a bit more information about the task, and how it fits into your larger project roadmap. Click on the Milestones button in the sidebar and select from the list of options you created in Step 1\.
     * Save the issue. Now you’re ready to get to work! (When this issue is eventually completed, you can close it. It will disappear from your Open issues tab and appear under the Closed issues tab. You can revisit it there at any time, to review work completed.) If you have an issue with multiple steps or tasks, use Markdown’s “checkbox” feature, and check off each task as you complete it.
 
+![Creating your first issue]({{ site.baseurl }}/img/create-issue.png)
+
 For more on GitHub and what the platform can do, see our list of Resources and Tutorials below.
 
 ### More GitHub Resources and Tutorials
