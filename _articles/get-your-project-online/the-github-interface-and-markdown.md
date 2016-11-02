@@ -41,7 +41,7 @@ Here are some examples of how you can use Markdown.
 
 You can preview the message you write before sending using the preview tab in the markdown editor.
 
-Find [more documentation on using Markdown on Daring Fireball](http://daringfireball.net/projects/markdown/syntax), [and GitHub has its own markdown](http://daringfireball.net/projects/markdown/syntax) [documented here](https://guides.github.com/features/mastering-markdown/). There are also tools like [MacDown](http://macdown.uranusjr.com/) that show live previews to make writing Markdown easier.
+Find [more documentation on using Markdown on Daring Fireball](http://daringfireball.net/projects/markdown/syntax), and [GitHub has its own markdown documented here](https://guides.github.com/features/mastering-markdown/). There are also tools like [MacDown](http://macdown.uranusjr.com/) that show live previews to make writing Markdown easier.
 
 ### {{ site.assignment }} Get on GitHub!
 
