@@ -36,4 +36,4 @@ Notice a mistake? Please file any bugs, requests, or questions in [our issue tra
 
 ## Communication channels
 
-Come and say hi in [our chat room](https://chat.mozillafoundation.org/mozilla/channels/mozfest-open-projects)! We're freindly.
+Come and say hi in [our chat room](https://chat.mozillafoundation.org/mozilla/channels/mozfest-open-projects)! We're friendly.
