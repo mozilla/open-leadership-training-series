@@ -30,6 +30,10 @@ Once you've identified one of the issues above that you feel you can contribute 
 
 First time contributing to open source? Check out this *free* series, [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github).
 
+## Maintainers
+
+This repository is currently maintained by [@acabunoc](http://github.com/acabunoc) and [@betatim](http://github.com/betatim). Feel free to reach out if you have any questions!
+
 ## How to report bugs
 
 Notice a mistake? Please file any bugs, requests, or questions in [our issue tracker](https://github.com/mozilla/open-leadership-training-series/issues)
