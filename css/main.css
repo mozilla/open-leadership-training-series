@@ -1,19 +1,72 @@
-.hero-unit h1 {
-  font-size: 3.5rem;
+.hero-unit {
+  background-image: url("../img/hero.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #175289;
+  text-align: center;
 }
-ol.toc { list-style-type: none; }
+
+.hero-unit h1 {
+  font-size: 2.5rem;
+  max-width: 80%;
+  margin: 0 auto;
+  font-weight: 400;
+  font-size: 3rem;
+  margin-top: 1.75rem;
+}
+
+.hero-unit h2 {
+  text-shadow: 1px 1px rgba(0,0,0,.4);
+  font-weight: 200;
+  font-size: 2.4rem;
+  margin-top: .5rem;
+  margin-bottom: 1.75rem;
+}
+
+h2 {
+  margin: 1rem 0;
+}
+
+ol.toc { 
+  list-style-type: none;
+}
 
 h3 {
   color: #4383bf;
   font-weight: 200;
+  margin-top: 3rem;
+  margin-bottom: 2rem;
+  font-size: 2rem;
 }
 
- a, a:link {
+h5 {
+  font-weight: 400;
+}
+
+.details + h3 {
+  margin-top: 1.5rem;
+}
+
+.details ul {
+  padding-left: 1.5rem;
+}
+
+a, a:link {
   color:#299b7d;
 }
 
 a:hover {
-  color:#10503F;
+  color:#299b7d;
+  text-decoration: underline;
+}
+
+a:hover edit:before {
+  text-decoration: none;
+}
+
+.details time {
+  margin-top: 5px;
 }
 
 .details time, .details edit {
@@ -39,54 +92,64 @@ time {
 .assignment:before{
   content: "\f044";
   font-family: FontAwesome;
-  margin-right: 4px;
-}
-
-edit:before {
-  content: "\f040";
-  font-family: FontAwesome;
   margin-right: 6px;
 }
 
+h3 .assignment:before {
+  margin-right: 8px;
+  font-size: 1.75rem;
+  
+}
+
+.suggest-changes {
+  margin-left: 1.25rem;
+  position: relative;
+}
+
+.suggest-changes:before {
+  content: "\f040";
+  font-family: FontAwesome;
+  margin-right: 6px;
+  font-size: .9rem;
+  position: absolute;
+  left: -1.2rem;
+}
+
 #markdown-toc {
-  border-top:1px solid #CDCDCD;
-  border-bottom:1px solid #CDCDCD;
-  padding-top: 15px;
+  border: solid 1px #DDD;
+  border-width: 1px 0 1px 0;
+  padding: 1.4rem 1rem 1.4rem 2rem;
 }
 
 #markdown-toc:before {
   content: "Table of Contents";
-  margin-left: -32px;
-  font-size:18pt;
+  color: rgba(0,0,0,.7);
+  margin-left: -2rem;
+  font-size: 18pt;
+}
+
+#markdown-toc li {
+  margin: .5rem 0;
 }
 
 pre, code, pre code {
-    border: none;
-    border-radius: 0;
-    background-color: #f9f9f9;
-    font-size: 0.85em;
+  border: none;
+  border-radius: 0;
+  background-color: #f9f9f9;
+  font-size: 0.85em;
 }
 
 pre {
-    font-size: 1em;
+  font-size: 1em;
 }
 
 code {
-    color: inherit;
-}
-
-.sidebar {
-    background-color: #4383bf;
-    position: relative;
-    height: auto;
-    color: #fff;
-    font-size: 1.4rem;
-    padding: 0;
+  color: inherit;
 }
 
 .sidebar-header .moz-logo {
-    width: 100%;
-    max-width:130px;
+  width: 100%;
+  max-width: 130px;
 }
 
 html.no-js .sidebar .collapsible-content {
@@ -95,35 +158,42 @@ html.no-js .sidebar .collapsible-content {
   opacity: 1 !important;
   max-height: none !important;
 }
+
 .sidebar {
+  position: relative;
+  background-color: #4383bf;
   position: relative;
   height: auto;
   color: #fff;
-  font-size: 1.4rem;
+  font-size: 1rem;
   padding: 0;
 }
+
 .sidebar a {
   font-size: inherit;
   color: inherit;
   line-height: 1;
 }
+
 .sidebar .collapsible-content {
   transition: all 0.5s ease;
   opacity: 1;
   max-height: 1400px;
   padding-bottom: 1rem;
 }
+
 .sidebar .collapsible-content.collapsed {
   opacity: 0;
   max-height: 0;
   padding-bottom: 0;
 }
+
 .lesson-content {
   padding:1rem;
 }
+
 @media screen and (min-width: 992px) {
   .sidebar {
-    height: 100%;
     transition: background-color 5ms;
   }
   .sidebar .collapsible-content.collapsed {
@@ -131,26 +201,26 @@ html.no-js .sidebar .collapsible-content {
     max-height: auto;
   }
 }
+
 .sidebar-header {
   position: relative;
-  font-size: 2rem;
-  /*color: #595a5e;*/
-  padding: 1rem 20px;
+  font-size: 1rem;
+  padding: 1rem 0;
   overflow: hidden;
+  border-bottom: solid 2px rgba(255,255,255,.4);
+  margin: 0 1.4rem 1.5rem 1.4rem;
 }
-@media screen and (min-width: 992px) {
-  .sidebar-header {
-    background-color: rgba(255, 255, 255, 0.3);
-  }
-}
+
 .sidebar-header a:hover,
 .sidebar-header a:focus {
   text-decoration: none;
-}`
+}
+
 .sidebar-header .moz-logo {
   width: 100%;
   max-width: 100px;
 }
+
 .sidebar-header .glyphicon-menu-hamburger {
   position: absolute;
   right: 1rem;
@@ -160,31 +230,54 @@ html.no-js .sidebar .collapsible-content {
   background: transparent;
   padding: 0;
 }
+
 .sidebar-header .glyphicon-menu-hamburger:focus {
   color: #e6e6e6;
 }
+
 .sidebar-menu {
   padding-bottom: 0;
   margin-bottom: 0;
 }
+
+.sidebar-menu li {
+  font-size: 1rem;
+}
+
 .sidebar-menu a {
   position: relative;
   display: block;
-  padding: 2;
   outline: none;
+  font-size: 1em;
 }
-.sidebar-menu>li>a:hover,
-.sidebar-menu>li>a:focus {
-  background-color: #406e99;
+
+.sidebar-menu > li > a {
+  opacity: .8;
+}
+
+
+.sidebar-menu > li.selected > a,
+.sidebar-menu > li:hover > a
+ {
+  opacity: 1;
+}
+
+
+.sidebar-menu > li > a:hover,
+.sidebar-menu > li > a:focus {
+  background-color: #316DA2;
   transition: background-color 3ms;
 }
+
 .sidebar-menu a:hover,
 .sidebar-menu a:focus {
   text-decoration: none;
 }
+
 .sidebar-menu li.selected {
-    background-color: #2e5c87;
+  background-color: #2e5c87;
 }
+
 .sidebar-menu strong {
   display: inline;
   font-weight: 700;
@@ -192,9 +285,11 @@ html.no-js .sidebar .collapsible-content {
   vertical-align: middle;
   margin-left: 1rem;
 }
+
 .sidebar-menu .external-link:after {
   color: rgba(255, 255, 255, 0.5);
 }
+
 .sidebar-menu .glyphicon {
   position: absolute;
   right: 1rem;
@@ -204,23 +299,28 @@ html.no-js .sidebar .collapsible-content {
   transition: color 3ms;
   visibility: hidden;
 }
+
 .sidebar-menu li {
   margin:0;
   padding: 0;
 }
+
 .sidebar-menu>li>a{
-  padding: 15px 20px;
+  padding: 20px 20px;
 }
+
 @media screen and (min-width: 1200px) {
   .sidebar-menu .glyphicon {
     right: 1.5rem;
   }
 }
+
 @media screen and (min-width: 992px) {
   .sidebar-menu .glyphicon {
     visibility: visible;
   }
 }
+
 .sidebar-menu .img-container {
   display: inline-block;
   overflow: hidden;
@@ -228,61 +328,71 @@ html.no-js .sidebar .collapsible-content {
   text-align: center;
   vertical-align: middle;
 }
+
 .sidebar-menu img {
   float: none;
   width: 2rem;
   opacity: 0.6;
 }
+
 .sidebar-menu .activities img,
 .sidebar-menu .opportunities img {
   width: 1.6rem;
 }
+
 .sidebar-menu .tools-page img {
   width: 2.3rem;
 }
+
 .sidebar-menu .community img {
   width: 2.8rem;
 }
+
 .sidebar-subitems {
   overflow: hidden;
   list-style: none;
+  padding: .25rem .5rem 1.5rem 2rem;
 }
-@media screen and (min-width: 992px) {
-  .sidebar-subitems {
-    padding-left: 2rem;
-  }
-}
+
 .sidebar-subitems li {
   margin-bottom: 0.5rem;
   padding-right:10px;
 }
+
+.sidebar-subitems li:last-child {
+  margin-bottom: 0;
+}
+
 .sidebar-subitems li a::before {
   content: "\f105";
   font-family: "FontAwesome";
   display: inline-block;
-  margin-right: 0.6rem;
+  position: absolute;
+  left: 0rem;
 }
+
 .sidebar-subitems a {
+  position: relative;
   display: inline-block;
-  padding: 0;
+  padding: 0 0 0 1rem;
+  line-height: 1.25rem;
   color: rgba(255,255,255,.5);
   font-size:1rem;
+  transition: color .15s ease-out;
 }
+
+.sidebar-subitems a:hover {
+  color: rgba(255,255,255,.8);
+}
+
 .sidebar-subitems a.current {
   color:white;
 }
+
 .sidebar footer {
-  font-size:12pt;
   padding: 20px;
   color: rgba(255,255,255,.5);
-}
-
-.hero-unit {
-    background-position: center top;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-color: #4D4E53;
-    text-align: center;
+  margin: 2rem 0;
 }
 
 #content {
@@ -300,14 +410,16 @@ html.no-js .sidebar .collapsible-content {
 }
 
 strong {
-  font-weight: bold;
+  font-weight: 500;
 }
 
 blockquote {
-  padding: 0.5rem 1rem;
-  margin-bottom: 1rem;
+  padding: 0 1.5rem;
+  margin-bottom: 2rem;
+  line-height: 2.2rem;
   font-size: 1.25rem;
-  border-left: 0.25rem solid rgba(67, 131, 191, 0.3);
+  border-left: 2px solid rgba(67, 131, 191, 0.3);
+  color: #4383bf;
 }
 
 body ul, body ol {
@@ -347,26 +459,24 @@ td, th {
 }
 
 a.btn {
-    background: #16afe5;
-    box-shadow: 0 2px 0 #0f7a9f;
-    color: #fff;
-    transition: background 0.2s ease-in-out;
-    white-space:normal;
+  border: none;
+  background: #4383bf;
+  border-bottom: solid 2px #3875a8;
+  color: #fff;
+  transition: background 0.2s ease-in-out;
+  border-radius: 2px;
+  white-space:normal;
+  text-decoration: none;
+  padding: 0.85rem 4rem 0.7rem 4rem;
+  margin-top: 1rem;
+  line-height: 2rem;
 }
 
-.btn {
-    padding: 0.85rem 4rem 0.7rem 4rem;
-    margin-top: 1rem;
-    line-height: 2rem;
+a.btn:hover {
+  opacity: 1;
+  background: #2f6896;
+  color: #fff;
 }
-
-.btn:hover {
-    background: #0f7a9f;
-    color: #fff;
-}
-
-
-
 
 /* PASSING */
 
@@ -471,18 +581,22 @@ a.btn {
   color: rgba(255, 255, 255, 0.8);
   line-height: inherit;
 }
+
 .mofooter .footer-content p a:hover {
   color: white;
 }
+
 .mofooter .icons {
   margin-bottom: 1.25rem;
 }
+
 .mofooter .logo {
   margin-bottom: 1.25rem;
   padding-bottom: 1.25rem;
   border-bottom: 0.0625rem solid #666;
   display: inline-block;
 }
+
 @media screen and (min-width: 768px) {
   .mofooter .logo {
     border-bottom: 0;
@@ -493,12 +607,13 @@ a.btn {
     margin-right: 1.25rem;
   }
   .lesson-content {
-    padding:3.5rem;
+    padding: 2rem 3.5rem;
   }
   .hero-unit h1 {
-    font-size: 4.5rem;
+/*    font-size: 4.5rem;*/
   }
 }
+
 @media screen and (max-width: 768px) {
   .mofooter .icon-container:first-child {
     margin-top: 0;
@@ -511,6 +626,7 @@ a.btn {
     margin: 0.375rem auto 0.375rem;
   }
 }
+
 @media screen and (min-width: 768px) {
   .mofooter .footer-content {
     display: -webkit-box;
@@ -554,4 +670,42 @@ a.btn {
 
 footer.col-sm-12 {
   padding:0;
+}
+
+.lesson-content p, .lesson-content li {
+  font-size: 1rem;
+  line-height: 1.4rem;
+  color: rgba(0,0,0,.6);
+}
+
+.lesson-content p {
+  line-height: 1.5rem;
+  margin-bottom: 1.75rem;
+}
+
+hr {
+  margin: 2rem 0;
+}
+
+.help-us {
+  margin-top: 2.5rem;
+  padding-top: 1rem;
+  border-top: solid 1px #ddd;
+}
+
+.anchorjs-link {
+  margin-left: 0px;
+  opacity: 0;
+  position: relative;
+  top: 1px;
+}
+
+.anchorjs-link:hover {
+  text-decoration: none;
+  opacity: .7;
+}
+
+video {
+  margin-bottom: 1.5rem;
+  border: solid 1px #DDD;
 }
