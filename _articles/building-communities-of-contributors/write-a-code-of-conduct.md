@@ -41,6 +41,7 @@ Other Examples,
 * [Contributor Covenant](http://contributor-covenant.org/) - A Code of Conduct maintained specifically to be adopted by Open Source projects.
 * [Apache Software Foundation Code of Conduct](https://www.apache.org/foundation/policies/conduct)
 * [Citizen Code of Conduct](http://citizencodeofconduct.org/)
+* [Hack Code of Conduct](http://hackcodeofconduct.org/) - A Code of Conduct for Hackathons.
 
 ### {{ site.assignment }}Write your Code of Conduct
 
