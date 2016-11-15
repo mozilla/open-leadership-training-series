@@ -4,10 +4,10 @@ layout: default
 
 <div class="lesson-content">
 <div class="page-header">
-    <h2>
-      {% if page.module %}{{ page.module }}.{% endif %}
-      {{ page.title }}
-    </h2>
+  <h2>
+    {% if page.module %}{{ page.module }}.{% endif %}
+    {{ page.title }}
+  </h2>
 </div>
 <div class="details">
   <div class="row p-y-1">
@@ -19,12 +19,8 @@ layout: default
     </div>
   {% endif %}
     <div class="col-sm-4">
-      <p>
-  {% if page.time %}
-    <time>{{page.time}}</time>
-  {% endif %}
-    <a target="_blank" href="https://github.com/{{ site.github.repo }}/edit/{{ site.github.branch }}/{{ page.path }}"><edit>Suggest changes</edit></a>
-    </p>
+      {% if page.time %} <time>{{page.time}}</time>{% endif %}
+      <a target="_blank" class="suggest-changes" href="https://github.com/{{ site.github.repo }}/edit/{{ site.github.branch }}/{{ page.path }}">Suggest changes</a>
     </div>
   </div>
   {% if page.format or page.prereq or page.materials %}
@@ -76,5 +72,9 @@ next:
 <br />
 {% endif %}
 
-<hr />
-    <edit></edit>Help us improve content and <a target="_blank" href="https://github.com/{{ site.github.repo }}/edit/{{ site.github.branch }}/{{ page.path }}">suggest changes</a> to this page
+
+<p class="help-us">
+    <edit></edit>
+    Help us improve content and 
+    <a target="_blank" href="https://github.com/{{ site.github.repo }}/edit/{{ site.github.branch }}/{{ page.path }}">suggest changes</a> to this page.
+</p>
