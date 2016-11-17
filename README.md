@@ -24,6 +24,18 @@ You'll need to install [Jekyll](https://jekyllrb.com/), [Ruby](https://www.ruby-
 
 This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to abby@mozillafoundation.org.
 
+## Contributors
+
+Many thanks to the wonderful contributors who've helped create and improve this series.
+
+* Chad Sansing ([@chadsansing](https://github.com/chadsansing))
+* Zannah Marsh ([@zee-moz](https://github.com/zee-moz))
+
+And, all [contributors][gh-contributors] on GitHub.
+
 ## License
 
 Non-software content in this project is licensed under a [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) license.
+
+
+[gh-contributors]: https://github.com/mozilla/open-leadership-training-series/network/members
