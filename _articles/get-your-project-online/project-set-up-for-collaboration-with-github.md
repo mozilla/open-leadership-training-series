@@ -19,7 +19,7 @@ To work most effectively with contributors, your project structure should be cle
 
 GitHub is not only a place to store your files, and a way of managing collaborations, but also a great tool to organize the work you plan to do, and keep you on task. Here’s how:
 
-<!--- Add examples here! --->
+Here is an example of a well-organised project of The Linux Foundation: https://github.com/linuxfoundation/cii-best-practices-badge
 
 {% include videowrapper.html
   url="https://www.filepicker.io/api/file/LjOBbVuSRhuJLFJlulZn"
