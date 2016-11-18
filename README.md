@@ -26,12 +26,16 @@ This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participatin
 
 ## Contributors
 
-Many thanks to the wonderful contributors who've helped create and improve this series.
+The material this repository is based on was written by [@zee-moz](https://github.com/zee-moz) and [@chadsansing](https://github.com/chadsansing). Many thanks to the wonderful contributors who've helped since to improve this series:
 
-* Chad Sansing ([@chadsansing](https://github.com/chadsansing))
+* David Bild ([@dbild](https://github.com/dbild))
 * Zannah Marsh ([@zee-moz](https://github.com/zee-moz))
+* Tim Riches
+* Holly Robbins ([hvrobbins](https://github.com/hvrobbins))
+* Chad Sansing ([@chadsansing](https://github.com/chadsansing))
+* Robert Schaefer ([@schae234](https://github.com/schae234))
 
-And, all [contributors][gh-contributors] on GitHub.
+As well as all [contributors][gh-contributors] on GitHub.
 
 ## License
 
