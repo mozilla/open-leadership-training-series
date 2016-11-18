@@ -31,7 +31,7 @@ The material this repository is based on was written by [@zee-moz](https://githu
 * David Bild ([@dbild](https://github.com/dbild))
 * Zannah Marsh ([@zee-moz](https://github.com/zee-moz))
 * Tim Riches
-* Holly Robbins ([hvrobbins](https://github.com/hvrobbins))
+* Holly Robbins ([@hvrobbins](https://github.com/hvrobbins))
 * Chad Sansing ([@chadsansing](https://github.com/chadsansing))
 * Robert Schaefer ([@schae234](https://github.com/schae234))
 
