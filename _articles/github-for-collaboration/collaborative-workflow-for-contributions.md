@@ -46,6 +46,15 @@ When you’re writing commit messages, you’ll want to make them short, clear, 
 6.  Wrap the body at 72 characters
 7.  Use the body to explain what and why vs. how
 
+Here is an example to illustrate the above points:
+
+```
+Add example commit message to collab workflow lesson
+
+An example of what a nice commit message looks like to make the points from
+the lesson text more concrete.
+```
+
 ### {{ site.assignment }} As a Contributor, Make a Pull Request
 
 1.  Find a project you’d like to contribute to and check out the README
