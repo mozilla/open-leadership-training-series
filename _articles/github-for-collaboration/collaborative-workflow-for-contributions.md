@@ -69,8 +69,13 @@ the lesson text more concrete.
     4.  Write a great commit message
     5.  Make a pull request!
 
+*Switch to your branch containing the changes*  
 ![New Pull Request]({{ site.baseurl }}/img/create-pull-req-1.png)
+
+*Compare your changes with the remote branch*  
 ![Compare Changes]({{ site.baseurl }}/img/create-pull-req-2.png)
+
+*Provide a title and a description for your pull request*  
 ![Create Pull Request]({{ site.baseurl }}/img/create-pull-req-3.png)
 
 ### {{ site.assignment }} As Project Lead, Merge a Pull Request
