@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Open Communications"
-module: "6"
+module: "7"
 date: 2016-10-06 14:05:56
 contents:
   - _articles/open-communications/communicating-openly-about-your-work.md
