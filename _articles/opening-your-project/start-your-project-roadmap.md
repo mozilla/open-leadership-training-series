@@ -39,7 +39,7 @@ The timeline of tasks is the probably most important part of the Roadmap so as a
 
 Another way to track your project's progress is use to use [GitHub's Projects](https://help.github.com/articles/tracking-the-progress-of-your-work-with-projects/).  This feature allows you create [kanban-style boards](https://en.wikipedia.org/wiki/Kanban_(development)) to manage tasks, take Notes to quickly add tasks or reminders to your project which can be converted to Issues when you're ready.
 
-[](!https://raw.githubusercontent.com/belkinsa/open-leadership-training-series/49da361324e1004244dc9c2820c212a40db2729e/img/githib-projects.png)
+![](https://raw.githubusercontent.com/belkinsa/open-leadership-training-series/49da361324e1004244dc9c2820c212a40db2729e/img/githib-projects.png)
 
 ### Prototyping
 
