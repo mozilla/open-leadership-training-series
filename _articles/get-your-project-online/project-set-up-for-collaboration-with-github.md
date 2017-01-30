@@ -68,9 +68,14 @@ For more on GitHub and what the platform can do, see our list of Resources and T
 - [Try GitHub](https://try.github.io) - Interactive Tutorial to learn GitHub
 - [Git Tutorial](https://www.atlassian.com/git/tutorials/) - Illustrated Git Tutorial
 - [GitHub Guides](https://guides.github.com/) - General guides authored by GitHub
+- [GitHub Help](https://help.github.com/) - General FAQ authored by GitHUb
 - [Creating an Issue](https://help.github.com/articles/creating-an-issue/) - GitHub authored article on how to create an issue
 - [Mastering Issues](https://guides.github.com/features/issues/) - Issues are a great way to keep track of tasks, enhancements, and bugs for your projects
 - [Adding Existing Projects to GitHub](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/) - Learn how to add existing projects to GitHub using the command line
 - [Creating a Repo](https://help.github.com/articles/create-a-repo/) - Learn how to create a repo
+- [Fork a Repo](https://help.github.com/articles/fork-a-repo/) - Learn how to fork a repo
+- [Adding a remote](https://help.github.com/articles/adding-a-remote/) - Learn how to add a new remote
+- [Renaming a remote](https://help.github.com/articles/renaming-a-remote/) - Learn how to rename an existing remote
+- [Working with remote](https://help.github.com/articles/renaming-a-remote/) - Git Basics-Working with remote
 
 Now that your project is on GitHub, it’s ready to be shared widely. In the final module of this section, you’ll learn about licenses for sharing an open project.
