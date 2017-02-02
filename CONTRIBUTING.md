@@ -32,7 +32,7 @@ First time contributing to open source? Check out this *free* series, [How to Co
 
 ## Maintainers
 
-This repository is currently maintained by [@acabunoc](http://github.com/acabunoc) and [@betatim](http://github.com/betatim). We like to keep all discussions [in this repo open](https://github.com/mozilla/open-leadership-training-series/issues/new) but feel free to reach out or ping us directly!
+This repository is currently maintained by [@acabunoc](http://github.com/acabunoc), [@betatim](http://github.com/betatim) and [@zee-moz](http://github.com/zee-moz). We like to keep all discussions [in this repo open](https://github.com/mozilla/open-leadership-training-series/issues/new) but feel free to reach out or ping us directly!
 
 ## How to report bugs
 
