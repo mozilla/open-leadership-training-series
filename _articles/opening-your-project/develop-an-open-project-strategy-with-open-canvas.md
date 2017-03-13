@@ -46,7 +46,7 @@ Open Canvas should help you identify needs and resources that are critical to cr
 
 In this assignment you’ll use Open Canvas to organize the information you already know about your project, clarify and summarize project goals and define resource needs.
 
-1.  Using the template, fill out Open Canvas for your project/idea. Read the description of what goes in each field (aloud, if you’re working in a group).
+1.  [Using the template](add link here), fill out Open Canvas for your project/idea. Read the description of what goes in each field (aloud, if you’re working in a group).
 2.  For your project, write what you think goes in each field-- your problem, solution, etc. Take a minute or two on each. If working in a group, have everyone write their own answer to each field on a sticky note.
 3.  Share, revise, and add. If working in a group, review the answers and spend a few minutes coming to shared definitions of each. Add these to the template or sticky note collection,
 4.  If you don’t yet know some of this information-- that’s OK! You can leave user channels, contributor profiles and channels boxes blank for now if you don’t have that information. We’ll go over those items in later Sections (see Building Communities of Contributors, Open Communications). You should have information for the problem, solution, value proposition, key metrics, and user profiles boxes filled in.
