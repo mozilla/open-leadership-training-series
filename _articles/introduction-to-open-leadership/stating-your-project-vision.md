@@ -24,7 +24,7 @@ Before you jump into section 2, on Opening Your Project, take a few minutes to s
 
 > *Articulate your big idea, vision or dream that you want to achieve by working open, and experiment with expressing your vision in a short format.*
 
-Take a few minutes to state your vision for your project and community going forward. Your vision is what powers your project and excites and attracts contributors. It’s important to be able to say what you plan to do, clearly and concisely, in a short form, to anyone, on a moment’s notice! The process of choosing these words may also help you think through and refine your project idea and goals. This is a great exercise to do with a small group of community members or contributors if available, to ensure that everyone has a shared understanding of the project.
+Take a few minutes to state your vision for your project and community going forward. It’s important to be able to say what you plan to do, clearly and concisely, in a short form, to anyone, on a moment’s notice! t.
 
 <!--- placeholder for video --->
 
