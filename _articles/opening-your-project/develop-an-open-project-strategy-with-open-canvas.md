@@ -36,7 +36,7 @@ Here’s more about the Open Canvas tool from its creator, Abby Cabunoc Mayes, D
 
 Here’s a sample of an Open Canvas created by Abby for Mozilla Science Lab’s Paper Badger Open Project.
 
-![](https://lh6.googleusercontent.com/Ia3HtZ6f0MRAcD2mDzhBVnow2DNNmUNbYMgulW3qPWJN1xdjOuMdLnhePaqAEHDy39ZFojXM2OtdI8uo3QcYaxvwTz3QM9al5YEBQtkwCKKVc6azrQ4b5DPWisPiXCVHEBt6lKnG)
+![](https://lh6.googleusercontent.com/Ia3HtZ6f0MRAcD2mDzhBVnow2DNNmUNbYMgulW3qPWJN1xdjOuMdLnhePaqAEHDy39ZFojXM2OtdI8uo3QcYaxvwTz3QM9al5YEBQtkwCKKVc6azrQ4b5DPWisPiXCVHEBt6lKnG)<!--- This is picturing Badges for Science; I like the cross marketing. Are there Badges for Open Leadership? --->
 
 ### Minimum Viable Product (MVP)
 
