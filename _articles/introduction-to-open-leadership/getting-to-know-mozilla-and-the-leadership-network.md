@@ -48,4 +48,4 @@ As you work through the training-- whether you’re using our online interface o
 
 ### {{ site.assignment }} Explore the Network
 
-[Browse Network Pulse](https://mozilla.github.io/network-pulse/), a stream of assets news and stories from the Mozilla network and communities, to find projects with a shared vision, audience, or strategy. This exploration will help you get a better sense of Mozilla's network and the connections you can make within it.
+[Browse Network Pulse](https://www.mozillapulse.org/), a stream of assets news and stories from the Mozilla network and communities, to find projects with a shared vision, audience, or strategy. This exploration will help you get a better sense of Mozilla's network and the connections you can make within it.
