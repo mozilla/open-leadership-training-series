@@ -12,7 +12,7 @@ format: >
 
   *   Do a thinking/writing assignment on your own or with a group
 materials: >
-  *   Pencil and paper or this [editable version of Open Canvas](https://mozillascience.github.io/working-open-workshop/open_canvas/) (if you’d like to work online)
+  *   Pencil and paper or this [editable version of Open Canvas](https://goo.gl/to6PYn) (if you’d like to work online)
 
   *   If you are working in a group, you can use a whiteboard and sticky notes so ideas can be easily shared with all members
 ---
