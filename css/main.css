@@ -28,7 +28,7 @@ h2 {
   margin: 1rem 0;
 }
 
-ol.toc { 
+ol.toc {
   list-style-type: none;
 }
 
@@ -98,7 +98,7 @@ time {
 h3 .assignment:before {
   margin-right: 8px;
   font-size: 1.75rem;
-  
+
 }
 
 .suggest-changes {
@@ -397,7 +397,6 @@ html.no-js .sidebar .collapsible-content {
 
 #content {
   padding:0;
-  max-width:1400px;
 }
 
 #content img {
