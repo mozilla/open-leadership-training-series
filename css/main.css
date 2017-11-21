@@ -397,6 +397,7 @@ html.no-js .sidebar .collapsible-content {
 
 #content {
   padding:0;
+  max-width: 1400px;
 }
 
 #content img {
