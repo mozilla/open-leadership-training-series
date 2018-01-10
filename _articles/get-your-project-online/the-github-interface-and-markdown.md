@@ -45,11 +45,11 @@ Find [more documentation on using Markdown on Daring Fireball](http://daringfire
 
 ### {{ site.assignment }} Get on GitHub!
 
-1.  Sign up.  Start by signing up with Github Online.  You’ll be creating a new account, and joining the larger GitHub community of people working openly. Access the site https://github.com and  fill the form of *sign up for GitHub*.
+1.Sign up.  Start by signing up with Github Online.  You’ll be creating a new account, and joining the larger GitHub community of people working openly. Access the site https://github.com and  fill the form of *sign up for GitHub*.
 
 ![Entering GitHub]({{ site.baseurl }}/img/sign-up-github.png)
 
-2.  Create a Repository, or place to store all your working files . Every project starts by creating a new repository.
+2.Create a Repository, or place to store all your working files . Every project starts by creating a new repository.
 
 ![Create a Repository]({{ site.baseurl }}/img/new-repository.png)
 
@@ -67,7 +67,7 @@ Find [more documentation on using Markdown on Daring Fireball](http://daringfire
 
 ![Creating with README.md file and selecting the license]({{ site.baseurl }}/img/new-repository-license-and-readme.png)    
     
-3.  Your first commit.  Let's start by adding some content to your README.
+3.Your first commit.  Let's start by adding some content to your README.
 
 3.1.  Click on the README.md and then the edit button 
 
@@ -83,4 +83,4 @@ Find [more documentation on using Markdown on Daring Fireball](http://daringfire
 
 3.4.  Hooray! You did it! 👏🏽✨🎉 Your first commit!
 
-4.  Now that you’ve added your first file, go ahead and add another-- put your project Roadmap, which you created in Section 2, up on GitHub as well, using Markdown to format it, as in the previous step. Do the same with your Code Of Conduct and CONTRIBUTING files. Now your project is on the web and ready for collaboration!
+4.Now that you’ve added your first file, go ahead and add another-- put your project Roadmap, which you created in Section 2, up on GitHub as well, using Markdown to format it, as in the previous step. Do the same with your Code Of Conduct and CONTRIBUTING files. Now your project is on the web and ready for collaboration!
