@@ -53,33 +53,34 @@ Find [more documentation on using Markdown on Daring Fireball](http://daringfire
 
 ![Create a Repository]({{ site.baseurl }}/img/new-repository.png)
 
-    1.  Create a project title. Good practice is to either use dashes ("-") or underscores ("_") between words in your title (e.g. my-first-repo or my_first_repo), in the same way you might structure a file name on your desktop. Computers read continuous names more easily than ones punctuated by spaces, so it's nice to reinforce that convention in your file names. You can change the name of this repo later on (under the settings tab) if need be, but if you’re working with a community of contributors it’s best to keep your naming conventions consistent to avoid confusion.
+2.1.  Create a project title. Good practice is to either use dashes ("-") or underscores ("_") between words in your title (e.g. my-first-repo or my_first_repo), in the same way you might structure a file name on your desktop. Computers read continuous names more easily than ones punctuated by spaces, so it's nice to reinforce that convention in your file names. You can change the name of this repo later on (under the settings tab) if need be, but if you’re working with a community of contributors it’s best to keep your naming conventions consistent to avoid confusion.
 
 ![Entering the new repository name]({{ site.baseurl }}/img/new-repository-name.png)
 
-    2.  Write a short description of your repository in the space provided.
+2.2.  Write a short description of your repository in the space provided.
 
 ![Entering the new repository description]({{ site.baseurl }}/img/new-repository-description.png)
     
-    3.  Initialize your repo with a README: check the box the box in the interface to add your very first file, a README, to your brand new repository. GitHub will generate a generic file containing the title and description you wrote in b, above. You’ll add more content to it in step 3, below.
-    4.  Select a license. If you are sure what kind of license you want on your repo, select one here. If you’re not sure, don’t worry! Licences are covered in section 4.5, so you can skip selection for now and add a license after you’ve completed that section. 
-    5. Click in the **create repository** button.
+2.3.  Initialize your repo with a README: check the box the box in the interface to add your very first file, a README, to your brand new repository. GitHub will generate a generic file containing the title and description you wrote in b, above. You’ll add more content to it in step 3, below.
+2.4.  Select a license. If you are sure what kind of license you want on your repo, select one here. If you’re not sure, don’t worry! Licences are covered in section 4.5, so you can skip selection for now and add a license after you’ve completed that section. 
+2.5. Click in the **create repository** button.
 
 ![Creating with README.md file and selecting the license]({{ site.baseurl }}/img/new-repository-license-and-readme.png)    
     
 3.  Your first commit.  Let's start by adding some content to your README.
-    1.  Click on the README.md and then the edit button 
+
+3.1.  Click on the README.md and then the edit button 
 
 ![Edit button]({{ site.baseurl }}/img/edit-button.png) 
 
-    2.  Using the README text you generated in the first module, add Markdown to create any headings, images, links, or lists you need. Note that you can toggle between editing (in markdown) and previewing the changes that markdown makes to the text.
+3.2.  Using the README text you generated in the first module, add Markdown to create any headings, images, links, or lists you need. Note that you can toggle between editing (in markdown) and previewing the changes that markdown makes to the text.
 
 ![Preview changes]({{ site.baseurl }}/img/preview-changes-readme.png) 
 
-    3.  Add a commit message - Your commit message should point to the changes that you've made (e.g. “added content to readme”) and press the commit button! 
+3.3.  Add a commit message - Your commit message should point to the changes that you've made (e.g. “added content to readme”) and press the commit button! 
 
 ![Adding a commit message]({{ site.baseurl }}/img/commit-message.png) 
 
-    4.  Hooray! You did it! 👏🏽✨🎉 Your first commit!
-    
+3.4.  Hooray! You did it! 👏🏽✨🎉 Your first commit!
+
 4.  Now that you’ve added your first file, go ahead and add another-- put your project Roadmap, which you created in Section 2, up on GitHub as well, using Markdown to format it, as in the previous step. Do the same with your Code Of Conduct and CONTRIBUTING files. Now your project is on the web and ready for collaboration!
