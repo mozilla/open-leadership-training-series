@@ -66,7 +66,7 @@ When you think through a pathway, you should begin to realize, what needs to be 
   *   Who is the person you most need in your community or on your project? Think of skills and attributes-- but, since this is an imaginary person, also give them identifying details, a brief life story, etc.
   *   What are that person's motivations and needs? Think of what might draw them to your project, what value they would gain from it, how it fits into their long term goals.
 
-2. Write Create a short written description of your persona. See above "Rashid" for an example. Spend about 4 minutes on this task. If you like, draw a picture of this person!
+2. Create a short written description of your persona. See above "Rashid" for an example. Spend about 4 minutes on this task. If you like, draw a picture of this person!
 3. Plan a Pathway Using the structure above (Discovery → Leadership), describe a pathway for your persona. What are the steps through this project? What could be stumbling blocks for user?
 4. List your Solutions For each potential stumbling block or barrier your user might encounter, list a solution that you'll work into your design of your group or project.
 
