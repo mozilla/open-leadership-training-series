@@ -33,7 +33,7 @@ Take a few minutes to state your vision for your project and community going for
 1. Brainstorm answers to these questions to help you craft your vision statement.
   * <span style="color:red">Who you’re working with, or hope to work with</span>
   * <span style="color:green">What you’re doing</span>
-  * <span style="color:purple">Who you’re doing it for, your audience (may be same as b)</span>
+  * <span style="color:purple">Who you’re doing it for, your audience (may be same as the previous question)</span>
   * <span style="color:blue">Why you’re doing this, the impact or change you hope to make</span>
 
 2. Put your answers together in a short statement
