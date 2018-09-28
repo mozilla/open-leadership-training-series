@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "Write a Code of Conduct"
+title: "Write or Choose a Code of Conduct"
 module: "3.4"
 date: 2016-10-06 14:05:56
 time: "60 min"
 following: _articles/building-communities-of-contributors/write-contributor-guidelines.md
-summary: "Write a Code of Conduct to establish guidelines for how members of your community interact with each other. Your Code of Conduct will help you maintain a diverse, welcoming community."
+summary: "Write or choose Code of Conduct to establish guidelines for how members of your community interact with each other. Your Code of Conduct will help you maintain a diverse, welcoming community."
 prereq: "Have completed all previous sections and modules"
 format: "A writing and thinking assignment (best done with community members, if available)"
 materials: "Pen and paper, sticky notes, or computer to type"
