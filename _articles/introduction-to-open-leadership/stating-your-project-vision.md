@@ -1,12 +1,12 @@
 ---
 layout: page
-title: "Your Project Vision"
+title: "Digital Rights in Africa Report"
 module: "1.4"
 date: 2016-10-06 14:05:56
 time: "15 mins"
 following: _articles/opening-your-project.md
-summary: "Articulate your big idea, vision or dream that you want to achieve by working open, and experiment with expressing your vision in a short format."
-prereq: "Have completed previous modules in this section"
+summary: "Digital Rights in Africa seeks to improve the situation around Internet freedom in Africa through the implementation of Open Practices"
+prereq: "This is an ongoing project, which seeks to develop and grow through the adoption of Open Practices"
 format: >
   *   Read and watch videos on this topic
 
@@ -40,7 +40,7 @@ Take a few minutes to state your vision for your project and community going for
 
     Incorporating your responses, write your vision or mission statement in a short, simple format. Feel free to tweak the format. Color coding is added here for clarity, to indicate each key piece of information and where it appears in the statement:
 
-    > I’m working with <span style="color:red">[community, allies, contributors]</span> to <span style="color:green">[make, build, teach, or do something]</span> so that <span style="color:purple">[audience, end users, consumers, community members]</span> can <span style="color:blue">[do something different, achieve a goal]</span>
+    > I’m working with <span style="color:red">[ a community]</span> to <span style="color:green">[work towards greater Internet Freedom and health in Africa]</span> so that <span style="color:purple">[users of the Internet on the continent]</span> can <span style="color:blue">[have an Internet devoid of Internet censorship and other forms of repression online]</span>
 
     Sample Statement:
 
