@@ -32,6 +32,7 @@ Here’s more about the Open Canvas tool from its creator, Abby Cabunoc Mayes, D
 
 {% include videowrapper.html
   url="https://www.filepicker.io/api/file/LZtI0qVRTDqy0stDOkxX"
+  subs="https://mozilla.github.io/open-leadership-training-series/subs/OpenCanvas-Subs-EN.vtt"
   title="Open Canvas, Abby Cabunoc Mayes" %}
 
 Here’s a sample of an Open Canvas created by Abby for Mozilla Science Lab’s Paper Badger Open Project.
