@@ -34,7 +34,7 @@ Here are some examples of how you can use Markdown.
 *   `-` creates a list item. (e.g. `- First, click on the file called readme.md.`)
 *   `- [ ]` creates a checklist item (e.g. `- [ ] Draft contributor guidelines.`)
 *   Any number starts a numbered list.
-*   You format links like this: `[text](link)`. (e.g. `Visit [our teaching activities page]([https://teach.mozilla.org](https://teach.mozilla.org)).`)
+*   You format links like this: `[text](link)`. (e.g. `Visit [our teaching activities page](https://teach.mozilla.org).`)
 *   You format images like this: `![alt text](image source)`. (e.g. `![kittens](https://pixabay.com/static/uploads/photo/2014/12/03/21/20/kittens-555822_960_720.jpg)`).
 
 ![Github markdown interface with preview]({{ site.baseurl }}/img/github-markdown.png)
