@@ -29,8 +29,8 @@ Here are some examples of how you can use Markdown.
 
 *   `#` creates a top-level heading, like a title. (e.g. `# My README File`)
 *   `## `through `######` create sub-headings like those you might use for different chapters or sections within a larger document. (e.g. `## Part 1: Project Description`)
-*   `*` makes text bold or strong. (e.g. `*Key vocabulary*`)
-*   `**` makes text italic or emphasized. (e.g. `The **internet** is a network of computers.`)
+*   `*` makes text italic or emphasized. (e.g. `The *internet* is a network of computers.`)
+*   `**` makes text bold or strong. (e.g. `**Key vocabulary**`)
 *   `-` creates a list item. (e.g. `- First, click on the file called readme.md.`)
 *   `- [ ]` creates a checklist item (e.g. `- [ ] Draft contributor guidelines.`)
 *   Any number starts a numbered list.
