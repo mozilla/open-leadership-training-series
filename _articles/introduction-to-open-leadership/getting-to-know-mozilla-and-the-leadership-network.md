@@ -23,7 +23,7 @@ This training was developed by the non-profit Mozilla Foundation, with help from
   url="https://www.filepicker.io/api/file/kLlp7wEAQBWJf8emecWo?autoplay=0"
   title="Mozilla And The Firefox Creation Myth, Mark Surman" %}
 
-In addition to developing Firefox and the community of contributors that builds and supports it, Mozilla fights for what we call the “open web.” We’re doing this by championing:
+In addition to developing Firefox and the community of contributors that builds and supports it, Mozilla fights for what we call the “open web”. We’re doing this by championing:
 
 *   **Inclusion:** an accessible, free Internet for all
 *   **Privacy:** user control of their own data on the web
