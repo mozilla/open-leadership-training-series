@@ -42,4 +42,4 @@ Very different projects can be open, but there are some commonalities to open pr
 
 *   A series of **open practices and tools** for planning, project management, mentorship, growing a community and running events, which we’ll cover in this training.
 
-By working open, we can often get far more done (and often done better) than we could working alone. And the knowledge, resources, and tools we generate in our work are more useful and powerful because they’re shared widely. Now that you’ve seen how working open happens in real life, and have a better sense of what’s a project needs to be open, it’s time to explore what it means to actually lead an open project. Continue to the next module to learn more.
+By working open, we can often get far more done (and often done better) than we could working alone. And the knowledge, resources, and tools we generate in our work are more useful and powerful because they’re shared widely. Now that you’ve seen how working open happens in real life, and have a better sense of what a project needs to be open, it’s time to explore what it means to actually lead an open project. Continue to the next module to learn more.

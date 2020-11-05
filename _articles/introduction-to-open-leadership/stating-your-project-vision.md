@@ -24,7 +24,7 @@ Before you jump into section 2, on Opening Your Project, take a few minutes to s
 
 > *Articulate your big idea, vision or dream that you want to achieve by working open, and experiment with expressing your vision in a short format.*
 
-Take a few minutes to state your vision for your project and community going forward. It’s important to be able to say what you plan to do, clearly and concisely, in a short form, to anyone, on a moment’s notice! t.
+Take a few minutes to state your vision for your project and community going forward. It’s important to be able to say what you plan to do, clearly and concisely, in a short form, to anyone, on a moment’s notice!
 
 <!--- placeholder for video --->
 
@@ -33,7 +33,7 @@ Take a few minutes to state your vision for your project and community going for
 1. Brainstorm answers to these questions to help you craft your vision statement.
   * <span style="color:red">Who you’re working with, or hope to work with</span>
   * <span style="color:green">What you’re doing</span>
-  * <span style="color:purple">Who you’re doing it for, your audience (may be same as the previous question)</span>
+  * <span style="color:purple">Who you’re doing it for, your audience (may be same as the first question)</span>
   * <span style="color:blue">Why you’re doing this, the impact or change you hope to make</span>
 
 2. Put your answers together in a short statement
