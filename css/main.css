@@ -1,9 +1,17 @@
 .hero-unit {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #E8AD35;
+  text-align: center;
+}
+
+.hero-unit-backup {
   background-image: url("../img/hero.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  background-color: #175289;
+  background-color: #E8AD35;
   text-align: center;
 }
 
@@ -161,11 +169,11 @@ html.no-js .sidebar .collapsible-content {
 
 .sidebar {
   position: relative;
-  background-color: #4383bf;
+  background-color: #E8AD35;
   position: relative;
   height: auto;
   color: #fff;
-  font-size: 1rem;
+  font-size: 1.2rem;
   padding: 0;
 }
 
@@ -265,7 +273,7 @@ html.no-js .sidebar .collapsible-content {
 
 .sidebar-menu > li > a:hover,
 .sidebar-menu > li > a:focus {
-  background-color: #316DA2;
+  background-color: #AA7C2C;
   transition: background-color 3ms;
 }
 
