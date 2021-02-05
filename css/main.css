@@ -255,7 +255,7 @@ html.no-js .sidebar .collapsible-content {
 }
 
 .sidebar-menu li {
-  font-size: 1rem;
+  font-size: 1.1rem;
 }
 
 .sidebar-menu a {
@@ -266,7 +266,7 @@ html.no-js .sidebar .collapsible-content {
 }
 
 .sidebar-menu > li > a {
-  opacity: .8;
+  opacity: 1;
 }
 
 
@@ -346,7 +346,7 @@ html.no-js .sidebar .collapsible-content {
 .sidebar-menu img {
   float: none;
   width: 2rem;
-  opacity: 0.6;
+  opacity: 0.8;
 }
 
 .sidebar-menu .activities img,
@@ -390,13 +390,13 @@ html.no-js .sidebar .collapsible-content {
   display: inline-block;
   padding: 0 0 0 1rem;
   line-height: 1.25rem;
-  color: rgba(255,255,255,.5);
+  color: rgba(255,255,255,.7);
   font-size:1rem;
   transition: color .15s ease-out;
 }
 
 .sidebar-subitems a:hover {
-  color: rgba(255,255,255,.8);
+  color: rgba(255,255,255,.9);
 }
 
 .sidebar-subitems a.current {
@@ -405,7 +405,7 @@ html.no-js .sidebar .collapsible-content {
 
 .sidebar footer {
   padding: 20px;
-  color: rgba(255,255,255,.5);
+  color: rgba(255,255,255,.6);
   margin: 2rem 0;
 }
 
