@@ -1,8 +1,11 @@
 .hero-unit {
+  background-image:
+    linear-gradient(black, black),
+    url("https://pbs.twimg.com/profile_banners/1204072470766063616/1597256526/1500x500");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  background-color: #E8AD35;
+  background-blend-mode: saturation;
   text-align: center;
 }
 
@@ -41,7 +44,7 @@ ol.toc {
 }
 
 h3 {
-  color: #4383bf;
+  color: #AA7C2C;
   font-weight: 200;
   margin-top: 3rem;
   margin-bottom: 2rem;
@@ -156,8 +159,11 @@ code {
 }
 
 .sidebar-header .moz-logo {
-  width: 100%;
-  max-width: 130px;
+  display: block;
+  width: auto;
+  max-width: 300px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 html.no-js .sidebar .collapsible-content {
@@ -173,7 +179,7 @@ html.no-js .sidebar .collapsible-content {
   position: relative;
   height: auto;
   color: #fff;
-  font-size: 1.2rem;
+  font-size: 1.5rem;
   padding: 0;
 }
 
@@ -283,7 +289,7 @@ html.no-js .sidebar .collapsible-content {
 }
 
 .sidebar-menu li.selected {
-  background-color: #2e5c87;
+  background-color: #AA7C2C;
 }
 
 .sidebar-menu strong {
@@ -427,7 +433,7 @@ blockquote {
   line-height: 2.2rem;
   font-size: 1.25rem;
   border-left: 2px solid rgba(67, 131, 191, 0.3);
-  color: #4383bf;
+  color: #AA7C2C;
 }
 
 body ul, body ol {
@@ -468,8 +474,8 @@ td, th {
 
 a.btn {
   border: none;
-  background: #4383bf;
-  border-bottom: solid 2px #3875a8;
+  background: #E8AD35;
+  border-bottom: solid 2px #fff;
   color: #fff;
   transition: background 0.2s ease-in-out;
   border-radius: 2px;
@@ -482,7 +488,7 @@ a.btn {
 
 a.btn:hover {
   opacity: 1;
-  background: #2f6896;
+  background: #AA7C2C;
   color: #fff;
 }
 
