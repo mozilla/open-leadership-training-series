@@ -4,8 +4,7 @@ title: "OHM Outro"
 module: "8"
 date: 2016-10-06 14:05:56
 contents:
-  - _articles/OHM-outro/part1.md
-following: _articles/OHM-outro/part1.md
+following: _articles/resources.md
 ---
 ### Description
 Congratulations! You are very close to the end of the program. Now it is time to look back and realise what you have built over the last 14 weeks and think how to use the learnings for your current and future projects.

@@ -1,12 +1,10 @@
 ---
 layout: page
-title: "Running Awesome Events"
+title: "Community and Communication"
 module: "7"
 date: 2016-10-06 14:05:56
 contents:
-  - _articles/community-and-communication/part1.md
-  - _articles/community-and-communication/part2.md
-following: _articles/community-and-communication/part1.md
+following: _articles/OHM-outro.md
 ---
 ### Description
 If your project could benefit from having external contributors and a community, then you should make sure it is prepared in a way to attract them and make them feel welcome! Think about your past experiences as a newcomer to a new project. Communication is an important factor in how well others understand what your project is about, especially if they have a different background. Therefore, we will have a look at how you can communicate the different parts of your projects in a positive, jargon-free way.
