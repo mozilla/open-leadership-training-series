@@ -4,13 +4,10 @@ title: "Welcome to OHM"
 module: 1
 date: 2016-10-06 14:05:56
 contents:
-  - _articles/welcome-to-OHM/part1.md
-  - _articles/welcome-to-OHM/part2.md
-  - _articles/welcome-to-OHM/part3.md
-  - _articles/welcome-to-OHM/part4.md
-following: _articles/welcome-to-OHM/part1.md
+
+following: _articles/staging-your-project.md
 ---
-### Content
+### Description
 
 In this first week we will go through what constitutes an open project, how Open Hardware Makers is structured, its main roles and what you will learn during the program. You will get to know your fellow mentees, the mentors supporting you and the organizer team. We will provide you with a brief introduction to the tools and communication channels we’ll be using to get the most out of your program participation.
 

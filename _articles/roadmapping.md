@@ -4,9 +4,7 @@ title: "Roadmapping"
 module: "5"
 date: 2016-10-06 14:05:56
 contents:
-  - _articles/roadmapping/part1.md
-  - _articles/roadmapping/part2.md
-following: _articles/roadmapping/part1.md
+following: _articles/licenses-and-standards.md
 ---
 ### Description
 Thinking about what you eventually want to achieve with your project is a good way to understand what are the core things you need to focus time and energy on. Roadmapping is a tool to visualize this and create defined actionable steps that will help you and contributors to know exactly what to work on and the current stage of development.

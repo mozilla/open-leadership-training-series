@@ -1,11 +1,10 @@
 ---
 layout: page
-title: "Licenses and standards"
+title: "Licenses and Standards"
 module: "6"
 date: 2016-10-06 14:05:56
 contents:
-  - _articles/licenses-and-standards/part1.md
-following: _articles/licenses-and-standards/part1.md
+following: _articles/community-and-communication.md
 ---
 ### Description
 Following an open spirit, we build on top of what others have already done before us. Many people have worked on what openness means for hardware, discussed the minimum requirements for documentation, or how to make projects findable. This week you will take a look into open source hardware licenses, the open hardware certification program (OSHWA Standard), documentation standards (Open Hardware DIN SPEC 3105) and how to make your project easy to find (OpenKnowHow project). These are powerful instruments if we know how to use them; you will then reflect on how these can be useful for your project, and apply them to your work.

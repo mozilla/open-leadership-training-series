@@ -1,13 +1,10 @@
 ---
 layout: page
-title: "Open hardware specifics"
+title: "Open Hardware Specifics"
 module: "4"
 date: 2016-10-06 14:05:56
 contents:
-  - _articles/open-hardware-specifics/part1.md
-  - _articles/open-hardware-specifics/part2.md
-
-following: _articles/open-hardware-specifics/part1.md
+following: _articles/roadmapping.md
 ---
 ### Description
 Documenting open hardware projects isn’t the same as documenting software development. When building a physical object, having a proper description of the materials used and why they were chosen makes it easier for everyone to use it, modify it or replicate it. In this module we take a moment to learn about which aspects of hardware projects need to be made explicit, and the best way to do so. You will then apply this to your own project, to ensure anyone can interact with it in an open way.
