@@ -4,6 +4,7 @@ title: "Building Open Projects"
 module: "3"
 date: 2016-10-06 14:05:56
 contents:
+  - _articles/building-open-projects/template-submodule-1.md
 following: _articles/open-hardware-specifics.md
 ---
 
