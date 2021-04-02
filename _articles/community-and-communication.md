@@ -4,6 +4,9 @@ title: "Community and Communication"
 module: "7"
 date: 2016-10-06 14:05:56
 contents:
+    - _articles/community-and-communication/contribution-mgt.md
+    - _articles/community-and-communication/governance.md
+    - _articles/community-and-communication/outreach.md
 following: _articles/OHM-outro.md
 ---
 ### Description

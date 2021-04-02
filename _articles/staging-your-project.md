@@ -4,6 +4,10 @@ title: "Staging Your Project"
 module: "2"
 date: 2016-10-06 14:05:56
 contents:
+  - _articles/staging-your-project/purpose.md
+  - _articles/staging-your-project/working-smart.md
+  - _articles/staging-your-project/building-blocks.md
+  - _articles/staging-your-project/canvas.md  
 following: _articles/building-open-projects.md
 ---
 ### Description

@@ -4,6 +4,10 @@ title: "Open Hardware Specifics"
 module: "4"
 date: 2016-10-06 14:05:56
 contents:
+    - _articles/open-hardware-specifics/accessible-docs.md
+    - _articles/open-hardware-specifics/bom.md
+    - _articles/open-hardware-specifics/digital-fab.md
+    - _articles/open-hardware-specifics/user-guide.md
 following: _articles/roadmapping.md
 ---
 ### Description

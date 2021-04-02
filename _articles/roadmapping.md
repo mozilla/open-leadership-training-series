@@ -4,6 +4,10 @@ title: "Roadmapping"
 module: "5"
 date: 2016-10-06 14:05:56
 contents:
+    - _articles/roadmapping/define-roadmap.md
+    - _articles/roadmapping/measuring-progress.md
+    - _articles/roadmapping/time-management.md
+    - _articles/roadmapping/evaluating-risks.md
 following: _articles/licenses-and-standards.md
 ---
 ### Description

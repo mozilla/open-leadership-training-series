@@ -4,6 +4,9 @@ title: "OHM Outro"
 module: "8"
 date: 2016-10-06 14:05:56
 contents:
+    - _articles/OHM-outro/reflecting.md
+    - _articles/OHM-outro/self-assessment.md
+    - _articles/OHM-outro/open-pathways.md
 following: _articles/resources.md
 ---
 ### Description

@@ -4,7 +4,11 @@ title: "Welcome to OHM"
 module: 1
 date: 2016-10-06 14:05:56
 contents:
-
+  - _articles/welcome-to-OHM/brief-history.md
+  - _articles/welcome-to-OHM/working-open.md
+  - _articles/welcome-to-OHM/pathways.md
+  - _articles/welcome-to-OHM/program-structure.md
+  - _articles/welcome-to-OHM/guidelines.md
 following: _articles/staging-your-project.md
 ---
 ### Description

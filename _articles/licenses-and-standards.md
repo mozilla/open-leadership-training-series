@@ -4,6 +4,10 @@ title: "Licenses and Standards"
 module: "6"
 date: 2016-10-06 14:05:56
 contents:
+    - _articles/licenses-and-standards/how-licenses-work.md
+    - _articles/licenses-and-standards/oh-licenses.md
+    - _articles/licenses-and-standards/oh-standards.md
+    - _articles/licenses-and-standards/findability.md
 following: _articles/community-and-communication.md
 ---
 ### Description

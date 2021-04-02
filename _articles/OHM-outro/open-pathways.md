@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "Submodule 1"
-module: "3.1"
+title: "Open pathways"
+module: "8.3"
 date: 2016-10-06 14:05:56
 time: "20 min"
-following: _articles/template-module/template-submodule-2.md
+following: _articles/OHM-outro/self-assessment.md
 summary: "This is a template module"
 prereq: "Have completed all previous sections and modules"
 materials: "Pen or pencil and paper"
@@ -12,7 +12,7 @@ materials: "Pen or pencil and paper"
 * TOC
 {:toc}
 
-Text
+including formats here
 
 ### {{ site.assignment }} Do something!
 

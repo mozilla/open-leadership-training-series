@@ -4,7 +4,12 @@ title: "Building Open Projects"
 module: "3"
 date: 2016-10-06 14:05:56
 contents:
-  - _articles/building-open-projects/template-submodule-1.md
+  - _articles/building-open-projects/first-impressions.md
+  - _articles/building-open-projects/version-control.md
+  - _articles/building-open-projects/modularity.md
+  - _articles/building-open-projects/minimal-viable.md
+  - _articles/building-open-projects/docs-for-whom.md
+  - _articles/building-open-projects/responsible-innov.md
 following: _articles/open-hardware-specifics.md
 ---
 
