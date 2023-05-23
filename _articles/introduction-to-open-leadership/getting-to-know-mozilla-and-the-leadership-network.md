@@ -6,7 +6,7 @@ date: 2016-10-06 14:05:56
 time: "20 mins"
 following: _articles/introduction-to-open-leadership/introduction-to-working-open.md
 summary: "This module explains a bit about Mozilla’s history with working open, and introduces Mozilla’s Network."
-prereq: "Have read the Series README file"
+prereq: "Have read the [Series README file](/open-leadership-training-series/articles/readme)"
 format: "Read and watch videos on this topic"
 materials: "None"
 ---
