@@ -34,7 +34,7 @@ In addition to developing Firefox and the community of contributors that builds 
 
 While we are constantly refining our working open practices, we’re excited to share our decades of experience and expertise in this area with you… to help you and your communities create your own amazing projects on the web.
 
-*for more, see [Mozilla’s web literacy map.](https://teach.mozilla.org/web-literacy/)
+*for more, see [Mozilla’s web literacy map.](https://foundation.mozilla.org/en/initiatives/web-literacy/)
 
 ### Meet Mozilla’s Network
 
